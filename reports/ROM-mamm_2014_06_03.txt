@@ -1,0 +1,402 @@
+Report for Institution Code ROM, Resource mamm
+Usage stats for May, 2014, generated on 2014/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 540
+Number of records retrieved in searches: 4734
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 2
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 20
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Germany ; Times: 2
+	Country: Guatemala ; Times: 6
+	Country: Indonesia ; Times: 14
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: Peru ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: United States ; Times: 242
+	Country: Unknown ; Times: 221
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 7
+	Date: 2014-05-02 ; Times: 12
+	Date: 2014-05-03 ; Times: 1
+	Date: 2014-05-05 ; Times: 12
+	Date: 2014-05-06 ; Times: 1
+	Date: 2014-05-07 ; Times: 26
+	Date: 2014-05-08 ; Times: 14
+	Date: 2014-05-09 ; Times: 52
+	Date: 2014-05-10 ; Times: 6
+	Date: 2014-05-11 ; Times: 47
+	Date: 2014-05-12 ; Times: 40
+	Date: 2014-05-13 ; Times: 27
+	Date: 2014-05-14 ; Times: 22
+	Date: 2014-05-15 ; Times: 64
+	Date: 2014-05-16 ; Times: 133
+	Date: 2014-05-17 ; Times: 6
+	Date: 2014-05-18 ; Times: 3
+	Date: 2014-05-19 ; Times: 1
+	Date: 2014-05-20 ; Times: 4
+	Date: 2014-05-21 ; Times: 10
+	Date: 2014-05-22 ; Times: 2
+	Date: 2014-05-23 ; Times: 16
+	Date: 2014-05-24 ; Times: 2
+	Date: 2014-05-25 ; Times: 2
+	Date: 2014-05-26 ; Times: 2
+	Date: 2014-05-27 ; Times: 6
+	Date: 2014-05-28 ; Times: 1
+	Date: 2014-05-29 ; Times: 16
+	Date: 2014-05-30 ; Times: 4
+	Date: 2014-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 16
+	Query: "genus:Eulemur (skull)" ; Times: 1
+	Query: "Myotis csorbai" ; Times: 1
+	Query: "Tonatia saurophila" ; Times: 2
+	Query: "indri" ; Times: 1
+	Query: "Chaetophractus" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 1
+	Query: "ROM 48503" ; Times: 1
+	Query: "mirza" ; Times: 1
+	Query: "Myotis ricketti" ; Times: 1
+	Query: "Acomys ignitus" ; Times: 1
+	Query: "Miniopterus africanus" ; Times: 1
+	Query: "ROM 42567" ; Times: 1
+	Query: "Mus cookii" ; Times: 1
+	Query: "Mus sorella" ; Times: 1
+	Query: "Chrotopterus" ; Times: 1
+	Query: "Chalinolobus picatus" ; Times: 1
+	Query: "Miniopterus sororculus" ; Times: 1
+	Query: ""bison bison"" ; Times: 2
+	Query: "Myotis bombinus" ; Times: 1
+	Query: "Pteropus speciosus" ; Times: 1
+	Query: "Alouatta macconnelli" ; Times: 1
+	Query: "Chlorocebus pygerythrus" ; Times: 2
+	Query: "country:"Panama" genus:Chiroderma" ; Times: 1
+	Query: "Bauerus dubiaquercus" ; Times: 6
+	Query: "Lasiurus minor" ; Times: 1
+	Query: "Glauconycteris egeria" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 2
+	Query: "Rhinolophus rufus" ; Times: 1
+	Query: "Sylvisorex granti" ; Times: 1
+	Query: "Pteropus rufus" ; Times: 1
+	Query: "country:"Panama" specificepithet:aztecus genus:Artibeus" ; Times: 1
+	Query: "Pteropus institutioncode:ROM" ; Times: 1
+	Query: "trichechus" ; Times: 11
+	Query: "Peromyscus levipes" ; Times: 2
+	Query: "Corynorhinus mexicanus" ; Times: 1
+	Query: "stateprovince:"Bocas del Toro" country:"Panama" class:Mammalia" ; Times: 1
+	Query: "Odocoileus" ; Times: 3
+	Query: "Phyllonycteris poeyi" ; Times: 1
+	Query: "genus:Speothos year <= 2014" ; Times: 1
+	Query: "arborimus albipes" ; Times: 2
+	Query: "cebus" ; Times: 17
+	Query: "Pteropus country:"India"" ; Times: 1
+	Query: "Suncus stoliczkanus" ; Times: 1
+	Query: "ROM 63868" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 3
+	Query: "Myotis mystacinus" ; Times: 1
+	Query: "Cetacea institutioncode:ROM" ; Times: 5
+	Query: "Mus terricolor" ; Times: 1
+	Query: "Apodemus gurkha" ; Times: 1
+	Query: "Myotis gomantongensis" ; Times: 1
+	Query: "genus:panthera year >= 1970 year <= 2014" ; Times: 2
+	Query: "ROM 69015" ; Times: 1
+	Query: "genus:Mustela institutioncode:ROM" ; Times: 1
+	Query: "Megalomys desmarestii" ; Times: 1
+	Query: "Mimon cozumelae" ; Times: 1
+	Query: "Rhipidomys leucodactylus" ; Times: 1
+	Query: "Proboscidea" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 2
+	Query: "Ateles belzebuth" ; Times: 3
+	Query: "Blanfordimys afghanus" ; Times: 1
+	Query: "cebus apella" ; Times: 2
+	Query: "Camelus AND (NOT Aves)" ; Times: 3
+	Query: "panthera onca" ; Times: 6
+	Query: "Tamandua" ; Times: 1
+	Query: "myotis sodalis" ; Times: 1
+	Query: "Callosciurus finlaysonii" ; Times: 1
+	Query: "alouatta" ; Times: 3
+	Query: "class:Mammalia pteronura" ; Times: 7
+	Query: "cryptotis nigrescens" ; Times: 2
+	Query: "Nesoryzomys swarthi" ; Times: 1
+	Query: "ara" ; Times: 1
+	Query: "Tylomys nudicaudus" ; Times: 1
+	Query: "daubentonia" ; Times: 6
+	Query: "msu mammalogy" ; Times: 1
+	Query: "lama year >= 1970" ; Times: 1
+	Query: ""lasiurus borealis" year >= 1970 year <= 1972" ; Times: 1
+	Query: "Rhinophylla alethina" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "vicugna" ; Times: 6
+	Query: "specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "genus:Speothos" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 2
+	Query: "recordedby:K. Racey" ; Times: 2
+	Query: "Pteropus" ; Times: 5
+	Query: "stateprovince:"morelos" country:"mexico" class:mammalia" ; Times: 5
+	Query: "Microtus irani" ; Times: 1
+	Query: "country:"Panama" genus:Eumops" ; Times: 1
+	Query: "Ochotona curzoniae" ; Times: 1
+	Query: "Pudu" ; Times: 1
+	Query: "ROM 56243" ; Times: 1
+	Query: "Neacomys paracou" ; Times: 1
+	Query: "Allactaga major" ; Times: 1
+	Query: "Oryzomys perenensis" ; Times: 1
+	Query: "specificepithet:belzebuth genus:ateles year >= 1970 year <= 2014" ; Times: 2
+	Query: "genus:Tarsius" ; Times: 1
+	Query: "Bolomys lasiurus" ; Times: 1
+	Query: "Marmosops pinheiroi" ; Times: 1
+	Query: "Myotis hosonoi" ; Times: 1
+	Query: "ROM 59141" ; Times: 1
+	Query: "Miniopterus paululus" ; Times: 1
+	Query: "ROM 71305" ; Times: 1
+	Query: "Kerivoula smithii" ; Times: 1
+	Query: "Pteropus country:"Madagascar"" ; Times: 1
+	Query: "specificepithet:townsendii genus:scapanus mappable:1" ; Times: 1
+	Query: "Chlorocebus sabaeus" ; Times: 1
+	Query: "moschus" ; Times: 1
+	Query: "Miniopterus manavi" ; Times: 1
+	Query: "Sigmodon toltecus" ; Times: 1
+	Query: "Miniopterus majori" ; Times: 1
+	Query: "Hylomyscus baeri" ; Times: 1
+	Query: "Sirenia" ; Times: 1
+	Query: "Rhinolophus deckenii" ; Times: 1
+	Query: "Spermophilus saturatus" ; Times: 1
+	Query: "Ateles hybridus" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 2
+	Query: "Eulemur" ; Times: 1
+	Query: "SAIMIRI" ; Times: 6
+	Query: "Sigmodontomys alfari" ; Times: 1
+	Query: "Rhinolophus hillorum" ; Times: 1
+	Query: "hydrochaeris" ; Times: 2
+	Query: "Cryptotis parva" ; Times: 1
+	Query: "(latifolius)" ; Times: 1
+	Query: "cetacea institutioncode:ROM mappable:1" ; Times: 1
+	Query: "specificepithet:chrotorrhinus genus:Microtus" ; Times: 1
+	Query: "Otomys tropicalis" ; Times: 1
+	Query: "Neacomys dubosti" ; Times: 1
+	Query: "Myotis macropus" ; Times: 2
+	Query: "Rhinolophus monoceros" ; Times: 2
+	Query: "cardioderma cor" ; Times: 1
+	Query: "type:specimen (latifolius)" ; Times: 1
+	Query: "Micoureus phaeus" ; Times: 1
+	Query: "Miniopterus gleni" ; Times: 1
+	Query: "Myotis chiloensis" ; Times: 2
+	Query: "sylvilagus brasiliensis" ; Times: 42
+	Query: "Lemniscomys zebra" ; Times: 1
+	Query: "Crocidura denti" ; Times: 1
+	Query: "country:"Bolivia" genus:Odocoileus" ; Times: 4
+	Query: "Dicrostonyx richardsoni" ; Times: 2
+	Query: "ROM 45812" ; Times: 1
+	Query: "Pteropus country:"Australia"" ; Times: 2
+	Query: "tayassu pecari" ; Times: 1
+	Query: "genus:ateles year >= 1970 year <= 2014" ; Times: 2
+	Query: "Pteropus country:"Malaysia"" ; Times: 1
+	Query: "country:"Ecuador" genus:ateles year >= 1970 year <= 2014" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "Peromyscus mayensis" ; Times: 1
+	Query: "Lagothrix lugens" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "ROM 76554" ; Times: 1
+	Query: "myotis velifer stateprovince:"kansas"" ; Times: 1
+	Query: "Nyctalus montanus" ; Times: 1
+	Query: "ateles" ; Times: 2
+	Query: "ROM 36402" ; Times: 1
+	Query: "Acomys dimidiatus" ; Times: 1
+	Query: "Malacomys cansdalei" ; Times: 1
+	Query: "Otomys typus" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 2
+	Query: "Chiropotes chiropotes" ; Times: 1
+	Query: "ALBIGULARIS" ; Times: 1
+	Query: "country:"Ecuador" specificepithet:belzebuth genus:ateles year >= 1970 year <= 2014" ; Times: 1
+	Query: "pteropus" ; Times: 3
+	Query: "Myotis simus" ; Times: 1
+	Query: "ROM 81216" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "lemur catta" ; Times: 2
+	Query: "genus:Ateles year >= 1970 year <= 2014" ; Times: 2
+	Query: "Potos flavus" ; Times: 9
+	Query: "Mus saxicola" ; Times: 1
+	Query: "Nectomys magdalenae" ; Times: 1
+	Query: "Cebus apella 1985" ; Times: 1
+	Query: "Sorex maritimensis" ; Times: 1
+	Query: "country:"Panama" specificepithet:brevicauda genus:Carollia" ; Times: 1
+	Query: "ROM 76243" ; Times: 1
+	Query: "Thyroptera lavali" ; Times: 1
+	Query: "Panthera" ; Times: 8
+	Query: "Lagothrix poeppigii" ; Times: 1
+	Query: "Vandeleuria oleracea" ; Times: 1
+	Query: "manis tricuspis" ; Times: 1
+	Query: "Myotis martiniquensis" ; Times: 1
+	Query: "ROM 83008" ; Times: 1
+	Query: "genus:Tarsius tarsier" ; Times: 5
+	Query: "Daubentonia" ; Times: 3
+	Query: "Alouatta" ; Times: 1
+	Query: "Nyctophilus geoffroyi" ; Times: 1
+	Query: "Monotremata" ; Times: 2
+	Query: "saimiri" ; Times: 2
+	Query: "Menetes berdmorei" ; Times: 1
+	Query: "marsupialia" ; Times: 2
+	Query: "ROM 57125" ; Times: 1
+	Query: "Miopithecus ogouensis" ; Times: 1
+	Query: "Laephotis angolensis" ; Times: 1
+	Query: "Rhinopoma macinnesi" ; Times: 1
+	Query: "Oryctolagus" ; Times: 2
+	Query: "class:Mammalia catalognumber:110155" ; Times: 1
+	Query: "Trichechus" ; Times: 1
+	Query: "country:"costa rica" genus:panthera" ; Times: 1
+	Query: "Miniopterus fuscus" ; Times: 1
+	Query: "vampyrum" ; Times: 2
+	Query: "Grammomys buntingi" ; Times: 1
+	Query: "hapalemur griseus" ; Times: 6
+	Query: "muscardinus avellanarius" ; Times: 4
+	Query: "ALBIGULARIS type:specimen" ; Times: 2
+	Query: "Cricetulus alticola" ; Times: 1
+	Query: "genus:Castor institutioncode:ROM" ; Times: 2
+	Query: "ROM 42713" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "myotis vivesi" ; Times: 1
+	Query: "f37523" ; Times: 1
+	Query: "Oecomys auyantepui" ; Times: 1
+	Query: "Choloepus hoffmanni Panama" ; Times: 1
+	Query: "country:"Panama" specificepithet:keaysi genus:Myotis" ; Times: 1
+	Query: "catalognumber:36290 institutioncode:ROM" ; Times: 5
+	Query: "didelphis marsupialis" ; Times: 30
+	Query: "recordedby:Wallace institutioncode:ROM" ; Times: 2
+	Query: "Eptesicus chiriquinus" ; Times: 1
+	Query: "Arvicola scherman" ; Times: 1
+	Query: "Chalinolobus tuberculatus" ; Times: 1
+	Query: "country:"Panama" specificepithet:toltecus genus:Artibeus" ; Times: 1
+	Query: "tapirus" ; Times: 2
+	Query: "Cebus apella 1971" ; Times: 1
+	Query: "Dobsonia chapmani" ; Times: 1
+	Query: "Hyladelphys kalinowskii" ; Times: 1
+	Query: "country:"Panama" specificepithet:riparius genus:Myotis" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 2
+	Query: "Chrotopterus auritus institutioncode:ROM" ; Times: 1
+	Query: "Lasiurus xanthinus" ; Times: 1
+	Query: "Sorex bedfordiae" ; Times: 1
+	Query: "country:"bolivia" genus:Panthera year >= 1970 year <= 2014" ; Times: 2
+	Query: "country:"ecuador" genus:sylvilagus year >= 1970 year <= 2014" ; Times: 1
+	Query: "Cebus apella" ; Times: 1
+	Query: "Lagothrix cana" ; Times: 1
+	Query: "class:Mammalia Phyllostomus latifolius" ; Times: 2
+	Query: "Crocidura parvipes" ; Times: 1
+	Query: "Pteropus capistratus" ; Times: 1
+	Query: "xerus rutilus" ; Times: 3
+	Query: "ROM 56160" ; Times: 1
+	Query: "Lepus alleni" ; Times: 3
+	Query: "dasyprocta" ; Times: 1
+	Query: "Miniopterus minor" ; Times: 1
+	Query: "tayassu tajacu" ; Times: 32
+	Query: "country:"Ecuador" genus:Ateles year >= 1970 year <= 2014" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 4
+	Query: "Murina hilgendorfi" ; Times: 1
+	Query: "ROM 81223" ; Times: 1
+	Query: "dasypus" ; Times: 1
+	Query: "scolomys melanops" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "genus:castor institutioncode:ROM" ; Times: 1
+	Query: "ROM 55647" ; Times: 1
+	Query: "Cebus albifrons" ; Times: 2
+	Query: "Platalina genovensium" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 2
+	Query: "Sturnira thomasi" ; Times: 1
+	Query: "specificepithet:tigris genus:panthera" ; Times: 2
+	Query: "country:"Panama" genus:Vampyrodes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1679 download events in this period)
+Total number of records downloaded: 7265 (out of 895475 records downloaded for all resources in this period)
+Total number of unique records downloaded: 7158
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 1
+	Country: China ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 19
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 2
+	Date: 2014-05-02 ; Times: 2
+	Date: 2014-05-05 ; Times: 11
+	Date: 2014-05-06 ; Times: 1
+	Date: 2014-05-16 ; Times: 1
+	Date: 2014-05-17 ; Times: 1
+	Date: 2014-05-21 ; Times: 2
+	Date: 2014-05-22 ; Times: 1
+	Date: 2014-05-23 ; Times: 4
+	Date: 2014-05-25 ; Times: 1
+	Date: 2014-05-27 ; Times: 4
+	Date: 2014-05-29 ; Times: 3
+	Date: 2014-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "zalophus" ; Times: 1
+	Query: "oligoryzomys nigripes" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus year >= 1980 year <= 2014" ; Times: 1
+	Query: "Pteropus institutioncode:ROM" ; Times: 1
+	Query: "Tamias type:specimen AND (NOT striatus NOT sibiricus) year >= 1800 year <= 2005" ; Times: 1
+	Query: "type:specimen county:"Clark" stateprovince:"Nevada" class:mammalia" ; Times: 1
+	Query: "type:specimen county:"Butte" stateprovince:"California" class:Mammalia" ; Times: 1
+	Query: "stateprovince:"morelos" country:"mexico" class:mammalia" ; Times: 1
+	Query: "puma concolor type:specimen" ; Times: 1
+	Query: "Artiodactyla" ; Times: 1
+	Query: "Proboscidea" ; Times: 1
+	Query: "Bolomys lasiurus" ; Times: 1
+	Query: "Primates" ; Times: 1
+	Query: "genus:castor institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:chrotorrhinus genus:Microtus" ; Times: 1
+	Query: "cricetomys" ; Times: 1
+	Query: "Chaetodipus intermedius" ; Times: 1
+	Query: "ursus" ; Times: 1
+	Query: "class:Mammalia Phyllostomus latifolius" ; Times: 1
+	Query: "Phodopus campbelli" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.16295449004889,-118.00277709960938))<8154.80069913644" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "marsupialia" ; Times: 1
+	Query: "type:specimen county:"Plumas" stateprovince:"California" class:Mammalia" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(34.164090803573146,-118.00689697265625))<8170.3746424486" ; Times: 1
+	Query: "Daubentonia" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "tadarida" ; Times: 1
+	Query: "Monotremata" ; Times: 5
+	Query: "type:specimen county:"Tehama" stateprovince:"California" class:Mammalia" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 672
+Total number of records retrieved from searches: 5714
+Number of download events that retrieved data from the resource: 92
+Total number of records downloaded: 21238
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 672
+Total number of records retrieved from searches: 5714
+Number of download events that retrieved data from the resource: 92
+Total number of records downloaded: 21238
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
