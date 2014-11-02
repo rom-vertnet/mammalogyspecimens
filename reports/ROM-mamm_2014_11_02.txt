@@ -1,0 +1,225 @@
+Report for Institution Code ROM, Resource mamm
+Usage stats for October, 2014, generated on 2014/11/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 125
+Number of records retrieved in searches: 1344
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Colombia ; Times: 4
+	Country: Czech Republic ; Times: 1
+	Country: Finland ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 24
+	Country: Russia ; Times: 2
+	Country: Spain ; Times: 2
+	Country: Thailand ; Times: 1
+	Country: United States ; Times: 74
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-10 ; Times: 18
+	Date: 2014-10-11 ; Times: 1
+	Date: 2014-10-13 ; Times: 4
+	Date: 2014-10-14 ; Times: 13
+	Date: 2014-10-15 ; Times: 3
+	Date: 2014-10-16 ; Times: 7
+	Date: 2014-10-17 ; Times: 4
+	Date: 2014-10-18 ; Times: 6
+	Date: 2014-10-19 ; Times: 5
+	Date: 2014-10-20 ; Times: 14
+	Date: 2014-10-21 ; Times: 11
+	Date: 2014-10-22 ; Times: 19
+	Date: 2014-10-23 ; Times: 4
+	Date: 2014-10-25 ; Times: 1
+	Date: 2014-10-26 ; Times: 1
+	Date: 2014-10-27 ; Times: 3
+	Date: 2014-10-28 ; Times: 6
+	Date: 2014-10-29 ; Times: 2
+	Date: 2014-10-30 ; Times: 1
+	Date: 2014-10-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Canis lupus mappable:1" ; Times: 1
+	Query: "Glaucomys sabrinus year >= 1950 year <= 1960" ; Times: 1
+	Query: "meles meles" ; Times: 1
+	Query: "caluromys" ; Times: 4
+	Query: "Uroderma magnirostrum" ; Times: 1
+	Query: "speothos" ; Times: 1
+	Query: "catalognumber:95880 institutioncode:rom" ; Times: 3
+	Query: "cerdocyon thous" ; Times: 1
+	Query: "crocuta crocuta" ; Times: 1
+	Query: "chiroptera "American Museum of Natural History"" ; Times: 1
+	Query: "hyaena hyaena" ; Times: 1
+	Query: "year >= 1866 year <= 1866 AND (NOT Jamaica)" ; Times: 4
+	Query: "cougar concolor" ; Times: 2
+	Query: "didelphis albiventris" ; Times: 2
+	Query: "marmosa mexicana" ; Times: 3
+	Query: "cebus" ; Times: 1
+	Query: "Molossus molossus coibensis" ; Times: 1
+	Query: "Nyctinomops macrotis" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 4
+	Query: "cavia porcellus" ; Times: 4
+	Query: "chiroptera (Indonesia) year >= 1800 year <= 1950" ; Times: 1
+	Query: "aethomys chrysophilus" ; Times: 1
+	Query: ""thyroptera tricolor"" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "Semnopithecus entellus" ; Times: 1
+	Query: "lacm herpestidae" ; Times: 1
+	Query: "monotremata" ; Times: 1
+	Query: "trichechus manatus" ; Times: 3
+	Query: "panthera onca colombia" ; Times: 1
+	Query: "Thyroptera tricolor" ; Times: 2
+	Query: "catalognumber:83790 institutioncode:rom" ; Times: 2
+	Query: "Myrmecophaga" ; Times: 1
+	Query: "antilocapra (skull)" ; Times: 1
+	Query: "acerodon jubatus" ; Times: 1
+	Query: ""Thyroptera tricolor" type:specimen" ; Times: 1
+	Query: "Eumops glaucinus" ; Times: 1
+	Query: "Tarsius bancanus" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "tlacuatzin canescens" ; Times: 1
+	Query: ""Thyroptera tricolor"" ; Times: 2
+	Query: "SIGMODONTOMYS" ; Times: 1
+	Query: "semnopithecus entellus" ; Times: 1
+	Query: "Alces alces" ; Times: 2
+	Query: "Coendou prehensilis type:specimen" ; Times: 1
+	Query: "Macrotus waterhousii" ; Times: 1
+	Query: ""Melogale personata"" ; Times: 2
+	Query: "Dasypus" ; Times: 1
+	Query: "thyroptera tricolor" ; Times: 5
+	Query: "Brachycephalus" ; Times: 1
+	Query: "lacm viverridae" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "Reithrodontomys spectabilis" ; Times: 1
+	Query: "country:"Guyana"" ; Times: 3
+	Query: "Lepus townsendii" ; Times: 4
+	Query: "thylacinus" ; Times: 1
+	Query: "Tadarida macrotis" ; Times: 1
+	Query: "puma concolor colombia" ; Times: 2
+	Query: "type:specimen country:"Guyana"" ; Times: 1
+	Query: "chiroptera (Indonesia) year >= 1980 year <= 2014" ; Times: 1
+	Query: "tarsier" ; Times: 2
+	Query: "Crocuta crocuta mappable:1" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Proechimys semispinosus" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "Nyctinomops femorosaccus" ; Times: 1
+	Query: "Semnopithecus entellus mappable:1" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Artibeus hirsutus" ; Times: 2
+	Query: "Cervus canadensis" ; Times: 3
+	Query: "nmnh" ; Times: 2
+	Query: "chiroptera (Indonesia)" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 2
+	Query: "Molossus coibensis" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 6
+	Query: "Liomys salvini" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Nasua" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 166 download events in this period)
+Total number of records downloaded: 2261 (out of 1059512 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2079
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 30
+	Country: Paraguay ; Times: 1
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-13 ; Times: 1
+	Date: 2014-10-14 ; Times: 2
+	Date: 2014-10-16 ; Times: 3
+	Date: 2014-10-18 ; Times: 1
+	Date: 2014-10-19 ; Times: 1
+	Date: 2014-10-20 ; Times: 2
+	Date: 2014-10-21 ; Times: 8
+	Date: 2014-10-22 ; Times: 17
+	Date: 2014-10-24 ; Times: 2
+	Date: 2014-10-25 ; Times: 6
+	Date: 2014-10-27 ; Times: 1
+	Date: 2014-10-28 ; Times: 2
+	Date: 2014-10-30 ; Times: 3
+	Date: 2014-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Canis lupus mappable:1" ; Times: 1
+	Query: "nasua narica mappable:1" ; Times: 1
+	Query: "Uroderma magnirostrum" ; Times: 1
+	Query: "nasua narica country:"Mexico"" ; Times: 1
+	Query: "nasua nasua mappable:1" ; Times: 1
+	Query: "Molossus molossus coibensis" ; Times: 2
+	Query: "Nyctinomops macrotis" ; Times: 1
+	Query: "Psammomys" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "Tlacuatzin canescens" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "tonatia saurophila" ; Times: 1
+	Query: "octodontidae" ; Times: 1
+	Query: "Sorex ornatus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Spilogale gracilis" ; Times: 1
+	Query: "Artibeus toltecus" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Microdipodops pallidus" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "Coendou prehensilis type:specimen" ; Times: 1
+	Query: "Macrotus waterhousii" ; Times: 1
+	Query: "thyroptera tricolor" ; Times: 1
+	Query: "Lasiurus xanthinus" ; Times: 1
+	Query: "Europe country:"France" mappable:1" ; Times: 1
+	Query: "Paraguay" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "Molossus coibensis" ; Times: 1
+	Query: "Liomys salvini" ; Times: 1
+	Query: "Didelphis Virginiana" ; Times: 1
+	Query: "Marmosa canescens" ; Times: 1
+	Query: "Crocuta crocuta mappable:1" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "Nyctinomops femorosaccus" ; Times: 1
+	Query: "Semnopithecus entellus mappable:1" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Chiroderma salvini" ; Times: 1
+	Query: "Eumops glaucinus" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "Proechimys semispinosus" ; Times: 1
+	Query: "Onychomys leucogaster mappable:1" ; Times: 1
+	Query: "Rhogeessa parvula" ; Times: 1
+	Query: "onychomys leucogaster" ; Times: 1
+	Query: "Chaetodipus hispidus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1804
+Total number of records retrieved from searches: 16078
+Number of download events that retrieved data from the resource: 386
+Total number of records downloaded: 148996
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1804
+Total number of records retrieved from searches: 16078
+Number of download events that retrieved data from the resource: 386
+Total number of records downloaded: 148996
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
