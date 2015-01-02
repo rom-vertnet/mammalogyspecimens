@@ -1,0 +1,217 @@
+Report for Institution Code ROM, Resource mamm
+Usage stats for December, 2014, generated on 2015/01/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 120
+Number of records retrieved in searches: 622
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 13
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: India ; Times: 6
+	Country: Mexico ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Singapore ; Times: 5
+	Country: Spain ; Times: 3
+	Country: Sweden ; Times: 2
+	Country: United Kingdom ; Times: 5
+	Country: United States ; Times: 71
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-12-01 ; Times: 8
+	Date: 2014-12-02 ; Times: 7
+	Date: 2014-12-03 ; Times: 11
+	Date: 2014-12-04 ; Times: 8
+	Date: 2014-12-05 ; Times: 11
+	Date: 2014-12-06 ; Times: 2
+	Date: 2014-12-07 ; Times: 2
+	Date: 2014-12-08 ; Times: 4
+	Date: 2014-12-09 ; Times: 4
+	Date: 2014-12-10 ; Times: 3
+	Date: 2014-12-11 ; Times: 1
+	Date: 2014-12-13 ; Times: 9
+	Date: 2014-12-14 ; Times: 1
+	Date: 2014-12-15 ; Times: 12
+	Date: 2014-12-16 ; Times: 5
+	Date: 2014-12-18 ; Times: 3
+	Date: 2014-12-19 ; Times: 3
+	Date: 2014-12-21 ; Times: 2
+	Date: 2014-12-22 ; Times: 1
+	Date: 2014-12-25 ; Times: 2
+	Date: 2014-12-26 ; Times: 15
+	Date: 2014-12-27 ; Times: 1
+	Date: 2014-12-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "sylvilagus brasiliensis" ; Times: 4
+	Query: "puma concolor type:specimen (New York )" ; Times: 1
+	Query: "sylvilagus brasiliensis country:"colombia"" ; Times: 1
+	Query: "catalognumber:18629 (Mammalia)" ; Times: 1
+	Query: "panthera" ; Times: 2
+	Query: "mustela nivalis" ; Times: 2
+	Query: "neacomys" ; Times: 3
+	Query: "Ceratotherium simum" ; Times: 3
+	Query: "thylacinus cynocephalus" ; Times: 7
+	Query: "didelphis albiventris" ; Times: 5
+	Query: "pteropus giganteus" ; Times: 1
+	Query: "elephantidae" ; Times: 2
+	Query: "manis javanica type:specimen" ; Times: 2
+	Query: "Myonycteris torquata" ; Times: 2
+	Query: "stateprovince:"Nunavut"" ; Times: 1
+	Query: "zanzibar" ; Times: 1
+	Query: "Leptonycteris county:"Pima" stateprovince:"Arizona"" ; Times: 1
+	Query: "Phascolarctos cinereus" ; Times: 1
+	Query: "eira barbara" ; Times: 3
+	Query: "ROM Equus type:specimen" ; Times: 2
+	Query: "Vombatus" ; Times: 1
+	Query: "Aonyx" ; Times: 1
+	Query: "Diceros bicornis" ; Times: 2
+	Query: "papio" ; Times: 1
+	Query: "Ochotona princeps type:specimen county:"Mono" stateprovince:"California" country:"USA"" ; Times: 1
+	Query: "ECHINOPROCTA" ; Times: 2
+	Query: "nycticeius humeralis" ; Times: 1
+	Query: "sylvilagus brasiliensis type:specimen country:"colombia"" ; Times: 3
+	Query: "Hydrictis" ; Times: 2
+	Query: "puma new york" ; Times: 1
+	Query: "Mindomys" ; Times: 1
+	Query: "Pteronura" ; Times: 1
+	Query: ""procyon lotor" stateprovince:"texas"" ; Times: 3
+	Query: "lepus townsendii" ; Times: 1
+	Query: "Geomys pinetis" ; Times: 1
+	Query: "cynopterus sphinx" ; Times: 6
+	Query: ""phoca vitulina"" ; Times: 1
+	Query: "sphiggurus" ; Times: 1
+	Query: "Coendou prehensilis type:specimen" ; Times: 1
+	Query: "Rom Equus" ; Times: 1
+	Query: ""Cryptotis parva" stateprovince:"Texas"" ; Times: 1
+	Query: "country:"Sweden"" ; Times: 2
+	Query: ""spermophilus mexicanus" stateprovince:"texas"" ; Times: 2
+	Query: "hylobates" ; Times: 1
+	Query: "elephas maximus" ; Times: 1
+	Query: "manis type:specimen country:"Singapore"" ; Times: 3
+	Query: "coendou" ; Times: 1
+	Query: "Megalomys" ; Times: 1
+	Query: "Epomops franqueti" ; Times: 1
+	Query: "thylacinus" ; Times: 2
+	Query: ""Nyctinomops macrotis" stateprovince:"Texas"" ; Times: 2
+	Query: "ruwenzorii" ; Times: 1
+	Query: "Myotis velifer county:"Pima" stateprovince:"Arizona"" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Baiomys taylori" ; Times: 1
+	Query: "catalognumber:18629 (Mammal)" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "choloepus didactylus" ; Times: 1
+	Query: "Ochotona princeps type:specimen stateprovince:"California" country:"USA"" ; Times: 3
+	Query: "thyroptera" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 2
+	Query: "puma concolor" ; Times: 2
+	Query: "sylvilagus brasiliensis type:specimen country:"ecuador"" ; Times: 1
+	Query: "megalomys" ; Times: 1
+	Query: "phylloderma" ; Times: 1
+	Query: "catalognumber:105930 institutioncode:ROM" ; Times: 1
+	Query: "Microtus californicus paludicola stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "Chaetophractus villosus" ; Times: 1
+	Query: "rhynchocyon" ; Times: 1
+	Query: "Antrozous county:"Pima" stateprovince:"Arizona"" ; Times: 1
+	Query: "Puma concolor new york" ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 238 download events in this period)
+Total number of records downloaded: 4534 (out of 1054698 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3877
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 33
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-12-02 ; Times: 1
+	Date: 2014-12-03 ; Times: 5
+	Date: 2014-12-04 ; Times: 3
+	Date: 2014-12-05 ; Times: 2
+	Date: 2014-12-06 ; Times: 1
+	Date: 2014-12-08 ; Times: 1
+	Date: 2014-12-09 ; Times: 1
+	Date: 2014-12-10 ; Times: 2
+	Date: 2014-12-15 ; Times: 3
+	Date: 2014-12-16 ; Times: 1
+	Date: 2014-12-18 ; Times: 4
+	Date: 2014-12-19 ; Times: 1
+	Date: 2014-12-22 ; Times: 2
+	Date: 2014-12-23 ; Times: 1
+	Date: 2014-12-24 ; Times: 5
+	Date: 2014-12-26 ; Times: 1
+	Date: 2014-12-27 ; Times: 1
+	Date: 2014-12-28 ; Times: 2
+	Date: 2014-12-30 ; Times: 1
+	Date: 2014-12-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "county:"Socorro" stateprovince:"New Mexico"" ; Times: 1
+	Query: "Spermophilus beldingi beldingi stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "neacomys" ; Times: 1
+	Query: "didelphis albiventris" ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 1
+	Query: "county:"Coconino" stateprovince:"Arizona"" ; Times: 1
+	Query: "Arborimus pomo year <= 2014 mappable:1" ; Times: 1
+	Query: "chiroptera panama" ; Times: 1
+	Query: "peromyscus leucopus" ; Times: 1
+	Query: "wyoming" ; Times: 1
+	Query: "chiroptera stateprovince:"New Mexico" year <= 1959" ; Times: 1
+	Query: "spermophilus beecheyi" ; Times: 1
+	Query: "sciurus griseus" ; Times: 1
+	Query: "Arborimus pomo stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "tamiasciurus douglasii" ; Times: 1
+	Query: "Vulpes lagopus year >= 1950 year <= 2014" ; Times: 1
+	Query: "Coendou prehensilis type:specimen" ; Times: 1
+	Query: "peromyscus eremicus stateprovince:"california"" ; Times: 1
+	Query: "Vulpes macrotis mutica stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "Myotis velifer county:"Pima" stateprovince:"Arizona"" ; Times: 2
+	Query: "Baiomys taylori" ; Times: 1
+	Query: "Spermophilus beldingi oregonus stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: ""spermophilus mexicanus" stateprovince:"texas"" ; Times: 2
+	Query: "Macrotus californicus county:"Pima" stateprovince:"Arizona"" ; Times: 1
+	Query: "Tamias speciosus speciosus stateprovince:"California" year <= 2014 mappable:1" ; Times: 2
+	Query: "thyroptera" ; Times: 1
+	Query: "Corynorhinus townsendii stateprovince:"Arizona"" ; Times: 1
+	Query: "county:"Apache" stateprovince:"Arizona"" ; Times: 1
+	Query: "muntiacus skull" ; Times: 1
+	Query: "lynx" ; Times: 2
+	Query: "nasua narica" ; Times: 1
+	Query: "Myonycteris torquata" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2010
+Total number of records retrieved from searches: 17659
+Number of download events that retrieved data from the resource: 450
+Total number of records downloaded: 155620
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2010
+Total number of records retrieved from searches: 17659
+Number of download events that retrieved data from the resource: 450
+Total number of records downloaded: 155620
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
