@@ -1,0 +1,186 @@
+Report for Institution Code ROM, Resource mamm
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 89
+Number of records retrieved in searches: 647
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Colombia ; Times: 10
+	Country: Czech Republic ; Times: 3
+	Country: France ; Times: 4
+	Country: Germany ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: United Kingdom ; Times: 5
+	Country: United States ; Times: 47
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-01 ; Times: 5
+	Date: 2015-02-02 ; Times: 5
+	Date: 2015-02-03 ; Times: 13
+	Date: 2015-02-04 ; Times: 2
+	Date: 2015-02-05 ; Times: 1
+	Date: 2015-02-06 ; Times: 4
+	Date: 2015-02-07 ; Times: 2
+	Date: 2015-02-08 ; Times: 1
+	Date: 2015-02-09 ; Times: 4
+	Date: 2015-02-10 ; Times: 4
+	Date: 2015-02-11 ; Times: 5
+	Date: 2015-02-12 ; Times: 5
+	Date: 2015-02-13 ; Times: 3
+	Date: 2015-02-16 ; Times: 2
+	Date: 2015-02-18 ; Times: 1
+	Date: 2015-02-19 ; Times: 7
+	Date: 2015-02-20 ; Times: 12
+	Date: 2015-02-21 ; Times: 2
+	Date: 2015-02-22 ; Times: 1
+	Date: 2015-02-23 ; Times: 1
+	Date: 2015-02-24 ; Times: 2
+	Date: 2015-02-25 ; Times: 5
+	Date: 2015-02-26 ; Times: 1
+	Date: 2015-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: ""sciurus arizonensis"" ; Times: 1
+	Query: "heliophobius argenteocinereus" ; Times: 3
+	Query: "panthera" ; Times: 1
+	Query: "tamias striatus" ; Times: 2
+	Query: "Ceratotherium simum" ; Times: 7
+	Query: "Caldas" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "Taxidea" ; Times: 1
+	Query: "Tylomys nudicaudus" ; Times: 2
+	Query: "Crocidura russula iran" ; Times: 1
+	Query: "La Victoria Colombia" ; Times: 1
+	Query: "ichneumia albicauda" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 2
+	Query: "Carollia subrufa colima" ; Times: 1
+	Query: "subflavus stateprovince:"pennsylvania"" ; Times: 1
+	Query: "Didelphis virginiana type:specimen (pouch)" ; Times: 1
+	Query: "Lasiurus minor" ; Times: 2
+	Query: "chiroderma" ; Times: 1
+	Query: "psm Marmota caligata" ; Times: 1
+	Query: "Mustela nivalis MVZ type:specimen (MVZ)" ; Times: 2
+	Query: "Ursus martimus type:specimen" ; Times: 1
+	Query: "bubalus" ; Times: 1
+	Query: "ardops nichollsi" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Artibeus obscurus" ; Times: 1
+	Query: "sylvilagus brasiliensis type:specimen country:"Colombia" institutioncode:ROM" ; Times: 1
+	Query: "phyllostomus hastatus" ; Times: 1
+	Query: "sicily" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 4
+	Query: "Choloepus didactylus" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "Mustela erminea" ; Times: 1
+	Query: "country:"Brazil" (Bolomys)" ; Times: 1
+	Query: ""Dasypus novemcinctus " mappable:1" ; Times: 1
+	Query: "catalognumber:91392 institutioncode:rom" ; Times: 1
+	Query: "Proechimys guyannensis" ; Times: 1
+	Query: "Monodelphis" ; Times: 1
+	Query: "myrmecophaga" ; Times: 2
+	Query: "tarsier" ; Times: 1
+	Query: "gracilinanus" ; Times: 1
+	Query: "sturnira rom" ; Times: 1
+	Query: "ondatra zibethicus vancouver" ; Times: 1
+	Query: "Mammal Sulawesi" ; Times: 2
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "sorex psm" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "hipposideros caffer country:"morocco"" ; Times: 1
+	Query: "Crocidura russula country:"iran"" ; Times: 1
+	Query: "Ethiopia" ; Times: 1
+	Query: "Nycticeius humeralis" ; Times: 1
+	Query: "panthera onca" ; Times: 7
+	Query: "dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "dasypus" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 2
+	Query: "canis adustus" ; Times: 1
+	Query: "tenrec" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "40194 (mammalia)" ; Times: 1
+	Query: "Proechimys chrysaeolus" ; Times: 1
+	Query: ""Dasypus novemcinctus" mappable:1" ; Times: 1
+	Query: "eulemur" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 326 download events in this period)
+Total number of records downloaded: 7421 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 7122
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 1
+	Date: 2015-02-03 ; Times: 3
+	Date: 2015-02-05 ; Times: 1
+	Date: 2015-02-06 ; Times: 1
+	Date: 2015-02-09 ; Times: 1
+	Date: 2015-02-11 ; Times: 4
+	Date: 2015-02-13 ; Times: 1
+	Date: 2015-02-16 ; Times: 1
+	Date: 2015-02-17 ; Times: 1
+	Date: 2015-02-19 ; Times: 1
+	Date: 2015-02-23 ; Times: 1
+	Date: 2015-02-24 ; Times: 3
+	Date: 2015-02-25 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: ""sciurus arizonensis"" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "tissue institutioncode:rom" ; Times: 1
+	Query: "Cameroon" ; Times: 1
+	Query: "peromyscus zarhynchus" ; Times: 1
+	Query: "Proechimys guyannensis" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "stateprovince:"Kentucky"" ; Times: 1
+	Query: "myrmecophaga" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "maxomys" ; Times: 1
+	Query: "Bolomys" ; Times: 1
+	Query: "nipissing" ; Times: 1
+	Query: "CHILE" ; Times: 1
+	Query: "Delphinus Delphis" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "county:"Lee" stateprovince:"Alabama"" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "country:"Peru"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2099
+Total number of records retrieved from searches: 18306
+Number of download events that retrieved data from the resource: 151
+Total number of records downloaded: 29352
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2597
+Total number of records retrieved from searches: 20790
+Number of download events that retrieved data from the resource: 601
+Total number of records downloaded: 184972
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
