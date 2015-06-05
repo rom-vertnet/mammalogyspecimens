@@ -1,0 +1,441 @@
+Report for Institution Code ROM, Resource mamm
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 425
+Number of records retrieved in searches: 4135
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 8
+	Country: Australia ; Times: 2
+	Country: Belgium ; Times: 7
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 31
+	Country: Chile ; Times: 6
+	Country: Colombia ; Times: 24
+	Country: Finland ; Times: 3
+	Country: France ; Times: 7
+	Country: Germany ; Times: 4
+	Country: Mexico ; Times: 68
+	Country: Micronesia ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 190
+	Country: Unknown ; Times: 64
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 31
+	Date: 2015-05-06 ; Times: 13
+	Date: 2015-05-07 ; Times: 4
+	Date: 2015-05-08 ; Times: 31
+	Date: 2015-05-09 ; Times: 4
+	Date: 2015-05-10 ; Times: 1
+	Date: 2015-05-11 ; Times: 8
+	Date: 2015-05-12 ; Times: 22
+	Date: 2015-05-13 ; Times: 23
+	Date: 2015-05-14 ; Times: 14
+	Date: 2015-05-15 ; Times: 10
+	Date: 2015-05-16 ; Times: 7
+	Date: 2015-05-17 ; Times: 20
+	Date: 2015-05-18 ; Times: 18
+	Date: 2015-05-19 ; Times: 8
+	Date: 2015-05-20 ; Times: 21
+	Date: 2015-05-21 ; Times: 46
+	Date: 2015-05-22 ; Times: 14
+	Date: 2015-05-23 ; Times: 8
+	Date: 2015-05-25 ; Times: 11
+	Date: 2015-05-26 ; Times: 22
+	Date: 2015-05-27 ; Times: 9
+	Date: 2015-05-28 ; Times: 18
+	Date: 2015-05-29 ; Times: 18
+	Date: 2015-05-30 ; Times: 39
+	Date: 2015-05-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Cabassous institutioncode:ROM" ; Times: 1
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "Connochaetes" ; Times: 1
+	Query: "Myocastoridae" ; Times: 1
+	Query: "palo verde guanacaste" ; Times: 2
+	Query: "specificepithet:onca genus:Panthera (juvenile OR cub OR subadult OR sub-adult OR neonate)" ; Times: 1
+	Query: "country:"Mexico" specificepithet:kappleri genus:Peropteryx" ; Times: 2
+	Query: "Lasiurus ega" ; Times: 1
+	Query: "30758" ; Times: 1
+	Query: "microtus agrestis" ; Times: 1
+	Query: "Macrotus californicus country:"usa"" ; Times: 2
+	Query: "Lonchorhina aurita country:"Mexico" mappable:1" ; Times: 1
+	Query: "Chiroptera country:"Brazil"" ; Times: 1
+	Query: "specificepithet:roberti genus:Oxymycterus" ; Times: 11
+	Query: "sorex hoyi" ; Times: 1
+	Query: "specificepithet:hyaena genus:hyaena (zoo)" ; Times: 2
+	Query: "Royal Ontario Museum Ailuropoda melanoleuca" ; Times: 1
+	Query: "nycteris grandis" ; Times: 1
+	Query: "Liomys soto la marina tamaulipas" ; Times: 1
+	Query: "microtus pennsylvanicus stateprovince:"Alberta" genus:Microtus" ; Times: 7
+	Query: "r-87381" ; Times: 1
+	Query: "specificepithet:tigris genus:panthera (cub OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "Microtus pennsylvanicus stateprovince:"saskatchewan" country:"Canada" genus:Microtus" ; Times: 1
+	Query: "Ateles belzebuth mappable:1" ; Times: 2
+	Query: "Pteropus speciosus" ; Times: 2
+	Query: "genus:Caracal (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "specificepithet:onca genus:panthera (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "trichechus manatus" ; Times: 3
+	Query: "oryzomys san fernando tamaulipas" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 3
+	Query: "specificepithet:hyaena genus:hyaena" ; Times: 1
+	Query: "Eptesicus furinalis" ; Times: 3
+	Query: "Colombia puma concolor" ; Times: 1
+	Query: "Microtus pennsylvanicus stateprovince:"saskatchewan" genus:microtus" ; Times: 1
+	Query: "golunda ellioti" ; Times: 1
+	Query: "tyrrell stateprovince:"maryland" year <= 1970" ; Times: 2
+	Query: "genus:Pteronura (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "horsfieldii mvz" ; Times: 1
+	Query: "new york odocoileus virginianus AND (NOT sound NOT film)" ; Times: 2
+	Query: "Chrysochloris" ; Times: 1
+	Query: "panthera tigris (skull zoo)" ; Times: 1
+	Query: "Phoca vitulina type:specimen year >= 1600 year <= 2014" ; Times: 1
+	Query: "specificepithet:tigris genus:Panthera (juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "78732" ; Times: 1
+	Query: "genus:puma (cub OR neonate OR juvenile OR sub-adult OR subadult)" ; Times: 1
+	Query: "Bauerus dubiaquercus" ; Times: 2
+	Query: "specificepithet:pardus genus:Panthera (juvenile OR subadult OR sub-adult)" ; Times: 2
+	Query: "Baiomys soto la marina tamaulipas" ; Times: 1
+	Query: "genus:priodontes" ; Times: 1
+	Query: "catalognumber:16156" ; Times: 1
+	Query: "catalognumber:92555" ; Times: 1
+	Query: "alouatta seniculus mappable:1" ; Times: 2
+	Query: "genus:Puma (cub OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: ""Lasionycteris noctivagans" stateprovince:"Montana" specificepithet:noctivagans genus:Lasionycteris" ; Times: 1
+	Query: "652700" ; Times: 1
+	Query: "ateles belzebuth" ; Times: 2
+	Query: "martes americana" ; Times: 1
+	Query: "panthera onca" ; Times: 4
+	Query: "Chaetodipus san fernando tamaulipas" ; Times: 1
+	Query: "54847" ; Times: 1
+	Query: "52375" ; Times: 1
+	Query: "genus:bradypus" ; Times: 2
+	Query: "specificepithet:onca genus:panthera (juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "pteronura brasiliensis" ; Times: 3
+	Query: "specificepithet:indica genus:Ratufa" ; Times: 1
+	Query: "Colombia panthera onca" ; Times: 1
+	Query: "ailurus (skull)" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 7
+	Query: "genus:Leopardus (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "Phacochoerus aethiopicus aethiopicus" ; Times: 1
+	Query: "peromyscus stirtoni" ; Times: 1
+	Query: "genus:Puma (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 2
+	Query: "genus:Leopardus (cub OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "461100" ; Times: 1
+	Query: ""Orthogeomys hispidus"" ; Times: 3
+	Query: "microtus pennsylvanicus stateprovince:"alberta" genus:microtus" ; Times: 16
+	Query: ""Lontra canadensis" year >= 1845 year <= 1900" ; Times: 1
+	Query: "genus:puma (juvenile OR cub OR subadult OR sub-adult OR neonate)" ; Times: 1
+	Query: "Rhynchocyon cirnei" ; Times: 3
+	Query: "rheomys" ; Times: 1
+	Query: "country:"Mexico" specificepithet:derbianus genus:Caluromys" ; Times: 1
+	Query: "genus:Panthera (cub OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "lagidium viscacia" ; Times: 1
+	Query: "Peromyscus yucatanicus" ; Times: 1
+	Query: "49339" ; Times: 3
+	Query: "lasiurus ega" ; Times: 1
+	Query: "genus:Hydropotes (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "Ateles belzebuth" ; Times: 1
+	Query: "genus:lynx (juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "nmr" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera (juvenile OR neonate OR cub OR subadult OR sub-adult)" ; Times: 1
+	Query: "genus:Martes (cub OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "Proechimys quadruplicatus" ; Times: 1
+	Query: "Sciurus vulgaris" ; Times: 3
+	Query: "Chiroderma villosum" ; Times: 2
+	Query: "specificepithet:onca genus:Panthera (juvenile OR subadult OR sub-adult)" ; Times: 3
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "B431" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "genus:hylobates institutioncode:ROM" ; Times: 2
+	Query: "wieczorek" ; Times: 3
+	Query: "genus:Puma (juvenile OR neonate OR cub OR subadult OR sub-adult)" ; Times: 1
+	Query: "carollia subrufa" ; Times: 2
+	Query: "prionailurus bengalensis mappable:1" ; Times: 1
+	Query: "country:"Ecuador" genus:Molossops" ; Times: 1
+	Query: "Cervus unicolor mappable:1" ; Times: 1
+	Query: "genus:puma (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "ag 137" ; Times: 1
+	Query: "country:"colombia" specificepithet:longirostris genus:glossophaga" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "hyaena hyaena (skull zoo)" ; Times: 1
+	Query: "genus:Proechimys class:Mammalia hastypestatus:1" ; Times: 2
+	Query: "11092" ; Times: 1
+	Query: "11093" ; Times: 1
+	Query: "country:"Venezuela" class:Mammalia" ; Times: 1
+	Query: "Melursus ursinus" ; Times: 1
+	Query: "thylacinus" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "peromyscus zarhynchus" ; Times: 1
+	Query: "genus:Pongo institutioncode:ROM" ; Times: 3
+	Query: "type:specimen genus:Proechimys class:Mammalia hastypestatus:1" ; Times: 1
+	Query: "Rhogeessa tumida" ; Times: 7
+	Query: "river otter" ; Times: 2
+	Query: "rom phascolarctos" ; Times: 2
+	Query: "genus:Leopardus (juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "country:"Mexico" specificepithet:naso genus:Rhynchonycteris" ; Times: 1
+	Query: "panthera uncia" ; Times: 7
+	Query: "genus:Martes (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "specificepithet:pardus genus:Panthera (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "dw 2247" ; Times: 3
+	Query: "hyaena hyaena (zoo)" ; Times: 2
+	Query: "Hemicentetes" ; Times: 1
+	Query: "country:"Mexico" specificepithet:mexicana genus:Tamandua" ; Times: 1
+	Query: "Rhynchocyon cirnei year >= 1965" ; Times: 1
+	Query: "type:specimen catalognumber:30393 institutioncode:ROM" ; Times: 2
+	Query: "ursus arctos stateprovince:"british columbia"" ; Times: 3
+	Query: "specificepithet:onca genus:panthera (juvenile)" ; Times: 1
+	Query: "specificepithet:onca genus:panthera (cub OR juvenile OR subadult OR sub-adult)" ; Times: 2
+	Query: "Pteronotus parnellii stateprovince:"Veracruz" country:"Mexico" mappable:1" ; Times: 1
+	Query: "Anoura geoffroyi" ; Times: 6
+	Query: "peromyscus gymnotis" ; Times: 1
+	Query: "55546" ; Times: 1
+	Query: "ateles belzebuth mappable:1" ; Times: 2
+	Query: "Cervus unicolor" ; Times: 1
+	Query: "rhynchocyon cirnei" ; Times: 2
+	Query: "crocuta" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 2
+	Query: "88511" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 3
+	Query: "canis latrans canada mvz" ; Times: 2
+	Query: "Peromyscus spicilegus" ; Times: 1
+	Query: "genus:thylacinus" ; Times: 1
+	Query: "75588" ; Times: 1
+	Query: "58062" ; Times: 1
+	Query: "bocagei" ; Times: 1
+	Query: "country:"Ecuador" genus:Cormura" ; Times: 3
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "genus:Pan institutioncode:ROM" ; Times: 11
+	Query: "Leopardus" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "Lagothrix poeppigii" ; Times: 8
+	Query: "stateprovince:"Wyoming" country:"USA" specificepithet:ludovicianus genus:Cynomys year >= 1888 year <= 2010 mappable:1" ; Times: 1
+	Query: "Rhynchonycteris naso" ; Times: 5
+	Query: "peromyscus maniculatus bairdii" ; Times: 1
+	Query: "Noctilio leporinus country:"Mexico" mappable:1" ; Times: 1
+	Query: "alouatta seniculus" ; Times: 18
+	Query: "Nyctinomops laticaudatus" ; Times: 4
+	Query: "peromyscus melanophrys" ; Times: 1
+	Query: "Praomys" ; Times: 2
+	Query: "specificepithet:palliatus genus:Paraxerus" ; Times: 2
+	Query: "10270" ; Times: 1
+	Query: "wyoming "Cynomys ludovicianus" stateprovince:"Wyoming" country:"USA" specificepithet:ludovicianus genus:Cynomys year >= 1888 year <= 2010 mappable:1" ; Times: 1
+	Query: "Liomys san fernando tamaulipas" ; Times: 2
+	Query: "specificepithet:onca genus:Panthera (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "nasua nasua" ; Times: 2
+	Query: "hyaena hyaena" ; Times: 2
+	Query: "nyctinomops femorosaccus" ; Times: 3
+	Query: "Ailuropoda melanoleuca" ; Times: 6
+	Query: "genus:lynx (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 2
+	Query: "institutioncode:rom pholidota" ; Times: 2
+	Query: "Rhynchocyon" ; Times: 1
+	Query: "georeferencedby:Catherine E. Dana" ; Times: 2
+	Query: "genus:lynx (juvenile OR cub OR subadult OR sub-adult OR neonate)" ; Times: 1
+	Query: "oryzomys soto la marina tamaulipas" ; Times: 1
+	Query: "genus:panthera (juvenile)" ; Times: 2
+	Query: "guyana institutioncode:rom" ; Times: 1
+	Query: "specificepithet:pennanti genus:Martes (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "ROM 61045" ; Times: 1
+	Query: "Caviidae" ; Times: 1
+	Query: "rheomys thomasi" ; Times: 2
+	Query: "stateprovince:"Wyoming" country:"USA" genus:Cynomys year >= 1888 year <= 2010 mappable:1" ; Times: 1
+	Query: "catalognumber:30758" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 3
+	Query: "nyctalus" ; Times: 1
+	Query: "Alouatta seniculus" ; Times: 1
+	Query: "New Saint Andrews" ; Times: 1
+	Query: "genus:panthera (cub OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "specificepithet:tigris genus:Panthera (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 2
+	Query: "Natalus mexicanus country:"Mexico" mappable:1" ; Times: 2
+	Query: "millardia meltada" ; Times: 1
+	Query: "Pongo institutioncode:ROM" ; Times: 6
+	Query: "Cuniculidae" ; Times: 1
+	Query: "uroderma bilobatum mappable:1" ; Times: 1
+	Query: "cavia" ; Times: 1
+	Query: "mitu mitu" ; Times: 1
+	Query: "specificepithet:pardus genus:panthera (cub OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "Myotis elegans" ; Times: 2
+	Query: "orycteropus" ; Times: 2
+	Query: "stateprovince:"wyoming" specificepithet:ludovicianus genus:cynomys" ; Times: 2
+	Query: "class:mammalia catalognumber:78715 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:9508130003 institutioncode:ROM" ; Times: 2
+	Query: "Colombia Mustela frenata country:"Colombia"" ; Times: 1
+	Query: "Procyon cancrivorus" ; Times: 1
+	Query: "Eumops underwoodi arizona" ; Times: 2
+	Query: "millardia" ; Times: 3
+	Query: "Neofelis" ; Times: 1
+	Query: "specificepithet:tigris genus:panthera (juvenile)" ; Times: 1
+	Query: "myrmecophaga" ; Times: 2
+	Query: "Mystacina tuberculata" ; Times: 1
+	Query: "Neacomys" ; Times: 3
+	Query: "genus:Leopardus (juvenile OR neonate OR cub OR subadult OR sub-adult)" ; Times: 1
+	Query: "civettictis civetta (skull)" ; Times: 2
+	Query: "Caluromys derbianus" ; Times: 6
+	Query: "stateprovince:"colima" country:"mexico" genus:pteronotus" ; Times: 1
+	Query: "skunk" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 102 (out of 976 download events in this period)
+Total number of records downloaded: 73819 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 31089
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 4
+	Country: Chile ; Times: 5
+	Country: Colombia ; Times: 5
+	Country: France ; Times: 6
+	Country: Mexico ; Times: 14
+	Country: United States ; Times: 53
+	Country: Unknown ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 2
+	Date: 2015-05-06 ; Times: 6
+	Date: 2015-05-08 ; Times: 3
+	Date: 2015-05-09 ; Times: 5
+	Date: 2015-05-10 ; Times: 1
+	Date: 2015-05-11 ; Times: 1
+	Date: 2015-05-12 ; Times: 8
+	Date: 2015-05-13 ; Times: 12
+	Date: 2015-05-15 ; Times: 1
+	Date: 2015-05-16 ; Times: 1
+	Date: 2015-05-17 ; Times: 1
+	Date: 2015-05-18 ; Times: 5
+	Date: 2015-05-19 ; Times: 3
+	Date: 2015-05-20 ; Times: 2
+	Date: 2015-05-21 ; Times: 12
+	Date: 2015-05-22 ; Times: 16
+	Date: 2015-05-23 ; Times: 1
+	Date: 2015-05-25 ; Times: 4
+	Date: 2015-05-26 ; Times: 9
+	Date: 2015-05-27 ; Times: 3
+	Date: 2015-05-28 ; Times: 2
+	Date: 2015-05-29 ; Times: 1
+	Date: 2015-05-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "microtus californicus (skin)" ; Times: 1
+	Query: "Microtus pennsylvanicus stateprovince:"saskatchewan" genus:microtus" ; Times: 1
+	Query: "Peromyscus keeni" ; Times: 1
+	Query: "country:"Mexico" specificepithet:kappleri genus:Peropteryx" ; Times: 1
+	Query: "Oligoryzomys" ; Times: 1
+	Query: "Ateles belzebuth mappable:1" ; Times: 2
+	Query: "trichechus manatus" ; Times: 1
+	Query: "country:"Venezuela" class:Mammalia" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "Colombia puma concolor" ; Times: 1
+	Query: "golunda ellioti" ; Times: 1
+	Query: "fmnh class:mammalia" ; Times: 1
+	Query: "Canis latrans" ; Times: 2
+	Query: "Phoca vitulina type:specimen year >= 1600 year <= 2014" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "peromyscus polionotus" ; Times: 1
+	Query: "alouatta seniculus mappable:1" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "peromyscus crinitus" ; Times: 1
+	Query: "Canis lupus lupus" ; Times: 1
+	Query: "Colombia panthera onca" ; Times: 1
+	Query: "balaenoptera musculus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Ondatra zibethicus" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "country:"Mexico" specificepithet:naso genus:Rhynchonycteris" ; Times: 1
+	Query: "peromyscus mexicanus" ; Times: 1
+	Query: "Rhynchocyon cirnei" ; Times: 1
+	Query: "Peromyscus californicus" ; Times: 1
+	Query: "country:"Mexico" specificepithet:derbianus genus:Caluromys" ; Times: 1
+	Query: "Peromyscus levipes" ; Times: 1
+	Query: "Peromyscus yucatanicus" ; Times: 1
+	Query: "(Nipissing OR Nipising OR Nippising OR Nippissing)" ; Times: 2
+	Query: "Pygoderma year <= 2015" ; Times: 1
+	Query: "Ateles belzebuth" ; Times: 2
+	Query: "Neotoma albigula" ; Times: 1
+	Query: "peromyscus pectoralis" ; Times: 2
+	Query: "nyctimene" ; Times: 3
+	Query: "stateprovince:"michoacan" country:"MEXICO" class:mammalia year >= 1888 year <= 2015 mappable:1" ; Times: 1
+	Query: "country:"colombia" specificepithet:longirostris genus:glossophaga" ; Times: 1
+	Query: "peromyscus guatemalensis" ; Times: 1
+	Query: "peromyscus aztecus" ; Times: 1
+	Query: "type:specimen genus:Proechimys class:Mammalia hastypestatus:1" ; Times: 1
+	Query: "county:"Nipissing"" ; Times: 1
+	Query: "chiroptera stateprovince:"baja" country:"mexico"" ; Times: 1
+	Query: ""lynx rufus"" ; Times: 1
+	Query: "Allyn" ; Times: 1
+	Query: "Zalophus californianus" ; Times: 1
+	Query: "Peromyscus melanotis" ; Times: 1
+	Query: "Colombia Mustela frenata country:"Colombia"" ; Times: 1
+	Query: "Peromyscus attwateri" ; Times: 1
+	Query: "stateprovince:"guarico" country:"Venezuela" class:Mammalia" ; Times: 1
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "Peromyscus spicilegus" ; Times: 1
+	Query: "Marmosops" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "stateprovince:"wyoming" specificepithet:leucurus genus:cynomys" ; Times: 1
+	Query: "Caviidae" ; Times: 1
+	Query: "Lagothrix poeppigii" ; Times: 1
+	Query: "Chinchillidae" ; Times: 1
+	Query: "marmosops" ; Times: 1
+	Query: ""Lontra canadensis"" ; Times: 1
+	Query: "Octodontidae" ; Times: 1
+	Query: "nyctinomops femorosaccus" ; Times: 4
+	Query: "odocoileus virginianus stateprovince:"New York"" ; Times: 1
+	Query: "Rhynchocyon" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "peromyscus truei" ; Times: 1
+	Query: "chiroptera Baja California" ; Times: 1
+	Query: "Phyllostomidae" ; Times: 1
+	Query: "Peromyscus merriami" ; Times: 1
+	Query: "stateprovince:"New Mexico" class:mammalia" ; Times: 1
+	Query: "year >= 1800 year <= 2015 distance(location,geopoint(35.9602229692967,-119.37744140625))<100000" ; Times: 1
+	Query: "millardia meltada" ; Times: 1
+	Query: "uroderma bilobatum mappable:1" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "county:"Nipissing" stateprovince:"Ontario" country:"Canada" year >= 1920 year <= 2014" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "stateprovince:"wyoming" specificepithet:ludovicianus genus:cynomys" ; Times: 1
+	Query: "Echimyidae" ; Times: 1
+	Query: "country:"Mexico" specificepithet:mexicana genus:Tamandua" ; Times: 1
+	Query: "Ochotona princeps mappable:1" ; Times: 1
+	Query: "Peromyscus melanophrys" ; Times: 1
+	Query: "Peromyscus nasutus" ; Times: 1
+	Query: "myotis stateprovince:"baja" country:"mexico"" ; Times: 1
+	Query: "Neacomys" ; Times: 1
+	Query: "paranyctimene" ; Times: 1
+	Query: "cave stateprovince:"Alabama" year >= 1700 year <= 2015" ; Times: 1
+	Query: "Peromyscus difficilis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2602
+Total number of records retrieved from searches: 23439
+Number of download events that retrieved data from the resource: 291
+Total number of records downloaded: 313038
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 3100
+Total number of records retrieved from searches: 25923
+Number of download events that retrieved data from the resource: 741
+Total number of records downloaded: 468658
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
