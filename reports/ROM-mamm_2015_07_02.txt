@@ -1,0 +1,435 @@
+Report for Institution Code ROM, Resource mamm
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 354
+Number of records retrieved in searches: 3818
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 8
+	Country: Australia ; Times: 4
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 10
+	Country: Colombia ; Times: 4
+	Country: France ; Times: 8
+	Country: India ; Times: 4
+	Country: Italy ; Times: 23
+	Country: Mexico ; Times: 17
+	Country: Paraguay ; Times: 3
+	Country: Peru ; Times: 7
+	Country: Spain ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 232
+	Country: Unknown ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 14
+	Date: 2015-06-02 ; Times: 50
+	Date: 2015-06-03 ; Times: 12
+	Date: 2015-06-04 ; Times: 5
+	Date: 2015-06-05 ; Times: 15
+	Date: 2015-06-06 ; Times: 7
+	Date: 2015-06-08 ; Times: 17
+	Date: 2015-06-09 ; Times: 34
+	Date: 2015-06-10 ; Times: 8
+	Date: 2015-06-11 ; Times: 3
+	Date: 2015-06-12 ; Times: 2
+	Date: 2015-06-14 ; Times: 3
+	Date: 2015-06-15 ; Times: 22
+	Date: 2015-06-16 ; Times: 2
+	Date: 2015-06-17 ; Times: 17
+	Date: 2015-06-18 ; Times: 33
+	Date: 2015-06-19 ; Times: 19
+	Date: 2015-06-20 ; Times: 2
+	Date: 2015-06-21 ; Times: 1
+	Date: 2015-06-22 ; Times: 3
+	Date: 2015-06-23 ; Times: 3
+	Date: 2015-06-24 ; Times: 37
+	Date: 2015-06-25 ; Times: 10
+	Date: 2015-06-26 ; Times: 3
+	Date: 2015-06-28 ; Times: 1
+	Date: 2015-06-29 ; Times: 26
+	Date: 2015-06-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:tigris genus:panthera (neonate OR juenile OR cub OR subadult OR sub-adult)" ; Times: 1
+	Query: "genus:lynx (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten OR immature)" ; Times: 1
+	Query: "country:"paraguay" genus:dasypus" ; Times: 2
+	Query: ""ursus arctos" stateprovince:"Alberta"" ; Times: 2
+	Query: "specificepithet:maritimus genus:ursus (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 2
+	Query: "catalognumber:35012" ; Times: 3
+	Query: "Perognathus inornatus" ; Times: 4
+	Query: "genus:myrmecophaga" ; Times: 1
+	Query: "specificepithet:yagouaroundi genus:puma (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten OR immature)" ; Times: 2
+	Query: "viverra megaspila" ; Times: 2
+	Query: "Didelphis" ; Times: 1
+	Query: "specificepithet:yucatanensis genus:Sciurus" ; Times: 1
+	Query: "catalognumber:86190" ; Times: 1
+	Query: "Myotis lucifugus country:"canada"" ; Times: 1
+	Query: "grammomys macmillan" ; Times: 3
+	Query: "catalognumber:10981" ; Times: 1
+	Query: "specificepithet:maritimus genus:ursus (neonate OR cub OR pup OR juvenile OR sub-adult OR subadult)" ; Times: 2
+	Query: "Myotis keenii country:"USA"" ; Times: 1
+	Query: "genus:Panthera (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "catalognumber:84696" ; Times: 1
+	Query: "catalognumber:94452" ; Times: 2
+	Query: "specificepithet:panamintinus genus:Dipodomys mappable:1" ; Times: 1
+	Query: "genus:puma (neonate OR cub OR pup OR juvenile OR sub-adult OR subadult)" ; Times: 1
+	Query: "country:"Paraguay" genus:Catagonus class:Mammalia" ; Times: 1
+	Query: "type:specimen catalognumber:62250" ; Times: 1
+	Query: "genus:puma (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten)" ; Times: 1
+	Query: "f43144" ; Times: 2
+	Query: "Ateles chamek" ; Times: 7
+	Query: "Pteronotus gymnonotus" ; Times: 1
+	Query: "Lasiurus cinereus country:"USA"" ; Times: 3
+	Query: "genus:Pteronura (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "catalognumber:21640" ; Times: 2
+	Query: "catalognumber:88978" ; Times: 1
+	Query: "mammals peru" ; Times: 1
+	Query: "puma concolor type:specimen stateprovince:"New York"" ; Times: 2
+	Query: "muntiacus reevesi" ; Times: 2
+	Query: "specificepithet:vulgaris genus:Sciurus" ; Times: 2
+	Query: "Myotis evotis country:"USA"" ; Times: 1
+	Query: "mammalia 43141" ; Times: 1
+	Query: "Antilocapra" ; Times: 22
+	Query: "mellivora capensis" ; Times: 1
+	Query: "Upper Indian Creek" ; Times: 1
+	Query: "Macaca fascicularis" ; Times: 1
+	Query: "genus:tamandua" ; Times: 1
+	Query: "cavia" ; Times: 2
+	Query: "180200" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "mammalia lima" ; Times: 3
+	Query: "genus:panthera (neonate OR cub OR juvenile OR sub-adult OR subadult) AND (leo)" ; Times: 1
+	Query: "Myotis lucifugus stateprovince:"Michigan" year >= 1850 year <= 2000 mappable:1" ; Times: 1
+	Query: "Caluromys" ; Times: 1
+	Query: "Mimon cozumelae" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Euderma maculatum country:"USA"" ; Times: 1
+	Query: "genus:puma (neonate OR juvenile OR cub OR subadult OR sub-adult)" ; Times: 1
+	Query: "("chaetodipus" "Nevada")" ; Times: 1
+	Query: "64392 mammalia" ; Times: 1
+	Query: "lacm 7443" ; Times: 1
+	Query: "ROM 23325" ; Times: 1
+	Query: "specificepithet:villosus genus:Chaetophractus" ; Times: 1
+	Query: "chrysochloris" ; Times: 1
+	Query: "91447" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 4
+	Query: "specificepithet:carolinensis genus:sciurus institutioncode:ROM" ; Times: 6
+	Query: "genus:puma (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "specificepithet:buettikoferi genus:Epomops" ; Times: 2
+	Query: "thomomys mazama PSM" ; Times: 1
+	Query: "Myotis yumanensis country:"USA"" ; Times: 1
+	Query: "alouatta" ; Times: 1
+	Query: "SOTO LA MARINA TAMAULIPAS" ; Times: 1
+	Query: "12956" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 3
+	Query: "proteus" ; Times: 3
+	Query: "Lasiurus cinereus country:"Canada"" ; Times: 2
+	Query: "Equus grevyi" ; Times: 2
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "country:"England" specificepithet:vulgaris genus:Sciurus" ; Times: 1
+	Query: "30684" ; Times: 1
+	Query: "Myotis yumanensis country:"Canada"" ; Times: 1
+	Query: "Corynorhinus townsendii country:"Canada"" ; Times: 1
+	Query: "Myotis volans country:"USA"" ; Times: 1
+	Query: "ovis orientalis" ; Times: 1
+	Query: "specificepithet:tigris genus:panthera (neonate OR cub OR juvenile OR subadult OR sub-adult)" ; Times: 3
+	Query: "genus:marmosa" ; Times: 1
+	Query: "country:"Ecuador" specificepithet:trinitatum genus:Chiroderma" ; Times: 1
+	Query: "specificepithet:tarandus genus:Rangifer" ; Times: 1
+	Query: "20037" ; Times: 1
+	Query: "mitu" ; Times: 1
+	Query: "Ochotona princeps (Montana)" ; Times: 1
+	Query: "specificepithet:tigris genus:panthera (neonate OR juvenile OR cub OR subadult OR sub-adult OR fetus)" ; Times: 1
+	Query: "Canis aureus" ; Times: 3
+	Query: "genus:panthera (neonate OR cub OR juvenile OR sub-adult OR subadult) AND (NOT leo)" ; Times: 1
+	Query: "5675" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 1
+	Query: "ROM 54789" ; Times: 1
+	Query: "Ochotona stateprovince:"Montana" year >= 1930 year <= 1979" ; Times: 1
+	Query: "oligoryzomys rom venezuela" ; Times: 1
+	Query: "Heliosciurus punctatus" ; Times: 1
+	Query: "12243" ; Times: 1
+	Query: "puma "Colombia"" ; Times: 1
+	Query: "catalognumber:57526" ; Times: 1
+	Query: "Eptesicus fuscus country:"USA"" ; Times: 1
+	Query: "eonycteris spelaea" ; Times: 5
+	Query: "catalognumber:38682" ; Times: 1
+	Query: "Sturnira erythromos" ; Times: 1
+	Query: "catalognumber:34833 institutioncode:ROM" ; Times: 1
+	Query: "country:"United Kingdom" specificepithet:vulgaris genus:Sciurus" ; Times: 2
+	Query: "specificepithet:uncia" ; Times: 1
+	Query: "specificepithet:brasiliense genus:Lophostoma" ; Times: 1
+	Query: "sicily" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "ouray colorado" ; Times: 1
+	Query: "specificepithet:uncia genus:panthera" ; Times: 16
+	Query: "platalina genovensium" ; Times: 2
+	Query: "class:Mammalia mandrillus leucophaeus" ; Times: 1
+	Query: "specificepithet:septemcinctus genus:Dasypus" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 2
+	Query: "Trachops cirrhosus" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "Mesomys" ; Times: 2
+	Query: "ROM 3042" ; Times: 1
+	Query: "specificepithet:niger genus:sciurus institutioncode:rom" ; Times: 1
+	Query: "country:"Colombia" genus:Sturnira" ; Times: 2
+	Query: "Myotis lucifugus country:"USA"" ; Times: 1
+	Query: "Macrophyllum" ; Times: 1
+	Query: "12243 (skull)" ; Times: 1
+	Query: "myrmecophaga tridactyla mappable:1" ; Times: 1
+	Query: "Tadarida brasiliensis country:"dominica" distance(location,geopoint(19.145168196205297,-73.01513671875))<1037728" ; Times: 1
+	Query: "specificepithet:pennanti genus:martes (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 3
+	Query: "ochotona roylei" ; Times: 2
+	Query: "genus:panthera (neonate OR cub OR juvenile OR sub-adult OR subadult)" ; Times: 1
+	Query: "Odobenus skeleton" ; Times: 1
+	Query: "erophylla bombifrons" ; Times: 1
+	Query: "Lasionycteris noctivagans country:"USA"" ; Times: 1
+	Query: "nmnh" ; Times: 1
+	Query: "Dipodomys ingens" ; Times: 2
+	Query: "specificepithet:frons genus:Lavia" ; Times: 1
+	Query: "Myotis californicus country:"USA"" ; Times: 4
+	Query: "specificepithet:pinetis genus:geomys" ; Times: 1
+	Query: "country:"Mexico" specificepithet:evotis genus:Lophostoma" ; Times: 1
+	Query: "Thyroptera" ; Times: 5
+	Query: "mammalia 99439" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "type:specimen specificepithet:pinetis genus:geomys" ; Times: 1
+	Query: "Eptesicus fuscus country:"Canada"" ; Times: 1
+	Query: "specificepithet:vellerosus genus:Chaetophractus" ; Times: 2
+	Query: "type:specimen genus:marmosa" ; Times: 1
+	Query: "sciurus niger rufiventer" ; Times: 2
+	Query: "Risaralda" ; Times: 1
+	Query: "44801" ; Times: 1
+	Query: "Lonchorhina aurita" ; Times: 1
+	Query: "Jesus Carranza Veracruz" ; Times: 1
+	Query: "Ochotona princeps stateprovince:"Montana" year >= 1800 year <= 1979" ; Times: 1
+	Query: "Myotis lucifugus country:"Canada"" ; Times: 1
+	Query: "24814" ; Times: 1
+	Query: "Nesoryzomys" ; Times: 1
+	Query: "catalognumber:51493" ; Times: 1
+	Query: "molossus (trinidad)" ; Times: 5
+	Query: "Corynorhinus townsendii stateprovince:"british columbia"" ; Times: 1
+	Query: "antilocapra americana mappable:1" ; Times: 1
+	Query: "Lasionycteris noctivagans country:"Canada"" ; Times: 1
+	Query: "Tadarida brasiliensis country:"dominica"" ; Times: 1
+	Query: "Jesus Carranza" ; Times: 2
+	Query: "zapus hudsonicus" ; Times: 1
+	Query: "genus:Leopardus (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten OR immature)" ; Times: 2
+	Query: "Corynorhinus townsendii country:"USA"" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 2
+	Query: "cebus" ; Times: 1
+	Query: "Myotis volans country:"Canada"" ; Times: 1
+	Query: "Ochotona princeps (Montana) year <= 1980" ; Times: 1
+	Query: "Tadarida brasiliensis country:"dominica" distance(location,geopoint(14.179186142354181,-59.39208984375))<100000" ; Times: 1
+	Query: "Grammomys buntingi" ; Times: 1
+	Query: "mammalia 107871" ; Times: 2
+	Query: "genus:panthera (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten OR immature)" ; Times: 1
+	Query: "vandeleuria" ; Times: 1
+	Query: "class:Mammalia Macaca sylvanus" ; Times: 1
+	Query: "Tadarida brasiliensis country:"dominica" distance(location,geopoint(14.179186142354181,-59.39208984375))<733078" ; Times: 1
+	Query: "zygodontomys rom" ; Times: 3
+	Query: "Diaemus youngi" ; Times: 1
+	Query: "24814 mammal" ; Times: 1
+	Query: "Thyroptera tricolor" ; Times: 3
+	Query: "callithrix penicillata" ; Times: 2
+	Query: "mammalia 10757" ; Times: 1
+	Query: "genus:Caracal (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten OR immature)" ; Times: 1
+	Query: "Panthera onca" ; Times: 3
+	Query: "tamiasciurus bell museum" ; Times: 1
+	Query: "Myotis californicus country:"canada"" ; Times: 1
+	Query: "catalognumber:35017" ; Times: 1
+	Query: "Antrozous pallidus country:"USA"" ; Times: 1
+	Query: ""mustela nigripes"" ; Times: 1
+	Query: "64392" ; Times: 1
+	Query: "Veracruz mammals" ; Times: 1
+	Query: "Myotis thysanodes country:"USA"" ; Times: 1
+	Query: "19720" ; Times: 1
+	Query: "specificepithet:nigriceps genus:Hemicentetes" ; Times: 1
+	Query: "oligoryzomys rom" ; Times: 1
+	Query: "institutioncode:ROM (5727)" ; Times: 1
+	Query: "genus:puma (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten OR immature)" ; Times: 1
+	Query: "praomys" ; Times: 3
+	Query: "35696" ; Times: 4
+	Query: "genus:panthera (neonate OR juvenile OR cub OR subadult OR sub-adult OR kitten)" ; Times: 2
+	Query: "stateprovince:"Alberta" (waterton lakes)" ; Times: 1
+	Query: "Myotis evotis country:"Canada"" ; Times: 1
+	Query: "millardia" ; Times: 1
+	Query: "Myotis keenii stateprovince:"Washington"" ; Times: 1
+	Query: "Corynorhinus townsendii stateprovince:"Washington"" ; Times: 3
+	Query: "specificepithet:tigris genus:panthera (neonate OR cub OR juvenile OR sub-adult OR subadult)" ; Times: 3
+	Query: "genus:panthera (neonate OR juvenile OR cub OR subadult OR sub-adult)" ; Times: 1
+	Query: "Alouatta" ; Times: 3
+	Query: "Neacomys" ; Times: 2
+	Query: "Tadarida brasiliensis distance(location,geopoint(19.145168196205297,-73.01513671875))<1037728" ; Times: 1
+	Query: "class:mammalia catalognumber:12911 year <= 1979" ; Times: 1
+	Query: "stateprovince:"oklahoma" specificepithet:subflavus" ; Times: 1
+	Query: "thomomys talpoides limosus" ; Times: 1
+	Query: "50396 mammalia" ; Times: 1
+	Query: "Felidae (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "country:"Canada" specificepithet:lotor genus:Procyon mappable:1" ; Times: 2
+	Query: "46590" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 97 (out of 1524 download events in this period)
+Total number of records downloaded: 7268 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 7015
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Guatemala ; Times: 2
+	Country: India ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: Paraguay ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 65
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 4
+	Date: 2015-06-02 ; Times: 2
+	Date: 2015-06-03 ; Times: 1
+	Date: 2015-06-04 ; Times: 1
+	Date: 2015-06-05 ; Times: 2
+	Date: 2015-06-06 ; Times: 2
+	Date: 2015-06-07 ; Times: 2
+	Date: 2015-06-08 ; Times: 6
+	Date: 2015-06-09 ; Times: 32
+	Date: 2015-06-10 ; Times: 3
+	Date: 2015-06-11 ; Times: 2
+	Date: 2015-06-14 ; Times: 1
+	Date: 2015-06-15 ; Times: 1
+	Date: 2015-06-16 ; Times: 8
+	Date: 2015-06-17 ; Times: 4
+	Date: 2015-06-18 ; Times: 6
+	Date: 2015-06-19 ; Times: 9
+	Date: 2015-06-22 ; Times: 2
+	Date: 2015-06-24 ; Times: 1
+	Date: 2015-06-25 ; Times: 4
+	Date: 2015-06-26 ; Times: 2
+	Date: 2015-06-29 ; Times: 1
+	Date: 2015-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "solola" ; Times: 1
+	Query: "Macrophyllum" ; Times: 1
+	Query: "Myotis lucifugus country:"canada"" ; Times: 1
+	Query: "Myotis keenii country:"USA"" ; Times: 1
+	Query: "Sturnira" ; Times: 1
+	Query: "Pteronotus gymnonotus" ; Times: 1
+	Query: "Eptesicus fuscus stateprovince:"Washington"" ; Times: 1
+	Query: "spilogale putorius" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "muntiacus reevesi" ; Times: 1
+	Query: "Myotis evotis country:"USA"" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "stateprovince:"oklahoma" class:Mammalia" ; Times: 1
+	Query: "mellivora capensis" ; Times: 1
+	Query: "guatemala" ; Times: 1
+	Query: "Antrozous pallidus country:"Mexico"" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "Myotis lucifugus stateprovince:"Michigan" year >= 1850 year <= 2000 mappable:1" ; Times: 1
+	Query: "Mimon cozumelae" ; Times: 1
+	Query: "Euderma maculatum country:"USA"" ; Times: 1
+	Query: "Myotis yumanensis stateprovince:"Washington"" ; Times: 1
+	Query: "cave alabama" ; Times: 1
+	Query: "Myotis yumanensis country:"USA"" ; Times: 1
+	Query: "lebanon" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "country:"Panama" ("Barro colorado" OR BCI) year >= 1904 year <= 1929" ; Times: 1
+	Query: "Peromyscus maniculatus stateprovince:"Michigan" mappable:1" ; Times: 1
+	Query: "Lasiurus cinereus country:"Canada"" ; Times: 1
+	Query: "neff" ; Times: 1
+	Query: "Myotis yumanensis country:"Canada"" ; Times: 1
+	Query: "Corynorhinus townsendii country:"Canada"" ; Times: 1
+	Query: "Myotis volans country:"USA"" ; Times: 1
+	Query: "Myotis yumanensis country:"Mexico"" ; Times: 1
+	Query: "iran" ; Times: 1
+	Query: "Canis aureus" ; Times: 1
+	Query: "tamias umbrinus" ; Times: 2
+	Query: "Eptesicus fuscus country:"USA"" ; Times: 1
+	Query: "Myotis californicus country:"canada"" ; Times: 1
+	Query: "Myotis lucifugus stateprovince:"Washington"" ; Times: 1
+	Query: "sicily" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "Trachops cirrhosus" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "ochotona roylei" ; Times: 2
+	Query: "Myotis lucifugus country:"USA"" ; Times: 1
+	Query: "myrmecophaga tridactyla mappable:1" ; Times: 1
+	Query: "Lasiurus cinereus country:"USA"" ; Times: 1
+	Query: ""didelphis virginiana"" ; Times: 1
+	Query: "palestine" ; Times: 1
+	Query: "Eptesicus fuscus country:"Canada"" ; Times: 1
+	Query: "erophylla bombifrons" ; Times: 1
+	Query: "Corynorhinus townsendii country:"Mexico"" ; Times: 1
+	Query: "israel" ; Times: 1
+	Query: "Myotis californicus country:"USA"" ; Times: 1
+	Query: "specificepithet:pinetis genus:geomys" ; Times: 1
+	Query: "country:"Mexico" specificepithet:evotis genus:Lophostoma" ; Times: 1
+	Query: "Thyroptera" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "Odobenus skeleton" ; Times: 1
+	Query: "county:"Kern" stateprovince:"california" mappable:1" ; Times: 1
+	Query: "sciurus niger rufiventer" ; Times: 1
+	Query: "Iraq" ; Times: 1
+	Query: "Lonchorhina aurita" ; Times: 1
+	Query: "Lasionycteris noctivagans country:"USA"" ; Times: 1
+	Query: "country:"paraguay" class:mammalia" ; Times: 1
+	Query: "Myotis thysanodes country:"mexico"" ; Times: 1
+	Query: "antilocapra americana mappable:1" ; Times: 1
+	Query: "yemen" ; Times: 1
+	Query: "Lasionycteris noctivagans country:"Canada"" ; Times: 1
+	Query: "Corynorhinus townsendii country:"USA"" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "country:"Canada" specificepithet:lotor genus:Procyon mappable:1" ; Times: 1
+	Query: "Myotis volans country:"Canada"" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Diaemus youngi" ; Times: 2
+	Query: "Thyroptera tricolor" ; Times: 1
+	Query: "callithrix penicillata" ; Times: 2
+	Query: "Jordan" ; Times: 1
+	Query: "Eptesicus fuscus country:"Mexico"" ; Times: 1
+	Query: "Myotis californicus stateprovince:"Washington"" ; Times: 1
+	Query: "Antrozous pallidus country:"USA"" ; Times: 1
+	Query: "Veracruz mammals" ; Times: 1
+	Query: "Myotis thysanodes country:"USA"" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "stateprovince:"Colima" country:"Mexico"" ; Times: 1
+	Query: "Syria" ; Times: 1
+	Query: "Myotis ciliolabrum country:"USA"" ; Times: 1
+	Query: "Myotis evotis country:"Canada"" ; Times: 1
+	Query: "Myotis keenii stateprovince:"Washington"" ; Times: 1
+	Query: "Corynorhinus townsendii stateprovince:"Washington"" ; Times: 1
+	Query: "specificepithet:tigris genus:panthera (neonate OR cub OR juvenile OR sub-adult OR subadult)" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2956
+Total number of records retrieved from searches: 27257
+Number of download events that retrieved data from the resource: 388
+Total number of records downloaded: 320306
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 3454
+Total number of records retrieved from searches: 29741
+Number of download events that retrieved data from the resource: 838
+Total number of records downloaded: 475926
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
