@@ -1,0 +1,693 @@
+Report for Institution Code ROM, Resource Mammals
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 600
+Number of records retrieved in searches: 5389
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 600
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 4
+	Date: 2015-08-02 ; Times: 3
+	Date: 2015-08-03 ; Times: 58
+	Date: 2015-08-04 ; Times: 5
+	Date: 2015-08-05 ; Times: 9
+	Date: 2015-08-06 ; Times: 20
+	Date: 2015-08-07 ; Times: 4
+	Date: 2015-08-08 ; Times: 1
+	Date: 2015-08-09 ; Times: 94
+	Date: 2015-08-10 ; Times: 8
+	Date: 2015-08-11 ; Times: 1
+	Date: 2015-08-12 ; Times: 44
+	Date: 2015-08-13 ; Times: 22
+	Date: 2015-08-14 ; Times: 8
+	Date: 2015-08-15 ; Times: 1
+	Date: 2015-08-16 ; Times: 6
+	Date: 2015-08-17 ; Times: 3
+	Date: 2015-08-18 ; Times: 6
+	Date: 2015-08-19 ; Times: 8
+	Date: 2015-08-20 ; Times: 6
+	Date: 2015-08-21 ; Times: 27
+	Date: 2015-08-22 ; Times: 3
+	Date: 2015-08-23 ; Times: 9
+	Date: 2015-08-24 ; Times: 63
+	Date: 2015-08-25 ; Times: 52
+	Date: 2015-08-26 ; Times: 69
+	Date: 2015-08-27 ; Times: 13
+	Date: 2015-08-28 ; Times: 23
+	Date: 2015-08-29 ; Times: 16
+	Date: 2015-08-30 ; Times: 8
+	Date: 2015-08-31 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "ROM 89685" ; Times: 3
+	Query: "58227" ; Times: 1
+	Query: ""Eumops auripendulus" mappable:1" ; Times: 2
+	Query: "Hyracoidea" ; Times: 1
+	Query: "48524" ; Times: 1
+	Query: ""Lonchorhina aurita" mappable:1" ; Times: 1
+	Query: ""Ateles paniscus" mappable:1" ; Times: 2
+	Query: ""Proechimys guyannensis" mappable:1" ; Times: 1
+	Query: "specificepithet:aurita genus:Nycteris" ; Times: 4
+	Query: "Bidens" ; Times: 1
+	Query: ""Coendou prehensilis" mappable:1" ; Times: 1
+	Query: "Otonyctomys hatti" ; Times: 2
+	Query: ""Pithecia pithecia" mappable:1" ; Times: 1
+	Query: ""Anoura caudifer" mappable:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 3
+	Query: "skin type:specimen specificepithet:phaeus genus:Micoureus" ; Times: 1
+	Query: ""Mimon crenulatum" mappable:1" ; Times: 1
+	Query: "Lepus townsendii" ; Times: 1
+	Query: "specificepithet:chapmani genus:Dobsonia" ; Times: 2
+	Query: "loxodonta africana" ; Times: 1
+	Query: "tylomys type:specimen" ; Times: 2
+	Query: ""Bradypus tridactylus" mappable:1" ; Times: 1
+	Query: "Mustela nivalis" ; Times: 1
+	Query: ""Leopardus pardalis" mappable:1" ; Times: 1
+	Query: "Panthera leo" ; Times: 5
+	Query: "ailuropoda rom" ; Times: 1
+	Query: "Spermophilus franklinii" ; Times: 1
+	Query: "ailuropoda rom skin" ; Times: 1
+	Query: "rom Sphiggurus insidiosus" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 2
+	Query: ""Eira barbara" mappable:1" ; Times: 1
+	Query: "rheomys" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(49.18170338770662,-122.54150390625))<58867" ; Times: 1
+	Query: "specificepithet:pucheranii genus:Sciurus" ; Times: 4
+	Query: "lepus americanus distance(location,geopoint(49.35375571830995,-122.34375))<78430" ; Times: 1
+	Query: "Pitheciidae" ; Times: 2
+	Query: "type:specimen specificepithet:albofuscus genus:Scotoecus" ; Times: 1
+	Query: "Dicrostonyx groenlandicus" ; Times: 3
+	Query: "46549" ; Times: 1
+	Query: ""Leopardus tigrinus" mappable:1" ; Times: 1
+	Query: "Tragulus javanicus" ; Times: 1
+	Query: "ROM 93542" ; Times: 1
+	Query: "Dicrostonyx richardsoni" ; Times: 1
+	Query: ""Eumops glaucinus" mappable:1" ; Times: 1
+	Query: "ROM 89618" ; Times: 1
+	Query: "specificepithet:niveipes genus:Thomasomys" ; Times: 3
+	Query: ""Mesophylla macconnelli" mappable:1" ; Times: 1
+	Query: ""Chiropotes chiropotes" mappable:1" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 8
+	Query: ""Pteronura brasiliensis" mappable:1" ; Times: 8
+	Query: "country:"India" year >= 1820 year <= 1840" ; Times: 1
+	Query: ""Dasypus novemcinctus" mappable:1" ; Times: 2
+	Query: ""Peropteryx macrotis" mappable:1" ; Times: 1
+	Query: "cyclopes" ; Times: 1
+	Query: ""Promops nasutus" mappable:1" ; Times: 1
+	Query: "76848" ; Times: 1
+	Query: "27999" ; Times: 1
+	Query: ""Noctilio leporinus" mappable:1" ; Times: 1
+	Query: "Arborimus albipes" ; Times: 1
+	Query: "Anoura caudifer" ; Times: 1
+	Query: ""Nyctinomops laticaudatus" mappable:1" ; Times: 2
+	Query: "Anoura geoffroyi country:"ECUADOR"" ; Times: 2
+	Query: "ateles" ; Times: 1
+	Query: ""Platyrrhinus infuscus" mappable:1" ; Times: 1
+	Query: "Anoura geoffroyi" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: ""Eptesicus brasiliensis" mappable:1" ; Times: 1
+	Query: "ROM mephitis mephitis skin" ; Times: 2
+	Query: "Alouatta seniculus" ; Times: 1
+	Query: "60313" ; Times: 1
+	Query: "Dipodomys phillipsii" ; Times: 1
+	Query: "31955" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "ROM 95076" ; Times: 2
+	Query: "jagartek river country:"kenya"" ; Times: 1
+	Query: "catalognumber:43286" ; Times: 1
+	Query: ""Lionycteris spurrelli" mappable:1" ; Times: 1
+	Query: "country:"Ecuador" specificepithet:bilobatum genus:Uroderma" ; Times: 1
+	Query: "Callosciurus erythraeus" ; Times: 1
+	Query: ""Caluromys philander" mappable:1" ; Times: 1
+	Query: ""Eptesicus diminutus" mappable:1" ; Times: 1
+	Query: ""Cuniculus paca" mappable:1" ; Times: 1
+	Query: "ailuropoda" ; Times: 1
+	Query: "25393" ; Times: 1
+	Query: "skin type:specimen specificepithet:ventralis genus:Tadarida" ; Times: 1
+	Query: ""Histiotus velatus" mappable:1" ; Times: 1
+	Query: "specificepithet:desmarestii genus:Megalomys" ; Times: 2
+	Query: "ROM 68582" ; Times: 1
+	Query: "ROM melursus skin" ; Times: 1
+	Query: "83998" ; Times: 1
+	Query: "46610" ; Times: 1
+	Query: "specificepithet:trumbulli genus:Eumops" ; Times: 3
+	Query: ""Monodelphis brevicaudata" mappable:1" ; Times: 1
+	Query: ""Eumops delticus" mappable:1" ; Times: 1
+	Query: "91707" ; Times: 1
+	Query: ""Diclidurus ingens" mappable:1" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 2
+	Query: "specificepithet:hybridus genus:Dasypus" ; Times: 1
+	Query: "erithizon" ; Times: 1
+	Query: ""sierra azul"" ; Times: 1
+	Query: ""Noctilio albiventris" mappable:1" ; Times: 1
+	Query: "ROM 93437" ; Times: 1
+	Query: "Nzoia country:"kenya"" ; Times: 1
+	Query: ""Caluromys lanatus" mappable:1" ; Times: 2
+	Query: "ROM 91493" ; Times: 1
+	Query: "7754" ; Times: 1
+	Query: "92141" ; Times: 2
+	Query: ""Leopardus wiedii" mappable:1" ; Times: 1
+	Query: ""Pteronotus gymnonotus" mappable:1" ; Times: 1
+	Query: ""Peropteryx kappleri" mappable:1" ; Times: 1
+	Query: "Martinique" ; Times: 1
+	Query: ""Cabassous unicinctus" mappable:1" ; Times: 1
+	Query: "19463" ; Times: 1
+	Query: "Mazama americana" ; Times: 3
+	Query: "Porter type:specimen stateprovince:"Texas"" ; Times: 1
+	Query: ""Phyllostomus hastatus" mappable:1" ; Times: 1
+	Query: ""Eptesicus furinalis" mappable:1" ; Times: 1
+	Query: "eumops glaucinus" ; Times: 1
+	Query: "Heterohyrax brucei" ; Times: 1
+	Query: "country:"Ecuador" genus:Vampyrodes" ; Times: 1
+	Query: ""Lagothrix cana" mappable:1" ; Times: 1
+	Query: "year >= 1755 year <= 1820" ; Times: 2
+	Query: "year >= 1755 year <= 1821" ; Times: 2
+	Query: "class: Mammalia distance(location,geopoint(10.83330598364249,-65.126953125))<100000" ; Times: 1
+	Query: "year >= 1755 year <= 1823" ; Times: 1
+	Query: "year >= 1755 year <= 1824" ; Times: 2
+	Query: "year >= 1755 year <= 1825" ; Times: 2
+	Query: "year >= 1755 year <= 1826" ; Times: 1
+	Query: ""Phyllostomus elongatus" mappable:1" ; Times: 1
+	Query: "Trans Nzoia country:"kenya"" ; Times: 1
+	Query: "Crocidura horsfieldii" ; Times: 1
+	Query: ""Mazama americana" mappable:1" ; Times: 1
+	Query: "Cebidae" ; Times: 2
+	Query: ""Cynomops paranus" mappable:1" ; Times: 1
+	Query: ""Oecomys bicolor" mappable:1" ; Times: 1
+	Query: "ROM 95045" ; Times: 2
+	Query: ""Artibeus anderseni" mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:endoi genus:Pipistrellus" ; Times: 1
+	Query: "rom ursus skin" ; Times: 1
+	Query: "Sciurus vulgaris" ; Times: 4
+	Query: ""Chiroderma villosum" mappable:1" ; Times: 1
+	Query: "Micronycteris year >= 1960 year <= 1973" ; Times: 1
+	Query: "tabasco" ; Times: 2
+	Query: "lepus americanus distance(location,geopoint(49.167338606291075,-122.728271484375))<59636" ; Times: 1
+	Query: "ROM ursus skin" ; Times: 1
+	Query: "Anoura geoffroyi country:"ECUADOR" year >= 1990 year <= 2015" ; Times: 1
+	Query: "catalognumber:102825" ; Times: 3
+	Query: "catalognumber:45660 institutioncode:ROM" ; Times: 1
+	Query: "ROM helarctos skin" ; Times: 1
+	Query: "skin type:specimen specificepithet:montanus genus:Nyctalus" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(49.41097319969587,-122.6513671875))<39648.43250824611" ; Times: 1
+	Query: ""Phyllostomus latifolius" mappable:1" ; Times: 1
+	Query: ""Eumops trumbulli" mappable:1" ; Times: 1
+	Query: "Eira barbara mappable:1" ; Times: 2
+	Query: "Desmodus rotundus country:"ECUADOR" year >= 1990 year <= 2015" ; Times: 1
+	Query: "specificepithet:thomasi genus:Sturnira" ; Times: 3
+	Query: ""Molossops temminckii" mappable:1" ; Times: 1
+	Query: "catalognumber:95738" ; Times: 1
+	Query: "102824" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(49.41097319969587,-122.6513671875))<45305" ; Times: 2
+	Query: "specificepithet:saturnus genus:Echimys" ; Times: 3
+	Query: ""Artibeus cinereus" mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:velatus genus:Histiotus" ; Times: 1
+	Query: "ROM 83818" ; Times: 2
+	Query: "type:specimen specificepithet:nucella genus:Scotophilus" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(49.610709938074244,-122.431640625))<39648" ; Times: 1
+	Query: ""Ametrida centurio" mappable:1" ; Times: 1
+	Query: "orcinus orca type:specimen" ; Times: 1
+	Query: "skin type:specimen specificepithet:smithii genus:Kerivoula" ; Times: 1
+	Query: "skin type:specimen specificepithet:setiger genus:Platymops" ; Times: 1
+	Query: "specificepithet:whitleyi genus:Myopterus" ; Times: 5
+	Query: "ROM helogale skin" ; Times: 1
+	Query: "skin type:specimen specificepithet:angolensis genus:Laephotis" ; Times: 1
+	Query: ""Choeroniscus minor" mappable:1" ; Times: 1
+	Query: "56147" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 8
+	Query: "neotoma clark county nevada" ; Times: 1
+	Query: "Diaemus youngi" ; Times: 2
+	Query: ""Nyctinomops macrotis" mappable:1" ; Times: 1
+	Query: "year >= 1755 year <= 1819" ; Times: 3
+	Query: "year >= 1755 year <= 1810" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 3
+	Query: ""Philander andersoni" mappable:1" ; Times: 1
+	Query: "skin type:specimen specificepithet:curryae genus:Glauconycteris" ; Times: 1
+	Query: ""Puma yagouaroundi"" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus institutioncode:rom" ; Times: 8
+	Query: ""Promops centralis" mappable:1" ; Times: 1
+	Query: ""Micronycteris minuta" mappable:1" ; Times: 1
+	Query: "29475" ; Times: 1
+	Query: "type:specimen specificepithet:angolensis genus:Laephotis" ; Times: 1
+	Query: ""Platyrrhinus lineatus" mappable:1" ; Times: 1
+	Query: "microtus agrestis" ; Times: 3
+	Query: "type:specimen specificepithet:hosonoi genus:Myotis" ; Times: 1
+	Query: ""Ateles belzebuth" mappable:1" ; Times: 1
+	Query: ""Myrmecophaga tridactyla" mappable:1" ; Times: 1
+	Query: "arctocephalus pusillus lacm" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "year:1840" ; Times: 5
+	Query: "Tadarida brasiliensis stateprovince:"Veracruz" country:"Mexico"" ; Times: 1
+	Query: "specificepithet:setiger genus:Platymops" ; Times: 3
+	Query: "skin type:specimen specificepithet:phalaena genus:Kerivoula" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(49.03786794532644,-122.706298828125))<49048.71062599085" ; Times: 13
+	Query: ""Cebus olivaceus"" ; Times: 1
+	Query: "catalognumber:31491" ; Times: 1
+	Query: "order: pholidota" ; Times: 3
+	Query: "dermoptera mappable:1" ; Times: 5
+	Query: "35044 class:mammalia institutioncode:ROM" ; Times: 1
+	Query: "skin type:specimen specificepithet:kenyacola genus:Glauconycteris" ; Times: 1
+	Query: ""Microsciurus flaviventer" mappable:1" ; Times: 1
+	Query: "Dicrostonyx hudsonius" ; Times: 1
+	Query: ""Eumops bonariensis" mappable:1" ; Times: 1
+	Query: "erithizon dorsatum" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 4
+	Query: ""Lophostoma carrikeri" mappable:1" ; Times: 1
+	Query: "equus burchelli" ; Times: 1
+	Query: "specificepithet:megalotis genus:Hipposideros" ; Times: 5
+	Query: "skin type:specimen specificepithet:nucella genus:Scotophilus" ; Times: 1
+	Query: "Caluromys philander" ; Times: 1
+	Query: ""Proechimys cuvieri" mappable:1" ; Times: 1
+	Query: "specificepithet:phaeus genus:Micoureus" ; Times: 5
+	Query: ""Marmosops parvidens" mappable:1" ; Times: 1
+	Query: ""Eumops perotis" mappable:1" ; Times: 1
+	Query: ""Philander opossum" mappable:1" ; Times: 1
+	Query: ""Oecomys roberti" mappable:1" ; Times: 1
+	Query: ""Hyladelphys kalinowskii" mappable:1" ; Times: 1
+	Query: "catalognumber:45671 institutioncode:ROM" ; Times: 2
+	Query: ""Molossops neglectus" mappable:1" ; Times: 2
+	Query: "loxodonta africana lacm" ; Times: 1
+	Query: ""Molossus coibensis" mappable:1" ; Times: 1
+	Query: "inia geoffrensis" ; Times: 3
+	Query: ""Neacomys paracou" mappable:1" ; Times: 1
+	Query: "specificepithet:alticola genus:Cricetulus" ; Times: 4
+	Query: "specificepithet:polulus genus:Surdisorex" ; Times: 2
+	Query: "specificepithet:curtus genus:Hipposideros" ; Times: 4
+	Query: "specificepithet:hillorum genus:Rhinolophus" ; Times: 4
+	Query: "distance(location,geopoint(7.28709824406969,-74.1522216796875))<33203" ; Times: 1
+	Query: "Atelidae" ; Times: 2
+	Query: "specificepithet:stoliczkanus genus:Alticola" ; Times: 2
+	Query: "Carollia brevicauda country:"ECUADOR" year >= 1990 year <= 2015" ; Times: 2
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: "genus: mustela specificepithet: nigripes" ; Times: 1
+	Query: ""Oecomys auyantepui" mappable:1" ; Times: 1
+	Query: "Tamandua mexicana mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:flavescens genus:Neoromicia" ; Times: 1
+	Query: "ROM 93441" ; Times: 2
+	Query: ""Eumops hansae" mappable:1" ; Times: 1
+	Query: "genus:Chinchilla" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Cynomops" ; Times: 2
+	Query: ""Furipterus horrens" mappable:1" ; Times: 1
+	Query: ""Echimys chrysurus" mappable:1" ; Times: 1
+	Query: ""Micronycteris megalotis" mappable:1" ; Times: 1
+	Query: ""Dasyprocta leporina" mappable:1" ; Times: 1
+	Query: "58508" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(49.724479188713005,-120.673828125))<100000" ; Times: 1
+	Query: "dermoptera" ; Times: 1
+	Query: "35044 class:mammalia" ; Times: 1
+	Query: "102630 class:mammalia" ; Times: 1
+	Query: "ursus arctos ROM 91290" ; Times: 1
+	Query: "ROM 83804" ; Times: 3
+	Query: ""Lonchophylla mordax" mappable:1" ; Times: 1
+	Query: "34677" ; Times: 1
+	Query: "Callitrichidae" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 11
+	Query: "ethiopia" ; Times: 1
+	Query: "loxodonta" ; Times: 2
+	Query: "specificepithet:minutus genus:Mormopterus" ; Times: 3
+	Query: ""Artibeus obscurus" mappable:1" ; Times: 2
+	Query: "catalognumber:21324" ; Times: 1
+	Query: ""Oecomys rutilus" mappable:1" ; Times: 1
+	Query: "eumops hansae" ; Times: 1
+	Query: ""Cyclopes didactylus" mappable:1" ; Times: 1
+	Query: ""Marmosops pinheiroi" mappable:1" ; Times: 1
+	Query: "country:"Nigeria"" ; Times: 1
+	Query: "zygodontomys" ; Times: 2
+	Query: ""Chiroderma trinitatum" mappable:1" ; Times: 1
+	Query: "Tadarida brasiliensis stateprovince:"Veracruz" country:"MEXICO"" ; Times: 1
+	Query: ""Lonchorhina inusitata" mappable:1" ; Times: 1
+	Query: "Hippopotamus" ; Times: 1
+	Query: ""Cynomops planirostris" mappable:1" ; Times: 1
+	Query: "skin type:specimen specificepithet:lobata genus:Tadarida" ; Times: 1
+	Query: ""Platyrrhinus brachycephalus" mappable:1" ; Times: 1
+	Query: ""Chironectes minimus" mappable:1" ; Times: 1
+	Query: "morgan county west virginia" ; Times: 1
+	Query: ""Macrophyllum macrophyllum" mappable:1" ; Times: 1
+	Query: "ROM 89590" ; Times: 2
+	Query: "Tapirus bairdii" ; Times: 2
+	Query: "27167" ; Times: 1
+	Query: "puerto arista" ; Times: 1
+	Query: "ROM 93526" ; Times: 1
+	Query: "specificepithet:woodi genus:Nycteris" ; Times: 5
+	Query: "Molossus rufus stateprovince:"Veracruz" country:"Mexico"" ; Times: 1
+	Query: "redunca redunca" ; Times: 2
+	Query: "Petaurus breviceps" ; Times: 1
+	Query: ""Cebuella pygmaea" mappable:1" ; Times: 1
+	Query: ""Artibeus concolor" mappable:1" ; Times: 3
+	Query: "ROM 86950" ; Times: 1
+	Query: ""Diphylla ecaudata" mappable:1" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(49.35375571830995,-122.34375))<100000" ; Times: 1
+	Query: "meles meles" ; Times: 2
+	Query: "caluromys" ; Times: 1
+	Query: "Panthera genus:Panthera" ; Times: 2
+	Query: ""Diaemus youngi" mappable:1" ; Times: 1
+	Query: "F35044 class:mammalia" ; Times: 2
+	Query: "catalognumber:54368 institutioncode:ROM" ; Times: 1
+	Query: "Dama" ; Times: 2
+	Query: "eumops perotis country:"mexico"" ; Times: 1
+	Query: ""Phylloderma stenops" mappable:1" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: ""Mazama nemorivaga" mappable:1" ; Times: 1
+	Query: ""Cormura brevirostris" mappable:1" ; Times: 1
+	Query: "116791 class:mammalia" ; Times: 1
+	Query: ""Choeroniscus godmani" mappable:1" ; Times: 1
+	Query: ""Choloepus hoffmanni" mappable:1" ; Times: 1
+	Query: ""Diclidurus scutatus" mappable:1" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(49.18170338770662,-122.54150390625))<100000" ; Times: 1
+	Query: "54895" ; Times: 1
+	Query: "Porter type:specimen county:"Brewster" stateprovince:"Texas"" ; Times: 1
+	Query: ""Callicebus cupreus" mappable:1" ; Times: 1
+	Query: "ROM 89625" ; Times: 1
+	Query: "Gracilinanus emiliae" ; Times: 1
+	Query: "sigmodon pima county" ; Times: 2
+	Query: "skin type:specimen specificepithet:lanosa genus:Kerivoula" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(33.7243396617476,-49.658203125))<2285071" ; Times: 1
+	Query: ""Artibeus gnomus" mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:kenyacola genus:Glauconycteris" ; Times: 1
+	Query: "myocastor coypus" ; Times: 1
+	Query: "Lemmus trimucronatus" ; Times: 1
+	Query: ""Pteronura brasiliensis"" ; Times: 4
+	Query: "catalognumber:100917" ; Times: 2
+	Query: ""Eptesicus chiriquinus" mappable:1" ; Times: 1
+	Query: "class:Mammalia catalognumber:43286" ; Times: 1
+	Query: "specificepithet:niger genus:sciurus institutioncode:rom" ; Times: 1
+	Query: "Heterocephalus" ; Times: 3
+	Query: ""Conepatus semistriatus" mappable:1" ; Times: 2
+	Query: "ROM 89716" ; Times: 1
+	Query: "ROM 89717" ; Times: 1
+	Query: ""Marmosa murina" mappable:1" ; Times: 1
+	Query: ""Alouatta seniculus" mappable:1" ; Times: 2
+	Query: ""Oecomys rex" mappable:1" ; Times: 1
+	Query: "83487" ; Times: 1
+	Query: ""Cynomops abrasus" mappable:1" ; Times: 1
+	Query: "Galictis vittata mappable:1" ; Times: 1
+	Query: ""Peropteryx trinitatis" mappable:1" ; Times: 2
+	Query: "Porter type:specimen stateprovince:"Texas" class:Mammalia" ; Times: 1
+	Query: "95008" ; Times: 1
+	Query: ""Myotis riparius" mappable:1" ; Times: 1
+	Query: "simba river country:"kenya"" ; Times: 1
+	Query: "ateles belzebuth" ; Times: 21
+	Query: "Carollia perspicillata country:"ECUADOR" year >= 1990 year <= 2015" ; Times: 1
+	Query: "Caviidae" ; Times: 1
+	Query: ""Alouatta macconnelli" mappable:1" ; Times: 1
+	Query: ""Peropteryx leucoptera" mappable:1" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "lepus americanus distance(location,geopoint(49.610709938074244,-122.431640625))<53666" ; Times: 1
+	Query: "catalognumber:52495" ; Times: 1
+	Query: "specificepithet:tristriatus genus:Funambulus" ; Times: 1
+	Query: "ROM 93451" ; Times: 1
+	Query: "class:Mammalia catalognumber:43293" ; Times: 1
+	Query: "ROM 93459" ; Times: 1
+	Query: "ROM 93512" ; Times: 1
+	Query: "catalognumber:86917" ; Times: 1
+	Query: ""Micronycteris hirsuta" mappable:1" ; Times: 1
+	Query: "Pteronura brasiliensis" ; Times: 1
+	Query: "Sorex bendirii" ; Times: 1
+	Query: "ROM 78137" ; Times: 3
+	Query: "lepus americanus distance(location,geopoint(49.167338606291075,-122.728271484375))<100000" ; Times: 1
+	Query: "Melogale personata" ; Times: 1
+	Query: ""Neacomys guianae" mappable:1" ; Times: 1
+	Query: "ROM 83834" ; Times: 1
+	Query: "ROM 83833" ; Times: 1
+	Query: "genus:nesoryzomys" ; Times: 1
+	Query: ""Myotis simus" mappable:1" ; Times: 1
+	Query: "specificepithet:macinnesi genus:Rhinopoma" ; Times: 3
+	Query: ""Cebus olivaceus" mappable:1" ; Times: 1
+	Query: ""Panthera onca" mappable:1" ; Times: 1
+	Query: "483" ; Times: 1
+	Query: ""Glyphonycteris daviesi" mappable:1" ; Times: 1
+	Query: ""Oecomys concolor" mappable:1" ; Times: 2
+	Query: "42523 class:mammalia institutioncode:ROM" ; Times: 1
+	Query: "nasalis larvatus" ; Times: 4
+	Query: ""Procyon cancrivorus" mappable:1" ; Times: 1
+	Query: "Oryzorictes tetradactylus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 234 (out of 1138 download events in this period)
+Total number of records downloaded: 54678 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 30846
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 234
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-04 ; Times: 3
+	Date: 2015-08-05 ; Times: 5
+	Date: 2015-08-06 ; Times: 5
+	Date: 2015-08-13 ; Times: 1
+	Date: 2015-08-14 ; Times: 1
+	Date: 2015-08-16 ; Times: 3
+	Date: 2015-08-17 ; Times: 2
+	Date: 2015-08-18 ; Times: 1
+	Date: 2015-08-19 ; Times: 8
+	Date: 2015-08-21 ; Times: 26
+	Date: 2015-08-22 ; Times: 1
+	Date: 2015-08-24 ; Times: 56
+	Date: 2015-08-25 ; Times: 79
+	Date: 2015-08-26 ; Times: 32
+	Date: 2015-08-28 ; Times: 1
+	Date: 2015-08-29 ; Times: 3
+	Date: 2015-08-31 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "" ; Times: 1
+	Query: "year >= 1755 year <= 1819" ; Times: 3
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: ""Platyrrhinus lineatus" mappable:1" ; Times: 1
+	Query: ""Noctilio albiventris" mappable:1" ; Times: 1
+	Query: ""Eumops auripendulus" mappable:1" ; Times: 1
+	Query: "country:"panama"" ; Times: 1
+	Query: "Ochotona collaris" ; Times: 1
+	Query: ""Eumops perotis" mappable:1" ; Times: 1
+	Query: ""Lonchorhina aurita" mappable:1" ; Times: 1
+	Query: ""Ateles belzebuth" mappable:1" ; Times: 1
+	Query: "riverside county" ; Times: 1
+	Query: ""Proechimys guyannensis" mappable:1" ; Times: 1
+	Query: ""Platyrrhinus brachycephalus" mappable:1" ; Times: 1
+	Query: "Arborimus longicaudus" ; Times: 1
+	Query: ""Chironectes minimus" mappable:1" ; Times: 1
+	Query: ""Macrophyllum macrophyllum" mappable:1" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: ""Echimys chrysurus" mappable:1" ; Times: 1
+	Query: ""Anoura caudifer" mappable:1" ; Times: 1
+	Query: ""Pteronotus gymnonotus" mappable:1" ; Times: 1
+	Query: ""Peropteryx kappleri" mappable:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: ""Cabassous unicinctus" mappable:1" ; Times: 1
+	Query: "Sorex arcticus" ; Times: 1
+	Query: ""Chiroderma trinitatum" mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(-3.5426625084420342,-59.47265803813934))<1104168" ; Times: 1
+	Query: "Petaurus breviceps" ; Times: 1
+	Query: "Lepus townsendii" ; Times: 1
+	Query: "order: pholidota" ; Times: 1
+	Query: ""Phyllostomus hastatus" mappable:1" ; Times: 1
+	Query: ""Eptesicus furinalis" mappable:1" ; Times: 1
+	Query: "microtus agrestis" ; Times: 1
+	Query: ""Caluromys lanatus" mappable:1" ; Times: 1
+	Query: ""Glossophaga longirostris" mappable:1" ; Times: 1
+	Query: ""Oecomys roberti" mappable:1" ; Times: 1
+	Query: ""Cebuella pygmaea" mappable:1" ; Times: 1
+	Query: ""Artibeus concolor" mappable:1" ; Times: 1
+	Query: "venezuela" ; Times: 2
+	Query: ""Microsciurus flaviventer" mappable:1" ; Times: 1
+	Query: ""Leopardus pardalis" mappable:1" ; Times: 1
+	Query: ""Mazama americana" mappable:1" ; Times: 1
+	Query: ""Myotis albescens" mappable:1" ; Times: 1
+	Query: "perognathus parvus" ; Times: 1
+	Query: "year >= 1755 year <= 1820" ; Times: 2
+	Query: "year >= 1755 year <= 1821" ; Times: 1
+	Query: "Didelphidae" ; Times: 1
+	Query: "Synaptomys cooperi" ; Times: 1
+	Query: ""Phyllostomus elongatus" mappable:1" ; Times: 1
+	Query: ""Diphylla ecaudata" mappable:1" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: ""Cynomops planirostris" mappable:1" ; Times: 1
+	Query: "Microtus miurus" ; Times: 1
+	Query: ""Lophostoma carrikeri" mappable:1" ; Times: 1
+	Query: "Dicrostonyx hudsonius" ; Times: 1
+	Query: "Aotidae" ; Times: 1
+	Query: ""Philander andersoni" mappable:1" ; Times: 1
+	Query: ""Eumops bonariensis" mappable:1" ; Times: 1
+	Query: ""Diaemus youngi" mappable:1" ; Times: 1
+	Query: ""Promops centralis" mappable:1" ; Times: 1
+	Query: "didelphidae" ; Times: 1
+	Query: "Spermophilus franklinii" ; Times: 1
+	Query: "Perognathus fasciatus" ; Times: 3
+	Query: "Tamiasciurus douglasii" ; Times: 1
+	Query: "Spermophilus washingtoni" ; Times: 1
+	Query: ""Cebus olivaceus" mappable:1" ; Times: 1
+	Query: ""Proechimys cuvieri" mappable:1" ; Times: 1
+	Query: ""Artibeus glaucus" mappable:1" ; Times: 1
+	Query: ""Oecomys bicolor" mappable:1" ; Times: 1
+	Query: ""Lasiurus ega" mappable:1" ; Times: 1
+	Query: ""Cormura brevirostris" mappable:1" ; Times: 1
+	Query: ""Marmosops parvidens" mappable:1" ; Times: 1
+	Query: "Rangifer tarandus" ; Times: 1
+	Query: ""Choeroniscus godmani" mappable:1" ; Times: 1
+	Query: ""Philander opossum" mappable:1" ; Times: 1
+	Query: "Mustela erminea" ; Times: 1
+	Query: ""Neoplatymops mattogrossensis" mappable:1" ; Times: 1
+	Query: ""Oecomys rex" mappable:1" ; Times: 1
+	Query: ""Choloepus hoffmanni" mappable:1" ; Times: 1
+	Query: "Pitheciidae" ; Times: 2
+	Query: "type:specimen specificepithet:leucopus genus:peromyscus tissue:1" ; Times: 1
+	Query: ""Artibeus lituratus" mappable:1" ; Times: 3
+	Query: "Dicrostonyx groenlandicus" ; Times: 1
+	Query: "synaptomys borealis" ; Times: 1
+	Query: ""Leopardus tigrinus" mappable:1" ; Times: 1
+	Query: "specificepithet:floridana genus:neotoma" ; Times: 1
+	Query: ""Ateles paniscus" mappable:1" ; Times: 1
+	Query: ""Lonchophylla thomasi" mappable:1" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "Sciurus vulgaris" ; Times: 1
+	Query: ""Chiroderma villosum" mappable:1" ; Times: 1
+	Query: "Sorex pacificus" ; Times: 1
+	Query: "Marmota flaviventris" ; Times: 1
+	Query: ""Myrmecophaga tridactyla" mappable:1" ; Times: 1
+	Query: ""Callicebus cupreus" mappable:1" ; Times: 1
+	Query: ""Odocoileus virginianus" mappable:1" ; Times: 1
+	Query: "Spermophilus saturatus" ; Times: 1
+	Query: "country:"peru"" ; Times: 1
+	Query: ""Nasua nasua" mappable:1" ; Times: 1
+	Query: ""Eumops glaucinus" mappable:1" ; Times: 1
+	Query: ""Chrotopterus auritus" mappable:1" ; Times: 1
+	Query: "tabasco" ; Times: 2
+	Query: "ROM mephitis mephitis skin" ; Times: 1
+	Query: ""Mesophylla macconnelli" mappable:1" ; Times: 1
+	Query: "ROM ursus skin" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "Atelidae" ; Times: 2
+	Query: ""Artibeus gnomus" mappable:1" ; Times: 1
+	Query: "spilogale putorius distance(location,geopoint(35.110304562291745,-93.90314385294914))<423808.6749531791" ; Times: 1
+	Query: ""Caluromys philander" mappable:1" ; Times: 1
+	Query: ""Desmodus rotundus" mappable:1" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: ""Marmosops noctivagus" mappable:1" ; Times: 1
+	Query: ""Anoura geoffroyi" mappable:1" ; Times: 2
+	Query: ""Peropteryx macrotis" mappable:1" ; Times: 1
+	Query: "country:"Paraguay" class:mammalia" ; Times: 1
+	Query: ""Carollia brevicauda" mappable:1" ; Times: 2
+	Query: ""Eptesicus chiriquinus" mappable:1" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 1
+	Query: "canis" ; Times: 1
+	Query: "Eira barbara mappable:1" ; Times: 1
+	Query: ""Molossops temminckii" mappable:1" ; Times: 1
+	Query: "Ovibos moschatus" ; Times: 1
+	Query: ""Potos flavus" mappable:1" ; Times: 1
+	Query: ""Leopardus wiedii" mappable:1" ; Times: 1
+	Query: ""Noctilio leporinus" mappable:1" ; Times: 1
+	Query: ""Molossus molossus" mappable:1" ; Times: 1
+	Query: ""Artibeus planirostris" mappable:1" ; Times: 2
+	Query: ""Conepatus semistriatus" mappable:1" ; Times: 1
+	Query: "stateprovince:"Pennsylvania"" ; Times: 1
+	Query: ""Marmosa murina" mappable:1" ; Times: 1
+	Query: ""Alouatta seniculus" mappable:1" ; Times: 1
+	Query: ""Artibeus anderseni" mappable:1" ; Times: 1
+	Query: "mus" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: ""Platyrrhinus infuscus" mappable:1" ; Times: 1
+	Query: "didelphis" ; Times: 1
+	Query: "Tamandua mexicana mappable:1" ; Times: 1
+	Query: ""Cynomops abrasus" mappable:1" ; Times: 2
+	Query: ""Artibeus cinereus" mappable:1" ; Times: 1
+	Query: ""Micronycteris hirsuta" mappable:1" ; Times: 1
+	Query: ""Eptesicus brasiliensis" mappable:1" ; Times: 1
+	Query: ""Eumops hansae" mappable:1" ; Times: 1
+	Query: "Galictis vittata mappable:1" ; Times: 1
+	Query: ""Peropteryx trinitatis" mappable:1" ; Times: 1
+	Query: ""Oecomys concolor" mappable:1" ; Times: 1
+	Query: "carnivora country:"Mexico" mappable:1" ; Times: 1
+	Query: ""Micoureus demerarae" mappable:1" ; Times: 1
+	Query: ""Mesomys hispidus" mappable:1" ; Times: 1
+	Query: ""Furipterus horrens" mappable:1" ; Times: 1
+	Query: ""Myotis riparius" mappable:1" ; Times: 1
+	Query: ""Ametrida centurio" mappable:1" ; Times: 1
+	Query: ""Micronycteris megalotis" mappable:1" ; Times: 1
+	Query: "Spermophilus townsendii" ; Times: 2
+	Query: ""Dasyprocta leporina" mappable:1" ; Times: 1
+	Query: "orcinus orca type:specimen" ; Times: 1
+	Query: ""Lionycteris spurrelli" mappable:1" ; Times: 1
+	Query: "Caviidae" ; Times: 1
+	Query: ""Alouatta macconnelli" mappable:1" ; Times: 1
+	Query: "year >= 1755 year <= 1826" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: ""Oligoryzomys fulvescens" mappable:1" ; Times: 1
+	Query: "marmota flaviventris" ; Times: 1
+	Query: ""Peropteryx leucoptera" mappable:1" ; Times: 1
+	Query: "Oreamnos americanus" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "Lepus arcticus" ; Times: 1
+	Query: ""Eptesicus diminutus" mappable:1" ; Times: 1
+	Query: "Phenacomys intermedius" ; Times: 1
+	Query: "Plethodon" ; Times: 1
+	Query: ""Nyctinomops laticaudatus" mappable:1" ; Times: 1
+	Query: ""Cuniculus paca" mappable:1" ; Times: 1
+	Query: "microtus californicus" ; Times: 1
+	Query: "stateprovince:"Mato Grosso" country:"Brazil" class:Mammalia" ; Times: 1
+	Query: "type:specimen specificepithet:maniculatus genus:peromyscus tissue:1" ; Times: 1
+	Query: ""Cebus olivaceus"" ; Times: 1
+	Query: ""Myotis nigricans" mappable:1" ; Times: 1
+	Query: "Callitrichidae" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Mustela nivalis" ; Times: 1
+	Query: "country:"bolivia"" ; Times: 1
+	Query: ""Carollia perspicillata" mappable:1" ; Times: 3
+	Query: ""Phylloderma stenops" mappable:1" ; Times: 1
+	Query: ""Nyctinomops macrotis" mappable:1" ; Times: 1
+	Query: "Thomomys bulbivorus" ; Times: 1
+	Query: "Spermophilus parryii" ; Times: 1
+	Query: "country:Brazil" ; Times: 2
+	Query: ""Artibeus obscurus" mappable:1" ; Times: 2
+	Query: ""Lasiurus cinereus" mappable:1" ; Times: 1
+	Query: ""Eira barbara" mappable:1" ; Times: 1
+	Query: ""Molossus rufus" mappable:1" ; Times: 1
+	Query: ""Neacomys guianae" mappable:1" ; Times: 1
+	Query: ""Oecomys rutilus" mappable:1" ; Times: 1
+	Query: ""Molossus coibensis" mappable:1" ; Times: 1
+	Query: ""Cynomops paranus" mappable:1" ; Times: 1
+	Query: ""Panthera onca" mappable:1" ; Times: 1
+	Query: ""Cyclopes didactylus" mappable:1" ; Times: 1
+	Query: ""Metachirus nudicaudatus" mappable:1" ; Times: 1
+	Query: "Cebidae" ; Times: 2
+	Query: "Phenacomys ungava" ; Times: 1
+	Query: ""Monodelphis brevicaudata" mappable:1" ; Times: 1
+	Query: ""Pteronotus personatus" mappable:1" ; Times: 1
+	Query: ""Dasypus novemcinctus" mappable:1" ; Times: 1
+	Query: ""Diclidurus ingens" mappable:1" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: ""Proechimys simonsi" mappable:1" ; Times: 1
+	Query: "Microtus xanthognathus" ; Times: 1
+	Query: ""Mazama nemorivaga" mappable:1" ; Times: 1
+	Query: ""Micronycteris minuta" mappable:1" ; Times: 1
+	Query: ""Lasiurus blossevillii" mappable:1" ; Times: 1
+	Query: ""Didelphis marsupialis" mappable:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 600
+Total number of records retrieved from searches: 5389
+Number of download events that retrieved data from the resource: 234
+Total number of records downloaded: 54678
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 600
+Total number of records retrieved from searches: 5389
+Number of download events that retrieved data from the resource: 234
+Total number of records downloaded: 54678
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
