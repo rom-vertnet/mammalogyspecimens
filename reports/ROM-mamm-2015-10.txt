@@ -1,0 +1,419 @@
+Report for Institution Code ROM, Resource mamm
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 406
+Number of records retrieved in searches: 7190
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 60
+	Country: Brazil ; Times: 12
+	Country: Madagascar ; Times: 1
+	Country: Australia ; Times: 4
+	Country: Italy ; Times: 1
+	Country: Bangladesh ; Times: 2
+	Country: Portugal ; Times: 12
+	Country: Mexico ; Times: 65
+	Country: Panama ; Times: 1
+	Country: Singapore ; Times: 12
+	Country: Peru ; Times: 3
+	Country: France ; Times: 3
+	Country: United States ; Times: 194
+	Country: Guatemala ; Times: 8
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 9
+	Country: Russia ; Times: 10
+	Country: Spain ; Times: 3
+	Country: Czech Republic ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 8
+	Date: 2015-10-17 ; Times: 3
+	Date: 2015-10-14 ; Times: 8
+	Date: 2015-10-15 ; Times: 20
+	Date: 2015-10-12 ; Times: 19
+	Date: 2015-10-13 ; Times: 18
+	Date: 2015-10-10 ; Times: 2
+	Date: 2015-10-11 ; Times: 6
+	Date: 2015-10-18 ; Times: 3
+	Date: 2015-10-19 ; Times: 4
+	Date: 2015-10-29 ; Times: 30
+	Date: 2015-10-28 ; Times: 6
+	Date: 2015-10-27 ; Times: 16
+	Date: 2015-10-26 ; Times: 7
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-24 ; Times: 14
+	Date: 2015-10-23 ; Times: 8
+	Date: 2015-10-22 ; Times: 12
+	Date: 2015-10-21 ; Times: 4
+	Date: 2015-10-20 ; Times: 12
+	Date: 2015-10-05 ; Times: 12
+	Date: 2015-10-07 ; Times: 44
+	Date: 2015-10-06 ; Times: 10
+	Date: 2015-10-01 ; Times: 44
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 17
+	Date: 2015-10-09 ; Times: 6
+	Date: 2015-10-08 ; Times: 13
+	Date: 2015-10-30 ; Times: 18
+	Date: 2015-10-31 ; Times: 40
+
+List of queries that retrieved data from the resource: 
+	Query: "Pipistrellus deserti continent:Africa year &gt;= 1960" ; Times: 1
+	Query: "32700" ; Times: 1
+	Query: "bos grunniens" ; Times: 3
+	Query: "panthera" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 2
+	Query: "Odocoileus virginianus and texas" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 1
+	Query: "cynopterus" ; Times: 3
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "procyon lotor stateprovince:&#34;Louisiana&#34; (skin)" ; Times: 1
+	Query: "country:&#34;Indonesia&#34; year &gt;= 1880 year &lt;= 1886" ; Times: 1
+	Query: "Rhinolophus mehelyi country:&#34;Tunisia&#34; continent:Africa" ; Times: 1
+	Query: "Onychomys torridus tularensis (Kern)" ; Times: 2
+	Query: "sarawak Hominidae" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "seniculus" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "type:specimen catalognumber:41463 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:67850" ; Times: 1
+	Query: "peromyscus polionotus (best)" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "Sciuridae sarawak" ; Times: 1
+	Query: "lynx canadensis mappable:1" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 2
+	Query: "order:Rodentia country:&#34;Ethiopia&#34; year &gt;= 1950" ; Times: 1
+	Query: "dama.dama" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "JB Foster 1968" ; Times: 1
+	Query: "Panthera onca" ; Times: 3
+	Query: "catalognumber:27542" ; Times: 1
+	Query: "type:specimen genus:acinonyx" ; Times: 5
+	Query: "ROM- Mammals-57254" ; Times: 1
+	Query: "panthera onca" ; Times: 67
+	Query: "(Panthera tigris)" ; Times: 2
+	Query: "Sigmodon distance(location,geopoint(32.16166284018012,-114.99114990234375))&lt;100000" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "ERETHIZON CANADA" ; Times: 2
+	Query: "genus:acinonyx" ; Times: 1
+	Query: "Awash" ; Times: 1
+	Query: "elephas maximus" ; Times: 3
+	Query: "lontra canadensis" ; Times: 1
+	Query: "12739" ; Times: 1
+	Query: "JB Foster 1960" ; Times: 1
+	Query: "JB Foster 1963" ; Times: 1
+	Query: "order:Rodentia country:&#34;Ethiopia&#34; AND (NOT USNM) year &gt;= 1930" ; Times: 1
+	Query: "JB Foster 1965" ; Times: 1
+	Query: "Sigmodon distance(location,geopoint(32.1360829562021,-114.36355590820312))&lt;100000" ; Times: 1
+	Query: "tamandua mexicana MEXICO" ; Times: 1
+	Query: "ROM 23325" ; Times: 1
+	Query: "ROM 23326" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "sarawak mammalia" ; Times: 2
+	Query: "Rousettus aegyptiacus continent:Africa year &gt;= 1960" ; Times: 1
+	Query: "J.B. Foster" ; Times: 5
+	Query: "sarawak" ; Times: 1
+	Query: "North Island British Columbia 1930" ; Times: 3
+	Query: "North Island British Columbia 1931" ; Times: 1
+	Query: "Pipistrellus kuhlii continent:Africa year &gt;= 1960" ; Times: 1
+	Query: "caluromys derbianus" ; Times: 1
+	Query: "Odocoileus virginianus type:specimen distance(location,geopoint(42.929615368668024,-75.849609375))&lt;100000" ; Times: 1
+	Query: "Procyon cancrivorus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 11
+	Query: "Tragulidae" ; Times: 3
+	Query: "nyctereutes procyonoides" ; Times: 1
+	Query: "JB Foster 1954" ; Times: 2
+	Query: "cabassous" ; Times: 1
+	Query: "JB Foster 1950" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "JB Foster 1953" ; Times: 3
+	Query: "mummy" ; Times: 4
+	Query: "Omo" ; Times: 2
+	Query: "Taphozous perforatus continent:Africa year &gt;= 1960" ; Times: 1
+	Query: "panthera leo" ; Times: 3
+	Query: "sarawak Carnivora" ; Times: 1
+	Query: "rom 15529" ; Times: 2
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "ovis orientalis" ; Times: 1
+	Query: "bradypus tridactylus" ; Times: 2
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Daubentonia madagascariensis" ; Times: 1
+	Query: "Caluromys lanatus" ; Times: 1
+	Query: "perognathus inornatus neglectus" ; Times: 1
+	Query: "catalognumber:30246" ; Times: 1
+	Query: "catalognumber:29329" ; Times: 1
+	Query: "catalognumber:30039" ; Times: 1
+	Query: "erethizon canada" ; Times: 3
+	Query: "23218" ; Times: 1
+	Query: "steatomys" ; Times: 1
+	Query: "MCCONKEY" ; Times: 1
+	Query: "country:&#34;US&#34;" ; Times: 1
+	Query: "order:Rodentia country:&#34;Ethiopia&#34; AND (NOT USNM) year &gt;= 1950" ; Times: 1
+	Query: "Rodentia (Newfoundland Labrador)" ; Times: 1
+	Query: "0289 institutioncode:rom" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 8
+	Query: "43288" ; Times: 1
+	Query: "class:Mammalia county:&#34;Natchitoches&#34;" ; Times: 2
+	Query: "100002" ; Times: 1
+	Query: "22250" ; Times: 1
+	Query: "witch" ; Times: 9
+	Query: "Eptesicus isabellinus continent:Africa year &gt;= 1960" ; Times: 1
+	Query: "class:Mammalia country:&#34;USA&#34;" ; Times: 2
+	Query: "27542" ; Times: 1
+	Query: "reproductivecondition:CR" ; Times: 1
+	Query: "Lemmiscus curtatus" ; Times: 1
+	Query: "type:specimen specificepithet:leucopus genus:Peromyscus stateprovince:&#34;south carolina&#34; year &gt;= 1970 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "rom 19142" ; Times: 2
+	Query: "Microtus (newfoundland labrador)" ; Times: 1
+	Query: "lynx canadensis (canada)" ; Times: 3
+	Query: "class:Mammalia catalognumber:96258" ; Times: 1
+	Query: "JB Foster 1958" ; Times: 1
+	Query: "orinduk" ; Times: 1
+	Query: "catalognumber:50000" ; Times: 1
+	Query: "Mammals in Ethiopia" ; Times: 1
+	Query: "ursus arctos horribilis" ; Times: 1
+	Query: "Pipistrellus pipistrellus continent:Africa year &gt;= 1960" ; Times: 1
+	Query: "specificepithet:jubatus genus:Acinonyx" ; Times: 1
+	Query: "Asellia tridens continent:Africa" ; Times: 1
+	Query: "Sciurus carolinensis country:&#34;USA&#34;" ; Times: 1
+	Query: "dogs" ; Times: 1
+	Query: "Mammalia in Ethiopia" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Pipistrellus rueppelli continent:Africa year &gt;= 1960" ; Times: 1
+	Query: "Erethizon (Canada)" ; Times: 1
+	Query: "Callicebus" ; Times: 2
+	Query: "Sigmodon distance(location,geopoint(32.11049589629439,-115.1641845703125))&lt;100000" ; Times: 1
+	Query: "oryzomys albigularis" ; Times: 4
+	Query: "philander opossum" ; Times: 3
+	Query: "Hoolock hoolock" ; Times: 3
+	Query: "ERETHIZON CANADA mappable:1" ; Times: 1
+	Query: "nyctimene draconilla" ; Times: 1
+	Query: "institutioncode:rom panthera" ; Times: 2
+	Query: "Reithrodontomys microdon" ; Times: 20
+	Query: "Rhizomys sumatrensis" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 1
+	Query: "procyon lotor stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "class:Mammalia sylvilagus transitionalis" ; Times: 1
+	Query: "Rodentia genus:Microtus (Newfoundland OR Labrador)" ; Times: 1
+	Query: "order:Rodentia country:&#34;Ethiopia&#34; AND (NOT USNM) year &gt;= 1920" ; Times: 2
+	Query: "PUMA yagouaroundi" ; Times: 1
+	Query: "PHILANDER OPOSSUM MEXICO" ; Times: 1
+	Query: "Taphozous nudiventris continent:Africa year &gt;= 1960" ; Times: 1
+	Query: "JB Foster" ; Times: 14
+	Query: "type:specimen catalognumber:43645 institutioncode:ROM" ; Times: 1
+	Query: "sarawak Chiroptera" ; Times: 2
+	Query: "Artibeus aztecus" ; Times: 1
+	Query: "Chrysochloridae" ; Times: 2
+	Query: "family:Cercopithecidae (Sabah OR Sarawak)" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 6
+	Query: "catalognumber:33095" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "J Foster 1953" ; Times: 1
+	Query: "Microtus (Newfoundland OR Labrador)" ; Times: 1
+	Query: "21258" ; Times: 1
+	Query: "92289" ; Times: 1
+	Query: "(mustela nivalis OR mustela erminea)" ; Times: 1
+	Query: "genetta genetta" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "sirenia" ; Times: 2
+	Query: "callithrix penicillata" ; Times: 1
+	Query: "Nycteris thebaica continent:Africa year &gt;= 1960" ; Times: 1
+	Query: "specificepithet:pardalis genus:Leopardus institutioncode:ROM" ; Times: 1
+	Query: "JB Foster ROM" ; Times: 4
+	Query: "peromyscus polionotus (best) year &gt;= 1985 year &lt;= 2010" ; Times: 1
+	Query: "puma concolor sur" ; Times: 1
+	Query: "61430" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 3
+	Query: "caracal" ; Times: 1
+	Query: "genus:Leopardus" ; Times: 1
+	Query: "elephas" ; Times: 2
+	Query: "type:specimen (Lepus townsendii) mappable:1" ; Times: 1
+	Query: "Synaptomys (Newfoundland Labrador)" ; Times: 1
+	Query: "JB Foster 1955" ; Times: 2
+	Query: "peromyscus polionotus year &gt;= 1985 year &lt;= 2010" ; Times: 2
+	Query: "Genetta" ; Times: 1
+	Query: "leopard" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "nyctimene certans" ; Times: 1
+	Query: "Caluromys derbianus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Cabassous unicinctus" ; Times: 1
+	Query: "Mammalia (Newfoundland Labrador)" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "Chiroderma salvini" ; Times: 1
+	Query: "Eptesicus serotinus isabellinus continent:Africa year &gt;= 1960" ; Times: 1
+	Query: "Odocoileus virginianus type:specimen (New York)" ; Times: 1
+	Query: "Odocoileus virginianus type:specimen distance(location,geopoint(42.18511618490258,-78.75))&lt;100000" ; Times: 1
+	Query: "Tachyoryctes" ; Times: 2
+	Query: "conepatus semistriatus" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 3
+	Query: "Peromyscus zarhynchus" ; Times: 1
+	Query: "lynx canadensis stateprovince:&#34;British Columbia&#34; mappable:1" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 5
+	Query: "class: Mammalia country:&#34;USA&#34;" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 6
+	Query: "country:&#34;guyana&#34;" ; Times: 1
+	Query: "Sciuridae continent:South America" ; Times: 2
+	Query: "type:specimen catalognumber:29329" ; Times: 1
+	Query: "Onychomys torridus tularensis" ; Times: 1
+	Query: "Odocoileus virginianus type:specimen distance(location,geopoint(42.929615368668024,-75.849609375))&lt;148347" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 132 (out of 823 download events in this period)
+Total number of records downloaded: 12670
+Number of different countries: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 5
+	Country: Uganda ; Times: 1
+	Country: Mexico ; Times: 24
+	Country: Unknown ; Times: 6
+	Country: Panama ; Times: 1
+	Country: Singapore ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 65
+	Country: Chile ; Times: 3
+	Country: Peru ; Times: 2
+	Country: Colombia ; Times: 5
+	Country: Czech Republic ; Times: 3
+	Country: Spain ; Times: 1
+	Country: Bangladesh ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 13
+	Date: 2015-10-17 ; Times: 3
+	Date: 2015-10-14 ; Times: 1
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-12 ; Times: 4
+	Date: 2015-10-13 ; Times: 3
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-19 ; Times: 7
+	Date: 2015-10-29 ; Times: 9
+	Date: 2015-10-28 ; Times: 3
+	Date: 2015-10-27 ; Times: 3
+	Date: 2015-10-26 ; Times: 6
+	Date: 2015-10-25 ; Times: 2
+	Date: 2015-10-24 ; Times: 2
+	Date: 2015-10-23 ; Times: 3
+	Date: 2015-10-21 ; Times: 2
+	Date: 2015-10-20 ; Times: 5
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-07 ; Times: 9
+	Date: 2015-10-06 ; Times: 2
+	Date: 2015-10-01 ; Times: 6
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-02 ; Times: 6
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 9
+	Date: 2015-10-30 ; Times: 18
+	Date: 2015-10-31 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "choloepus hoffmanni" ; Times: 1
+	Query: "cynopterus" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "mustela putorius" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "ovis aries" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "Elephas maximus" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "type:specimen catalognumber:41463 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 21
+	Query: "lynx canadensis mappable:1" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "dama.dama" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "Sciuridae continent:South America" ; Times: 1
+	Query: "genus:Aethomys" ; Times: 1
+	Query: "panthera onca" ; Times: 4
+	Query: "Microtus (Newfoundland Labrador)" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Panthera leo" ; Times: 4
+	Query: "Sciurus carolinensis country:&#34;USA&#34;" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Omo" ; Times: 1
+	Query: "ERETHIZON CANADA" ; Times: 1
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Blarina brevicauda type:specimen stateprovince:&#34;Minnesota&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "genus:Acomys" ; Times: 1
+	Query: "nyctimene" ; Times: 1
+	Query: "erethizon canada" ; Times: 1
+	Query: "peromyscus attwateri" ; Times: 2
+	Query: "steatomys" ; Times: 1
+	Query: "Ailuropoda" ; Times: 1
+	Query: "canis latrans tissue:1" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "Microtus (newfoundland labrador)" ; Times: 1
+	Query: "neotomodon alstoni" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "Mammals in Ethiopia" ; Times: 1
+	Query: "Sciurus aureogaster" ; Times: 2
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Vespertilionidae stateprovince:&#34;washington&#34; mappable:1 distance(location,geopoint(48.567520373908266,-122.93426513671875))&lt;100000" ; Times: 1
+	Query: "Erethizon (Canada)" ; Times: 1
+	Query: "Callicebus" ; Times: 2
+	Query: "order:primates" ; Times: 1
+	Query: "Tachyoryctes" ; Times: 1
+	Query: "Hoolock hoolock" ; Times: 1
+	Query: "ERETHIZON CANADA mappable:1" ; Times: 1
+	Query: "Rhizomys sumatrensis" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 1
+	Query: "(Marinkelle)" ; Times: 1
+	Query: "Rodentia genus:Microtus (Newfoundland OR Labrador)" ; Times: 1
+	Query: "county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Psammomys obesus" ; Times: 1
+	Query: "class:mammalia distance(location,geopoint(21.412162229725425,-98.53912353515625))&lt;17880.42225219646" ; Times: 1
+	Query: "specificepithet:aureogaster genus:Sciurus" ; Times: 2
+	Query: "JB Foster" ; Times: 1
+	Query: "cervus nippon" ; Times: 1
+	Query: "family:Cercopithecidae (Sabah OR Sarawak)" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "paraguay" ; Times: 2
+	Query: "genetta genetta" ; Times: 1
+	Query: "cervus elaphus" ; Times: 1
+	Query: "country:&#34;Peru&#34; recordedby:Schunke" ; Times: 1
+	Query: "callithrix penicillata" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "puma concolor sur" ; Times: 1
+	Query: "odocoileus virginianus guyana" ; Times: 1
+	Query: "genus:Aepyceros" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "type:specimen (Lepus townsendii) mappable:1" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "Caluromys derbianus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Balantiopteryx plicata" ; Times: 1
+	Query: "PARAGUAY" ; Times: 1
+	Query: "nyctereutes procyonoides" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "Meriones shawi" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "Phascolarctos cinereus" ; Times: 2
+	Query: "sciurus vulgaris" ; Times: 2
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "ammospermophilus leucurus" ; Times: 1
+
+
+End of report.
