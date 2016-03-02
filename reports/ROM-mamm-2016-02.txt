@@ -1,0 +1,363 @@
+Report for Institution Code ROM, Resource mamm
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 310
+Number of records retrieved in searches: 2720
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 32
+	Country: Canada ; Times: 4
+	Country: Madagascar ; Times: 5
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 9
+	Country: Mexico ; Times: 50
+	Country: Unknown ; Times: 9
+	Country: France ; Times: 5
+	Country: United States ; Times: 125
+	Country: Sweden ; Times: 42
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 13
+	Country: United Arab Emirates ; Times: 1
+	Country: Switzerland ; Times: 4
+	Country: Russia ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 4
+	Date: 2016-02-08 ; Times: 9
+	Date: 2016-02-18 ; Times: 13
+	Date: 2016-02-19 ; Times: 35
+	Date: 2016-02-12 ; Times: 11
+	Date: 2016-02-13 ; Times: 10
+	Date: 2016-02-10 ; Times: 6
+	Date: 2016-02-11 ; Times: 4
+	Date: 2016-02-16 ; Times: 10
+	Date: 2016-02-17 ; Times: 11
+	Date: 2016-02-14 ; Times: 3
+	Date: 2016-02-15 ; Times: 15
+	Date: 2016-02-03 ; Times: 24
+	Date: 2016-02-02 ; Times: 5
+	Date: 2016-02-09 ; Times: 6
+	Date: 2016-02-22 ; Times: 5
+	Date: 2016-02-21 ; Times: 12
+	Date: 2016-02-20 ; Times: 3
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-25 ; Times: 5
+	Date: 2016-02-24 ; Times: 12
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-29 ; Times: 3
+	Date: 2016-02-28 ; Times: 3
+	Date: 2016-02-05 ; Times: 48
+	Date: 2016-02-04 ; Times: 38
+	Date: 2016-02-07 ; Times: 5
+	Date: 2016-02-06 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;Manitoba&#34;" ; Times: 1
+	Query: "rom 23002 tamiasciurus" ; Times: 1
+	Query: "ROM 18117" ; Times: 1
+	Query: "Elephantidae mappable:1" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "epomops" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 1
+	Query: "kakamega chiroptera" ; Times: 2
+	Query: "&#34;Dermoptera&#34; mappable:1" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 2
+	Query: "genus:zapus stateprovince:&#34;british columbia&#34;" ; Times: 1
+	Query: "indri" ; Times: 2
+	Query: "acinonyx jubatus" ; Times: 2
+	Query: "ototylomys" ; Times: 1
+	Query: "inia" ; Times: 1
+	Query: "rom 86564 tamiasciurus" ; Times: 1
+	Query: "ROM 32343" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 4
+	Query: "crocidura russula iran" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 3
+	Query: "norte de santander Mammalia" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 12
+	Query: "Myotis septentrionalis (Illinois)" ; Times: 1
+	Query: "ROM 18188" ; Times: 1
+	Query: "plecotus austriacus" ; Times: 2
+	Query: "type:specimen county:&#34;clermont&#34; stateprovince:&#34;ohio&#34;" ; Times: 2
+	Query: "catalognumber:78766" ; Times: 1
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 2
+	Query: "specificepithet:hudsonius genus:Zapus stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 12
+	Query: "saguinus labiatus" ; Times: 2
+	Query: "galictis vittata" ; Times: 1
+	Query: "CANADENSIS type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;ONTARIO&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; recordedby:coventry" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 9
+	Query: "rom 3109180052 tamiasciurus" ; Times: 1
+	Query: "rom 86489 tamiasciurus" ; Times: 1
+	Query: "ROM 45256" ; Times: 2
+	Query: "Asellia iran" ; Times: 1
+	Query: "panthera onca" ; Times: 5
+	Query: "ROM 42418" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 2
+	Query: "taphozous iran" ; Times: 1
+	Query: "dermoptera order:dermoptera" ; Times: 1
+	Query: "phylloderma" ; Times: 4
+	Query: "Norte de Santander Mammalia" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "rom 43473 tamiasciurus" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;ONTARIO&#34;" ; Times: 1
+	Query: "Colombia+Saccopteryx" ; Times: 1
+	Query: "chironectes" ; Times: 1
+	Query: "cricetulus iran" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 2
+	Query: "rom 43474 tamiasciurus" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus locality:fort severn stateprovince:&#34;ontario&#34;" ; Times: 1
+	Query: "Spermophilus franklinii" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "Antilocapra Americana" ; Times: 1
+	Query: "rom 17009 tamiasciurus" ; Times: 1
+	Query: "55253" ; Times: 1
+	Query: "rom 80515 tamiasciurus" ; Times: 1
+	Query: "ROM 20452" ; Times: 1
+	Query: "Thomasomys" ; Times: 1
+	Query: "38377" ; Times: 1
+	Query: "mummy" ; Times: 8
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;british columbia&#34;" ; Times: 3
+	Query: "bucher" ; Times: 2
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "catalognumber:36151 institutioncode:ROM" ; Times: 1
+	Query: "dasypus mappable:1" ; Times: 2
+	Query: "cingulata mappable:1" ; Times: 2
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;ONTARIO&#34; (CANADENSIS)" ; Times: 1
+	Query: "mammoth cave" ; Times: 2
+	Query: "genus:neotoma stateprovince:Nevada" ; Times: 1
+	Query: "46719" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "(aberdare)" ; Times: 1
+	Query: "rom 2509260017 tamiasciurus" ; Times: 1
+	Query: "rom 3508010186 tamiasciurus" ; Times: 1
+	Query: "inia geoffrensis" ; Times: 2
+	Query: "&#34;Lynx canadensis&#34; mappable:1" ; Times: 1
+	Query: "witch" ; Times: 5
+	Query: "mindomys" ; Times: 3
+	Query: "rom 65470 tamiasciurus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 5
+	Query: "ROM 42631" ; Times: 1
+	Query: "Didelphis marsupialis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Panthera uncia" ; Times: 7
+	Query: "101225" ; Times: 1
+	Query: "rom 12842 tamiasciurus" ; Times: 1
+	Query: "rom 3509140020 tamiasciurus" ; Times: 1
+	Query: "rom 3201170003 tamiasciurus" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "rom 28205 tamiasciurus" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; recordedby:davis" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34; mappable:1" ; Times: 2
+	Query: "30149" ; Times: 1
+	Query: "indri indri" ; Times: 3
+	Query: "rom 86555 tamiasciurus" ; Times: 1
+	Query: "80729" ; Times: 2
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;indiana&#34;" ; Times: 1
+	Query: "preparations: wet type:specimen class:Mammalia" ; Times: 1
+	Query: "capra iran" ; Times: 1
+	Query: "rom tamiasciurus" ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 3
+	Query: "ROM 19656" ; Times: 1
+	Query: "rom 90991 tamiasciurus" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "Dasypus mappable:1" ; Times: 2
+	Query: "rom 3009200042 tamiasciurus" ; Times: 1
+	Query: "Cryptotis thomasi (Colombia)" ; Times: 1
+	Query: "rom 75371 tamiasciurus" ; Times: 1
+	Query: "plecotus auritus" ; Times: 2
+	Query: "rom 79280 tamiasciurus" ; Times: 1
+	Query: "Mephitis" ; Times: 1
+	Query: "Borneo Rodentia" ; Times: 1
+	Query: "ROM 18141" ; Times: 1
+	Query: "catalognumber:36104 institutioncode:ROM" ; Times: 1
+	Query: "ROM 18144" ; Times: 1
+	Query: "barbastella" ; Times: 1
+	Query: "genus:spermophilus stateprovince:&#34;minnesota&#34;" ; Times: 2
+	Query: "Myotis septentrionalis (Indiana)" ; Times: 2
+	Query: "catalognumber:67850" ; Times: 1
+	Query: "Urocyon" ; Times: 1
+	Query: "santander mammalia" ; Times: 1
+	Query: "rom 86697 tamiasciurus" ; Times: 1
+	Query: "rom 75797 tamiasciurus" ; Times: 1
+	Query: "rom 86511 tamiasciurus" ; Times: 1
+	Query: "rom 2204201339 tamiasciurus" ; Times: 1
+	Query: "rom 43470 tamiasciurus" ; Times: 1
+	Query: "type:specimen genus:sus (skeleton)" ; Times: 1
+	Query: "type:specimen genus:sus" ; Times: 1
+	Query: "tarsier" ; Times: 1
+	Query: "callicebus" ; Times: 1
+	Query: "rom 86543 tamiasciurus" ; Times: 1
+	Query: "72101" ; Times: 1
+	Query: "Royal Alberta Museum" ; Times: 1
+	Query: "ROM 18158" ; Times: 3
+	Query: "genus:inia" ; Times: 3
+	Query: "Proechimys chrysaeolus" ; Times: 1
+	Query: "rom onakawana tamiasciurus" ; Times: 1
+	Query: "92828" ; Times: 1
+	Query: "Erinaceus europaeus" ; Times: 1
+	Query: "Mammoth Cave stateprovince:&#34;Kentucky&#34;" ; Times: 2
+	Query: "genus:nyctomys" ; Times: 2
+	Query: "catalognumber:29532 institutioncode:ROM" ; Times: 2
+	Query: "dusicyon" ; Times: 1
+	Query: "genus:ototylomys country:&#34;belize&#34;" ; Times: 4
+	Query: "saguinus" ; Times: 2
+	Query: "type:specimen preparations:wet" ; Times: 1
+	Query: "82074" ; Times: 1
+	Query: "rom 24214 tamiasciurus" ; Times: 1
+	Query: "rom 86695 tamiasciurus" ; Times: 1
+	Query: "rom 28498 tamiasciurus" ; Times: 1
+	Query: "dermoptera" ; Times: 7
+	Query: "Pteronura brasiliensis" ; Times: 2
+	Query: "norte de santander" ; Times: 2
+	Query: "rom 2510160375 tamiasciurus" ; Times: 1
+	Query: "&#34;dasypus novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "rom 75781 tamiasciurus" ; Times: 1
+	Query: "ROM 22876" ; Times: 1
+	Query: "rom 13569 tamiasciurus" ; Times: 1
+	Query: "ROM 2403" ; Times: 1
+	Query: "rom 23001 tamiasciurus" ; Times: 1
+	Query: "stateprovince:&#34;Norte de Santander&#34;" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "Myotis albescens" ; Times: 1
+	Query: "ruwenzorii" ; Times: 1
+	Query: "stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; recordedby:WALKER" ; Times: 1
+	Query: "rom 28510 tamiasciurus" ; Times: 1
+	Query: "Sturnira parvidens ROM" ; Times: 1
+	Query: "Asellia tridens iran" ; Times: 1
+	Query: "rom 43471 tamiasciurus" ; Times: 1
+	Query: "ovis iran" ; Times: 1
+	Query: "33903" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "76895" ; Times: 2
+	Query: "ROM 37617" ; Times: 3
+	Query: "antrozous pallidus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "rom 85473 tamiasciurus" ; Times: 1
+	Query: "dasypus novemcinctus mappable:1" ; Times: 1
+	Query: "microtus iran" ; Times: 1
+	Query: "rom 50294 tamiasciurus" ; Times: 1
+	Query: "genus:ototylomys stateprovince:&#34;cayo&#34; country:&#34;belize&#34;" ; Times: 1
+	Query: "95118" ; Times: 1
+	Query: "rom 81444 tamiasciurus" ; Times: 1
+	Query: "ROM 2144" ; Times: 2
+	Query: "33755" ; Times: 1
+	Query: "UMMZ peromyscus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 110 (out of 512 download events in this period)
+Total number of records downloaded: 11886
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 5
+	Country: Mexico ; Times: 29
+	Country: Unknown ; Times: 18
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 48
+	Country: Sweden ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 5
+	Date: 2016-02-08 ; Times: 1
+	Date: 2016-02-18 ; Times: 7
+	Date: 2016-02-19 ; Times: 11
+	Date: 2016-02-12 ; Times: 6
+	Date: 2016-02-13 ; Times: 3
+	Date: 2016-02-10 ; Times: 2
+	Date: 2016-02-11 ; Times: 1
+	Date: 2016-02-16 ; Times: 6
+	Date: 2016-02-17 ; Times: 2
+	Date: 2016-02-14 ; Times: 2
+	Date: 2016-02-15 ; Times: 2
+	Date: 2016-02-29 ; Times: 1
+	Date: 2016-02-02 ; Times: 3
+	Date: 2016-02-23 ; Times: 2
+	Date: 2016-02-22 ; Times: 3
+	Date: 2016-02-21 ; Times: 8
+	Date: 2016-02-20 ; Times: 4
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-25 ; Times: 2
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-03 ; Times: 4
+	Date: 2016-02-28 ; Times: 3
+	Date: 2016-02-05 ; Times: 3
+	Date: 2016-02-04 ; Times: 24
+	Date: 2016-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;Manitoba&#34;" ; Times: 1
+	Query: "type:specimen genus:sus (skeleton)" ; Times: 1
+	Query: "genus:nyctomys" ; Times: 1
+	Query: "Delphinidae" ; Times: 1
+	Query: "Cedar Canyon county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 8
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;british columbia&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus locality:fort severn stateprovince:&#34;ontario&#34;" ; Times: 1
+	Query: "rom tamiasciurus" ; Times: 1
+	Query: "Cricetomys gambianus" ; Times: 1
+	Query: "&#34;Dermoptera&#34; mappable:1" ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 2
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;minnesota&#34;" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "Puma concolor" ; Times: 5
+	Query: "ototylomys" ; Times: 1
+	Query: "Eira" ; Times: 1
+	Query: "Cryptotis thomasi (Colombia)" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "crocidura russula iran" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 9
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus locality:emma lake stateprovince:&#34;saskatchewan&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 18
+	Query: "Bos taurus" ; Times: 1
+	Query: "spermophilus tridecemlineatus" ; Times: 1
+	Query: "Sturnira parvidens ROM" ; Times: 1
+	Query: "Zygodontomys brevicauda" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Scapanus orarius" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;ontario&#34;" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "ovis iran" ; Times: 1
+	Query: "meriones iran" ; Times: 1
+	Query: "perognathus inornatus" ; Times: 1
+	Query: "pipistrellus iran" ; Times: 1
+	Query: "county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "puma concolor" ; Times: 8
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "callicebus" ; Times: 2
+	Query: "saguinus midas" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "enhydra lutris nereis" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "norte de santander" ; Times: 1
+	Query: "phylloderma" ; Times: 1
+	Query: "Soricidae (Colombia) mappable:1" ; Times: 1
+	Query: "microtus iran" ; Times: 1
+	Query: "Proechimys chrysaeolus" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "Saltator" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+	Query: "genus:martes continent:north america" ; Times: 1
+
+
+End of report.
