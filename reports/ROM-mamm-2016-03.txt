@@ -1,0 +1,154 @@
+Report for Institution Code ROM, Resource mamm
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 89
+Number of records retrieved in searches: 1095
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 12
+	Country: Brazil ; Times: 3
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 50
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Switzerland ; Times: 2
+	Country: Russia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-04 ; Times: 4
+	Date: 2016-03-11 ; Times: 23
+	Date: 2016-03-10 ; Times: 17
+	Date: 2016-03-01 ; Times: 6
+	Date: 2016-03-08 ; Times: 7
+	Date: 2016-03-09 ; Times: 3
+	Date: 2016-03-06 ; Times: 5
+	Date: 2016-03-07 ; Times: 4
+	Date: 2016-03-14 ; Times: 3
+	Date: 2016-03-05 ; Times: 4
+	Date: 2016-03-02 ; Times: 6
+	Date: 2016-03-03 ; Times: 3
+	Date: 2016-03-13 ; Times: 2
+	Date: 2016-03-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Hylobates institutioncode:ROM" ; Times: 1
+	Query: "genus:Lasionycteris stateprovince:&#34;Ontario&#34;" ; Times: 1
+	Query: "type:specimen order:rodentia recordedby:stewart institutioncode:ROM" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "mimon crenulatum" ; Times: 1
+	Query: "specificepithet:ciliolabrum genus:myotis family:vespertilionidae order:chiroptera class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "lichen" ; Times: 1
+	Query: "specificepithet:pardus genus:panthera family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "ROM 30874" ; Times: 1
+	Query: "post county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:genetta genus:genetta family:viverridae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "type:specimen catalognumber:109358 institutioncode:ROM" ; Times: 1
+	Query: "genus:hylobates institutioncode:ROM" ; Times: 1
+	Query: "95588" ; Times: 1
+	Query: "post stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Tenrec ecaudatus" ; Times: 1
+	Query: "locality:San Cayetano" ; Times: 1
+	Query: "catalognumber:34429 institutioncode:ROM" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "distance(location,geopoint(37.02009820136811,15.46875))&lt;100000" ; Times: 1
+	Query: "specificepithet:adustus genus:canis family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "type:specimen recordedby:stewart collectioncode:mammals institutioncode:ROM" ; Times: 2
+	Query: "alouatta" ; Times: 1
+	Query: "N. McIntyre" ; Times: 1
+	Query: "family:felidae country:&#34;kenya&#34;" ; Times: 2
+	Query: "Dipodomys ingens" ; Times: 2
+	Query: "specificepithet:parvula genus:helogale family:herpestidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:megalotis genus:otocyon family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:puma specificepithet:concolor" ; Times: 2
+	Query: "specificepithet:capensis genus:aonyx family:mustelidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:bdeogale family:herpestidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Dipodomys ingens year &gt;= 1800 year &lt;= 1960 mappable:1" ; Times: 1
+	Query: "Ichneumia" ; Times: 2
+	Query: "Dipodomys phillipsii" ; Times: 1
+	Query: "ochotona princeps" ; Times: 2
+	Query: "ROM 41217" ; Times: 1
+	Query: "Microgale cowani" ; Times: 1
+	Query: "witch" ; Times: 3
+	Query: "specificepithet:ichneumon genus:herpestes family:herpestidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "29992" ; Times: 2
+	Query: "specificepithet:crassicauda genus:bdeogale family:herpestidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Diphylla" ; Times: 1
+	Query: "catalognumber:27922 institutioncode:ROM" ; Times: 1
+	Query: "Babyrousa" ; Times: 1
+	Query: "pithecia" ; Times: 1
+	Query: "genus:Moschus" ; Times: 1
+	Query: "lemniscomys griselda" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 2
+	Query: "type:specimen family:soricidae catalognumber:109358 institutioncode:ROM" ; Times: 1
+	Query: "type:specimen family:soricidae recordedby:stewart institutioncode:ROM" ; Times: 1
+	Query: "microtus guatemalensis" ; Times: 4
+	Query: "Diaemus" ; Times: 1
+	Query: "Geomys" ; Times: 1
+	Query: "diphylla" ; Times: 2
+	Query: "genus:rhinolophus order:chiroptera class:mammalia country:&#34;kenya&#34; continent:africa" ; Times: 1
+	Query: "mummy" ; Times: 4
+	Query: "type:specimen family:Soricidae recordedby:stewart collectioncode:mammals institutioncode:ROM" ; Times: 2
+	Query: "genus:genetta family:viverridae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:cricetomys order:rodentia class:mammalia country:&#34;kenya&#34; continent:africa" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "genus:caracal family:felidae country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:mesomelas genus:canis family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:civettictis family:viverridae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "order:primates stateprovince:&#34;amazonas&#34; country:&#34;brazil&#34;" ; Times: 1
+	Query: "genus:Bradypus country:&#34;Brazil&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 66 (out of 230 download events in this period)
+Total number of records downloaded: 26501
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 45
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 10
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-11 ; Times: 5
+	Date: 2016-03-10 ; Times: 13
+	Date: 2016-03-08 ; Times: 6
+	Date: 2016-03-09 ; Times: 14
+	Date: 2016-03-06 ; Times: 4
+	Date: 2016-03-07 ; Times: 2
+	Date: 2016-03-14 ; Times: 7
+	Date: 2016-03-05 ; Times: 2
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-13 ; Times: 8
+	Date: 2016-03-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "soriculus" ; Times: 1
+	Query: "Galictis vittata" ; Times: 2
+	Query: "Alces alces" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "ochotona" ; Times: 2
+	Query: "tissue" ; Times: 39
+	Query: "babyrousa" ; Times: 1
+	Query: "dasyurus" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 13
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "Babyrousa" ; Times: 2
+
+
+End of report.
