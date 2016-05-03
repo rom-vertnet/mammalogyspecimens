@@ -1,0 +1,491 @@
+Report for Institution Code ROM, Resource mamm
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 596
+Number of records retrieved in searches: 18996
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 179
+	Country: Brazil ; Times: 4
+	Country: Czech Republic ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 51
+	Country: Unknown ; Times: 75
+	Country: Poland ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 201
+	Country: Germany ; Times: 6
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 33
+	Country: Belgium ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 36
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 7
+	Date: 2016-04-28 ; Times: 12
+	Date: 2016-04-07 ; Times: 8
+	Date: 2016-04-06 ; Times: 22
+	Date: 2016-04-05 ; Times: 20
+	Date: 2016-04-04 ; Times: 23
+	Date: 2016-04-21 ; Times: 14
+	Date: 2016-04-20 ; Times: 54
+	Date: 2016-04-09 ; Times: 10
+	Date: 2016-04-22 ; Times: 26
+	Date: 2016-04-25 ; Times: 25
+	Date: 2016-04-24 ; Times: 5
+	Date: 2016-04-27 ; Times: 58
+	Date: 2016-04-26 ; Times: 34
+	Date: 2016-04-08 ; Times: 24
+	Date: 2016-04-18 ; Times: 11
+	Date: 2016-04-19 ; Times: 18
+	Date: 2016-04-14 ; Times: 31
+	Date: 2016-04-15 ; Times: 6
+	Date: 2016-04-16 ; Times: 15
+	Date: 2016-04-17 ; Times: 10
+	Date: 2016-04-10 ; Times: 2
+	Date: 2016-04-11 ; Times: 3
+	Date: 2016-04-12 ; Times: 11
+	Date: 2016-04-13 ; Times: 130
+	Date: 2016-04-29 ; Times: 11
+	Date: 2016-04-02 ; Times: 5
+	Date: 2016-04-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "rom 54942" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-105.877516))&lt;15000" ; Times: 1
+	Query: "family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 3
+	Query: "Gulo Gulo ONTARIO 1" ; Times: 2
+	Query: "catalognumber:64563" ; Times: 1
+	Query: "specificepithet:ichneumon genus:herpestes order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-111.147516))&lt;15000" ; Times: 1
+	Query: "Sorex vagrans vagrans ONTARIO 1" ; Times: 1
+	Query: "Bison bison Ontario" ; Times: 4
+	Query: "57321" ; Times: 1
+	Query: "cynopterus" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-112.847516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(31.809036,-110.297516))&lt;15000" ; Times: 1
+	Query: "lynx canadensis year &gt;= 1950 year &lt;= 2000 institutioncode:ROM mappable:1" ; Times: 1
+	Query: "order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 4
+	Query: "specificepithet:tigrina genus:genetta order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Thomomys bottae county:&#34;Clark&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:dasypus class:mammalia" ; Times: 1
+	Query: "24556" ; Times: 1
+	Query: "Gulo Gulo Ontario 1" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Wisconsin&#34; catalognumber:94147 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:genetta genus:genetta order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:LEO genus:PANTHERA family:FELIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 2
+	Query: "distance(location,geopoint(31.639036,-111.487516))&lt;15000" ; Times: 1
+	Query: "Rangifer tarandus caribou Ontario 1" ; Times: 6
+	Query: "dummies" ; Times: 1
+	Query: "order:artiodactyla class:Mammalia AND (juvenile)" ; Times: 2
+	Query: "Puma concolor Ontario" ; Times: 10
+	Query: "goudoti" ; Times: 1
+	Query: "kenya type:specimen (skeleton)" ; Times: 1
+	Query: "38758" ; Times: 1
+	Query: "inia" ; Times: 2
+	Query: "herpestes javanicus" ; Times: 3
+	Query: "type:specimen (alouatta)" ; Times: 3
+	Query: "Gulo Gulo Ontario" ; Times: 10
+	Query: "type:specimen specificepithet:palustris genus:Sorex class:Mammalia institutioncode:ROM" ; Times: 3
+	Query: "28423" ; Times: 1
+	Query: "PILOSA" ; Times: 1
+	Query: "ROM 30246" ; Times: 1
+	Query: "Taxidea taxus Ontario" ; Times: 5
+	Query: "Mustela nigripes ca" ; Times: 1
+	Query: "63498" ; Times: 1
+	Query: "R-15469" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.467516))&lt;15000" ; Times: 1
+	Query: "genus:Napaeozapus" ; Times: 2
+	Query: "promops centralis" ; Times: 4
+	Query: "rafinesquii (Corynorhinus)" ; Times: 1
+	Query: "class:Mammalia genus:dasypus" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-111.147516))&lt;15000" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus catalognumber:94115 institutioncode:ROM" ; Times: 1
+	Query: "Macrotus waterhousii" ; Times: 2
+	Query: "specificepithet:ichneumon genus:Herpestes family:.HERPESTIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "151 ONTARIO 1" ; Times: 1
+	Query: "family:viverridae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 2
+	Query: "coendou" ; Times: 8
+	Query: "24268" ; Times: 2
+	Query: "206 ONTARIO 1" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-109.957516))&lt;15000" ; Times: 1
+	Query: "noctilio paraguay" ; Times: 1
+	Query: "family:Cricetidae continent:South America institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:leo genus:panthera family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "hydrodamalis gigas" ; Times: 1
+	Query: "genus:Herpestes (croix)" ; Times: 2
+	Query: "stateprovince:&#34;boyaca&#34; country:&#34;colombia&#34;" ; Times: 2
+	Query: "58425" ; Times: 1
+	Query: "genus:BDEOGALE family:.HERPESTIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 2
+	Query: "distance(location,geopoint(31.639036,-106.557516))&lt;15000" ; Times: 1
+	Query: "panthera onca" ; Times: 5
+	Query: "specificepithet:crocuta genus:crocuta order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "Canis lupus lycaon Ontario 1" ; Times: 1
+	Query: "specificepithet:parvula genus:Helogale family:.HERPESTIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-106.217516))&lt;15000" ; Times: 1
+	Query: "mammals durango" ; Times: 2
+	Query: "46748" ; Times: 1
+	Query: "Ara" ; Times: 4
+	Query: "specificepithet:CARACAL genus:CARACAL family:FELIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "lynx canadensis year &gt;= 1950 year &lt;= 2000 mappable:1" ; Times: 2
+	Query: "Sorex hoyi" ; Times: 2
+	Query: "lophiomys" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:parvula genus:helogale order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-109.957516))&lt;15000" ; Times: 1
+	Query: "CINGULATA" ; Times: 2
+	Query: "Herpestes" ; Times: 10
+	Query: "distance(location,geopoint(21.609036,-105.367516))&lt;15000" ; Times: 5
+	Query: "Canis lupus lycaon ONTARIO 1" ; Times: 2
+	Query: "Myotis leibii Ontario" ; Times: 10
+	Query: "ROM 32276" ; Times: 1
+	Query: "a Conepatus semistriatus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Herpestes (croix) AND (NOT AMNH)" ; Times: 1
+	Query: "Myotis leibii ONTARIO 1" ; Times: 2
+	Query: "Puma concolor Ontario 1" ; Times: 1
+	Query: "class:mammalia institutioncode:ROM" ; Times: 2
+	Query: "distance(location,geopoint(31.809036,-106.557516))&lt;15000" ; Times: 1
+	Query: "55830" ; Times: 1
+	Query: "Cebidae" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "catalognumber:63934" ; Times: 1
+	Query: "distance(location,geopoint(30.959036,-114.887516))&lt;15000" ; Times: 1
+	Query: "Spermophilus franklinii ONTARIO 1" ; Times: 2
+	Query: "Rom 25087" ; Times: 1
+	Query: "Spermophilus franklinii Ontario" ; Times: 10
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "Sphiggurus" ; Times: 1
+	Query: "mummy" ; Times: 19
+	Query: "type:specimen class:mammalia catalognumber:14199" ; Times: 1
+	Query: "genus:herpestes order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Lasiurus AND Island" ; Times: 1
+	Query: "rhino" ; Times: 1
+	Query: "dasypodidae" ; Times: 1
+	Query: "aguti" ; Times: 2
+	Query: "distance(location,geopoint(31.469036,-111.487516))&lt;15000" ; Times: 1
+	Query: "14199 type:specimen class:mammalia" ; Times: 1
+	Query: "Rom 39692" ; Times: 1
+	Query: "Spilogale AND Island" ; Times: 1
+	Query: "specificepithet:polionotus genus:Peromyscus" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-109.107516))&lt;15000" ; Times: 2
+	Query: "eumops hansae" ; Times: 2
+	Query: "specificepithet:PARDUS genus:PANTHERA family:FELIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-111.487516))&lt;15000" ; Times: 2
+	Query: "specificepithet:civetta genus:civettictis order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 4
+	Query: "175 ONTARIO 1" ; Times: 1
+	Query: "Mustela nigripes ontario" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-110.637516))&lt;15000" ; Times: 1
+	Query: "Urocyon cinereoargenteus ONTARIO 1" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-111.657516))&lt;15000" ; Times: 2
+	Query: "ATELES" ; Times: 1
+	Query: "lynx canadensis" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.957516))&lt;15000" ; Times: 2
+	Query: "ROM 34541" ; Times: 2
+	Query: "inia geoffrensis" ; Times: 1
+	Query: "specificepithet:CIVETTA genus:CIVETTICTIS family:VIVERRIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "witch" ; Times: 19
+	Query: "Myotis lucifugus ONTARIO 1" ; Times: 2
+	Query: "107 ONTARIO 1" ; Times: 1
+	Query: "specificepithet:GENETTA genus:GENETTA family:VIVERRIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "196 ONTARIO 1" ; Times: 1
+	Query: "type:specimen catalognumber:14199" ; Times: 1
+	Query: "Chiricahua Mountains (Mammalia)" ; Times: 2
+	Query: "catalognumber:18100" ; Times: 1
+	Query: "Rom 45288" ; Times: 3
+	Query: "catalognumber:98587 institutioncode:ROM" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "chato" ; Times: 1
+	Query: "Sirenia" ; Times: 1
+	Query: "Ailuropoda" ; Times: 1
+	Query: "Rom 36978" ; Times: 2
+	Query: "noctilio" ; Times: 1
+	Query: "Marinkelle country:&#34;Colombia&#34;" ; Times: 4
+	Query: "Myotis lucifugus Ontario" ; Times: 10
+	Query: "Mustela nigripes CA" ; Times: 1
+	Query: "38882" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-109.787516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(20.249036,-105.027516))&lt;15000" ; Times: 3
+	Query: "ROM 19953" ; Times: 2
+	Query: "ROM 19952" ; Times: 2
+	Query: "catalognumber:73353 institutioncode:ROM" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-106.047516))&lt;15000" ; Times: 1
+	Query: "micronycteris" ; Times: 1
+	Query: "lacm dasyprocta" ; Times: 1
+	Query: "boyaca" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "149 ONTARIO 1" ; Times: 1
+	Query: "40472" ; Times: 1
+	Query: "woodland caribou" ; Times: 3
+	Query: "57993" ; Times: 1
+	Query: "Puma concolor ONTARIO 1" ; Times: 2
+	Query: "specificepithet:mesomelas genus:canis family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "distance(location,geopoint(21.609036,-110.467516))&lt;15000" ; Times: 3
+	Query: "distance(location,geopoint(27.049036,-109.107516))&lt;15000" ; Times: 1
+	Query: "MacFarlane year &gt;= 1850 year &lt;= 1899" ; Times: 1
+	Query: "specificepithet:latrans genus:canis mappable:1 tissue:1" ; Times: 2
+	Query: "panthera leo" ; Times: 1
+	Query: "11221" ; Times: 1
+	Query: "lacm dasyproctidae" ; Times: 1
+	Query: "megalura" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-110.127516))&lt;15000" ; Times: 1
+	Query: "stateprovince:&#34;Wisconsin&#34; specificepithet:bursarius genus:geomys year &gt;= 1870 year &lt;= 2015" ; Times: 1
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 1
+	Query: "eumops hansae country:&#34;belize&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-106.217516))&lt;15000" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Galictis vittata" ; Times: 5
+	Query: "specificepithet:leucopus genus:Peromyscus catalognumber:94128 institutioncode:ROM" ; Times: 1
+	Query: "Leptonycteris (Chiapas)" ; Times: 7
+	Query: "distance(location,geopoint(31.979036,-108.767516))&lt;15000" ; Times: 1
+	Query: "Rangifer tarandus caribou Ontario" ; Times: 11
+	Query: "Micromys minutus" ; Times: 2
+	Query: "stateprovince:&#34;Boyaca&#34; country:&#34;Colombia&#34; mappable:1" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-110.297516))&lt;15000" ; Times: 1
+	Query: "genus:civettictis order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Bison bison Canada" ; Times: 2
+	Query: "specificepithet:megalotis genus:otocyon family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "21952" ; Times: 1
+	Query: "ara" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-110.127516))&lt;15000" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "specificepithet:leucurus genus:Ammospermophilus stateprovince:&#34;Idaho&#34; mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-110.637516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-109.277516))&lt;15000" ; Times: 1
+	Query: "Lepus townsendii ONTARIO 1" ; Times: 2
+	Query: "catagonus wagneri" ; Times: 2
+	Query: "Nectomys magdalenae" ; Times: 3
+	Query: "distance(location,geopoint(21.609036,-110.297516))&lt;15000" ; Times: 3
+	Query: "Pteropus vampyrus" ; Times: 5
+	Query: "Panthera Leo" ; Times: 2
+	Query: "Spermophilus franklinii Ontario 1" ; Times: 1
+	Query: "38774" ; Times: 1
+	Query: "locality:Pajarito stateprovince:&#34;Boyaca&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:dasypus class:mammalia country:&#34;USA&#34;" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "specificepithet:sanguineus genus:herpestes order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus catalognumber:94127 institutioncode:ROM" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-110.127516))&lt;15000" ; Times: 1
+	Query: "Catagonus wagneri country:&#34;paraguay&#34; year &gt;= 1976 year &lt;= 1978" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.787516))&lt;15000" ; Times: 1
+	Query: "67524" ; Times: 3
+	Query: "stateprovince:&#34;Boyaca&#34; country:&#34;Colombia&#34; (Maria)" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "specificepithet:pardus genus:panthera family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Cockrum" ; Times: 1
+	Query: "Rom 39248" ; Times: 2
+	Query: "genus:sus" ; Times: 2
+	Query: "Myotis lucifugus Ontario 1" ; Times: 1
+	Query: "14798" ; Times: 1
+	Query: "75377" ; Times: 2
+	Query: "38875" ; Times: 2
+	Query: "Canis lupus lycaon Ontario" ; Times: 10
+	Query: "21026" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-109.447516))&lt;15000" ; Times: 1
+	Query: "Inia" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Wisconsin&#34; catalognumber:94116 institutioncode:ROM" ; Times: 1
+	Query: "distance(location,geopoint(20.249036,-105.367516))&lt;15000" ; Times: 4
+	Query: "specificepithet:striatus genus:ictonyx order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:adustus genus:canis order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "Lepus townsendii Ontario" ; Times: 10
+	Query: "Pilosa" ; Times: 2
+	Query: "184 ONTARIO 1" ; Times: 1
+	Query: "ROM 26214" ; Times: 1
+	Query: "specificepithet:caracal genus:caracal family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:albicauda genus:ichneumia family:.HERPESTIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 2
+	Query: "Lepus townsendii Ontario 1" ; Times: 1
+	Query: "	Marmosa phaea	 100" ; Times: 1
+	Query: "91380" ; Times: 1
+	Query: "griselda" ; Times: 1
+	Query: "family:rhinocerotidae tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-109.107516))&lt;15000" ; Times: 1
+	Query: "specificepithet:sanguinea genus:galerella order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "sphiggurus" ; Times: 4
+	Query: "promops+centralis" ; Times: 1
+	Query: "Nyctomys" ; Times: 1
+	Query: "26214" ; Times: 1
+	Query: "Nigeria class:Mammalia" ; Times: 1
+	Query: "microsciurus" ; Times: 1
+	Query: "mammals of chihuahua" ; Times: 6
+	Query: "14199" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-108.937516))&lt;15000" ; Times: 1
+	Query: "specificepithet:serval genus:caracal family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "Myrmecophaga" ; Times: 2
+	Query: "150 ONTARIO 1" ; Times: 1
+	Query: "specificepithet:adustus genus:canis family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "12216" ; Times: 3
+	Query: "genus:mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "Mustela nigripes canada" ; Times: 2
+	Query: "38 ONTARIO 1" ; Times: 1
+	Query: "desmana" ; Times: 2
+	Query: "erinaceidae" ; Times: 1
+	Query: "stateprovince:&#34;indiana&#34; specificepithet:bursarius genus:geomys year &gt;= 1900 year &lt;= 2015" ; Times: 1
+	Query: "specificepithet:crassicauda genus:bdeogale order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "lacm bathyergidae" ; Times: 1
+	Query: "Urocyon cinereoargenteus Ontario 1" ; Times: 1
+	Query: "genus:bdeogale order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "echinoprocta" ; Times: 4
+	Query: "specificepithet:sanguinea genus:Galerella family:.HERPESTIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "Rom 39851" ; Times: 1
+	Query: "specificepithet:CRASSICAUDA genus:BDEOGALE family:.HERPESTIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "mammal institutioncode:ROM" ; Times: 1
+	Query: "ammotragus" ; Times: 2
+	Query: "transitionalis" ; Times: 1
+	Query: "Urocyon cinereoargenteus Ontario" ; Times: 10
+	Query: "family:sciuridae continent:asia institutioncode:ROM" ; Times: 1
+	Query: "Rangifer tarandus caribou ONTARIO 1" ; Times: 2
+	Query: "distance(location,geopoint(31.809036,-106.387516))&lt;15000" ; Times: 1
+	Query: "ROM 38002" ; Times: 1
+	Query: "SAN MIGUEL ISLAND AND MAMMALS AND 1927" ; Times: 2
+	Query: "Rom 39902" ; Times: 1
+	Query: "distance(location,geopoint(21.609036,-105.197516))&lt;15000" ; Times: 7
+	Query: "Spilogale AND Island NOT Oak" ; Times: 1
+	Query: "ROM 36823" ; Times: 2
+	Query: "distance(location,geopoint(31.979036,-111.487516))&lt;15000" ; Times: 1
+	Query: "35651" ; Times: 1
+	Query: "10371" ; Times: 1
+	Query: "Mustela nigripes Ontario" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "Myotis leibii Ontario 1" ; Times: 1
+	Query: "Catagonus wagneri country:&#34;paraguay&#34;" ; Times: 1
+	Query: "catalognumber:19404" ; Times: 1
+	Query: "(mammal) institutioncode:ROM" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-106.387516))&lt;15000" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus catalognumber:94109 institutioncode:ROM" ; Times: 1
+	Query: "Bison bonasus" ; Times: 1
+	Query: "COENDOU" ; Times: 1
+	Query: "ROM 30259" ; Times: 2
+	Query: "distance(location,geopoint(26.879036,-111.997516))&lt;15000" ; Times: 1
+	Query: "129 ONTARIO 1" ; Times: 1
+	Query: "genus:ichneumia order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "182 ONTARIO 1" ; Times: 1
+	Query: "98 ONTARIO 1" ; Times: 1
+	Query: "genus:atilax order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 206 (out of 1312 download events in this period)
+Total number of records downloaded: 25761
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 9
+	Country: Mexico ; Times: 62
+	Country: Unknown ; Times: 22
+	Country: United States ; Times: 110
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-03 ; Times: 2
+	Date: 2016-04-28 ; Times: 2
+	Date: 2016-04-07 ; Times: 4
+	Date: 2016-04-06 ; Times: 16
+	Date: 2016-04-05 ; Times: 6
+	Date: 2016-04-04 ; Times: 2
+	Date: 2016-04-21 ; Times: 3
+	Date: 2016-04-20 ; Times: 12
+	Date: 2016-04-23 ; Times: 18
+	Date: 2016-04-22 ; Times: 9
+	Date: 2016-04-25 ; Times: 7
+	Date: 2016-04-24 ; Times: 6
+	Date: 2016-04-09 ; Times: 5
+	Date: 2016-04-26 ; Times: 8
+	Date: 2016-04-08 ; Times: 7
+	Date: 2016-04-27 ; Times: 9
+	Date: 2016-04-18 ; Times: 6
+	Date: 2016-04-19 ; Times: 11
+	Date: 2016-04-14 ; Times: 15
+	Date: 2016-04-15 ; Times: 12
+	Date: 2016-04-16 ; Times: 13
+	Date: 2016-04-17 ; Times: 7
+	Date: 2016-04-10 ; Times: 4
+	Date: 2016-04-11 ; Times: 3
+	Date: 2016-04-12 ; Times: 11
+	Date: 2016-04-13 ; Times: 4
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "mammals of new mexico" ; Times: 7
+	Query: "peromyscus nasutus" ; Times: 1
+	Query: "Geomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "Nyctomys sumichrasti" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "&#34;Sciurus niger&#34; AND preparations:skeleton type:specimen" ; Times: 1
+	Query: "genus:Spilogale" ; Times: 1
+	Query: "type:specimen class:Mammalia stateprovince:&#34;New Mexico&#34; mappable:1 distance(location,geopoint(33.063924198120645,-108.15765380859375))&lt;41580.77121872904" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "Sciurus aureogaster" ; Times: 1
+	Query: "mammals coahuila" ; Times: 4
+	Query: "type:specimen specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "micronycteris" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "mammals of texas" ; Times: 13
+	Query: "type:specimen specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "Sciurus griseus" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Nyctomys" ; Times: 1
+	Query: "stateprovince:&#34;Wisconsin&#34; specificepithet:bursarius genus:geomys year &gt;= 1870 year &lt;= 2015" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Michigan&#34;" ; Times: 2
+	Query: "specificepithet:floridana genus:Neotoma" ; Times: 2
+	Query: "type:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "type:specimen specificepithet:palustris genus:Sorex class:Mammalia institutioncode:ROM" ; Times: 1
+	Query: "family:Elephantidae (skull)" ; Times: 1
+	Query: "mammals texas" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 1
+	Query: "Geomyidae" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Wisconsin&#34;" ; Times: 2
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "genus:dasypus class:mammalia country:&#34;USA&#34;" ; Times: 1
+	Query: "Odocoileus" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Erethizon dorsatum epixanthum" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "&#34;Sciurus carolinensis&#34; AND preparations:skeleton type:specimen" ; Times: 1
+	Query: "dipodomys deserti (nevada)" ; Times: 2
+	Query: "THE MAMMALS OF NEW MEXICO" ; Times: 22
+	Query: "specificepithet:leucurus genus:Ammospermophilus stateprovince:&#34;Idaho&#34; mappable:1" ; Times: 1
+	Query: "glaucomys" ; Times: 1
+	Query: "Sciurus niger AND preparations:skull" ; Times: 1
+	Query: "inia geoffrensis" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "tamias umbrinus" ; Times: 1
+	Query: "Sciurus carolinensis AND preparations:skull type:specimen" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "mammals chihuahua" ; Times: 2
+	Query: "Sciurus griseus AND preparations:skull type:specimen" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 85
+	Query: "Leopardus" ; Times: 1
+	Query: "lacm mammalia" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "sciurus aberti" ; Times: 1
+	Query: "Sciurus nayaritensis" ; Times: 1
+	Query: "coahuila mammals" ; Times: 1
+	Query: "thomomys bottae" ; Times: 3
+	Query: "lacm dasyprocta" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus continent:North America" ; Times: 1
+	Query: "order:cetacea (orca)" ; Times: 1
+	Query: "mammals in san luis potosi" ; Times: 1
+	Query: "mammals of the new mexico" ; Times: 3
+	Query: "dipodomys deserti" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+
+
+End of report.
