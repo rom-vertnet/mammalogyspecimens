@@ -1,0 +1,197 @@
+Report for Institution Code ROM, Resource mamm
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 142
+Number of records retrieved in searches: 809
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 6
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Mexico ; Times: 26
+	Country: India ; Times: 1
+	Country: Costa Rica ; Times: 4
+	Country: France ; Times: 6
+	Country: United States ; Times: 55
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 24
+	Country: Russia ; Times: 8
+	Country: Spain ; Times: 1
+	Country: Benin ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 3
+	Date: 2016-05-18 ; Times: 5
+	Date: 2016-05-17 ; Times: 3
+	Date: 2016-05-16 ; Times: 8
+	Date: 2016-05-15 ; Times: 13
+	Date: 2016-05-14 ; Times: 5
+	Date: 2016-05-13 ; Times: 9
+	Date: 2016-05-11 ; Times: 5
+	Date: 2016-05-10 ; Times: 7
+	Date: 2016-05-31 ; Times: 22
+	Date: 2016-05-30 ; Times: 2
+	Date: 2016-05-08 ; Times: 3
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-03 ; Times: 6
+	Date: 2016-05-04 ; Times: 2
+	Date: 2016-05-05 ; Times: 2
+	Date: 2016-05-06 ; Times: 6
+	Date: 2016-05-07 ; Times: 5
+	Date: 2016-05-26 ; Times: 1
+	Date: 2016-05-27 ; Times: 3
+	Date: 2016-05-24 ; Times: 6
+	Date: 2016-05-25 ; Times: 3
+	Date: 2016-05-22 ; Times: 3
+	Date: 2016-05-23 ; Times: 8
+	Date: 2016-05-20 ; Times: 4
+	Date: 2016-05-21 ; Times: 2
+	Date: 2016-05-28 ; Times: 2
+	Date: 2016-05-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "57306" ; Times: 1
+	Query: "cyclopes didactylus" ; Times: 11
+	Query: "catalognumber:46487" ; Times: 1
+	Query: "Lophostoma brasiliense" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 3
+	Query: "catalognumber:44144" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "genus:ototylomys stateprovince:&#34;chiapas&#34;" ; Times: 1
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "R-67076" ; Times: 1
+	Query: "genus:myrmecophaga" ; Times: 1
+	Query: "Sus scrofa " ; Times: 1
+	Query: "catalognumber:66486" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 2
+	Query: "catalognumber:45140 institutioncode:ROM" ; Times: 1
+	Query: "vestitus" ; Times: 1
+	Query: "specificepithet:bairdii genus:Delphinus" ; Times: 2
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "Alouatta pIGRA" ; Times: 3
+	Query: "panthera leo" ; Times: 5
+	Query: "echinoprocta" ; Times: 1
+	Query: "distance(location,geopoint(21.539036,-110.467516))&lt;15000" ; Times: 1
+	Query: "Cebuella" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "microsciurus" ; Times: 2
+	Query: "ROM 21704" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-106.397516))&lt;15000" ; Times: 1
+	Query: "Chiroptera country:&#34;Ghana&#34;" ; Times: 1
+	Query: "Helogale Kenya" ; Times: 1
+	Query: "32603" ; Times: 1
+	Query: "specificepithet:townsendii genus:Lepus year &gt;= 1970 year &lt;= 2016" ; Times: 1
+	Query: "Cyclopes" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 4
+	Query: "sturnira erythromos" ; Times: 3
+	Query: "family:bovidae year &gt;= 1983 year &lt;= 1984" ; Times: 1
+	Query: "specificepithet:ochrogenys genus:Tamias institutioncode:ROM" ; Times: 1
+	Query: "Micoureus demerarae" ; Times: 3
+	Query: "Tamandua mexicana" ; Times: 5
+	Query: "sphiggurus" ; Times: 1
+	Query: "Echo Lake" ; Times: 1
+	Query: "catalognumber:95656 OR catalognumber:103274 OR catalognumber:186655 OR catalognumber:186656 OR catalognumber:220658 OR catalognumber:220659 OR catalognumber:220660 OR catalognumber:220661 OR catalognumber:224152 OR catalognumber:224153 OR catalognumber:285575 OR catalognumber:298234 OR catalognumber:301935 OR catalognumber:357942" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "Heterohyrax brucei Kenya" ; Times: 1
+	Query: "catalognumber:53509" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "coendou" ; Times: 1
+	Query: "country:&#34;Brazil&#34; bahia" ; Times: 1
+	Query: "witch" ; Times: 4
+	Query: "genus:dasypus country:&#34;Guyana&#34;" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "specificepithet:gracilis genus:reithrodontomys country:&#34;costa rica&#34;" ; Times: 2
+	Query: "64234" ; Times: 1
+	Query: "skin tachyglossidae type:specimen" ; Times: 1
+	Query: "110018}" ; Times: 1
+	Query: "panthera onca}" ; Times: 2
+	Query: "Camelus dromedarius" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "hylobates institutioncode:ROM" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "ROM 95211" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 7
+	Query: "ROM 31783" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:perotis genus:Eumops" ; Times: 2
+	Query: "specificepithet:bursarius genus:Geomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "dipodomys phillipsii" ; Times: 1
+	Query: "ROM 31683" ; Times: 1
+	Query: "catalognumber:59092" ; Times: 1
+	Query: "lasiurus intermedius" ; Times: 2
+	Query: "distance(location,geopoint(31.769036,-110.247516))&lt;15000" ; Times: 1
+	Query: "catalognumber:56127" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; specificepithet:Stephensi genus:Neotoma" ; Times: 1
+	Query: "genus:dasypus country:&#34;Guyana&#34; OR &#34;Suriname&#34;" ; Times: 2
+	Query: "caluromys derbianus" ; Times: 1
+	Query: "cyclopes" ; Times: 1
+	Query: "Sciurus griseus anthonyi" ; Times: 1
+	Query: "Vampyrum" ; Times: 1
+	Query: "uroderma bilobatum country:&#34;mexico&#34;" ; Times: 2
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "alouatta pigra" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 327 download events in this period)
+Total number of records downloaded: 16277
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 21
+	Country: Colombia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-12 ; Times: 5
+	Date: 2016-05-05 ; Times: 4
+	Date: 2016-05-22 ; Times: 4
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-20 ; Times: 2
+	Date: 2016-05-31 ; Times: 10
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-28 ; Times: 2
+	Date: 2016-05-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "Lophostoma brasiliense" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "genus:myrmecophaga mappable:1" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "genus:Didelphis preparations:tissue" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "Chiroptera country:&#34;Ghana&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Canis type:specimen distance(location,geopoint(37.71859032558813,-95.44921875))&lt;2776004" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; specificepithet:Stephensi genus:Neotoma" ; Times: 1
+	Query: "Vampyrum" ; Times: 1
+	Query: "uroderma bilobatum country:&#34;mexico&#34;" ; Times: 1
+
+
+End of report.
