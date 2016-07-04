@@ -1,0 +1,453 @@
+Report for Institution Code ROM, Resource mamm
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 511
+Number of records retrieved in searches: 5638
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 13
+	Country: Brazil ; Times: 7
+	Country: Netherlands ; Times: 3
+	Country: Portugal ; Times: 35
+	Country: Mexico ; Times: 158
+	Country: Unknown ; Times: 14
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 4
+	Country: Costa Rica ; Times: 13
+	Country: France ; Times: 4
+	Country: United States ; Times: 228
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 7
+	Country: Colombia ; Times: 9
+	Country: Russia ; Times: 11
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 3
+	Date: 2016-06-24 ; Times: 5
+	Date: 2016-06-23 ; Times: 32
+	Date: 2016-06-08 ; Times: 10
+	Date: 2016-06-21 ; Times: 48
+	Date: 2016-06-20 ; Times: 61
+	Date: 2016-06-05 ; Times: 20
+	Date: 2016-06-04 ; Times: 9
+	Date: 2016-06-07 ; Times: 7
+	Date: 2016-06-06 ; Times: 9
+	Date: 2016-06-01 ; Times: 31
+	Date: 2016-06-03 ; Times: 20
+	Date: 2016-06-02 ; Times: 70
+	Date: 2016-06-09 ; Times: 5
+	Date: 2016-06-22 ; Times: 8
+	Date: 2016-06-18 ; Times: 10
+	Date: 2016-06-19 ; Times: 6
+	Date: 2016-06-16 ; Times: 35
+	Date: 2016-06-17 ; Times: 14
+	Date: 2016-06-14 ; Times: 39
+	Date: 2016-06-15 ; Times: 9
+	Date: 2016-06-13 ; Times: 54
+	Date: 2016-06-10 ; Times: 2
+	Date: 2016-06-11 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 3
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "Connochaetes" ; Times: 1
+	Query: "57529" ; Times: 1
+	Query: "49731" ; Times: 1
+	Query: "14852" ; Times: 1
+	Query: "46539" ; Times: 1
+	Query: "77997" ; Times: 1
+	Query: "Lasiurus AND Island" ; Times: 2
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "saccopteryx leptura specificepithet:leptura genus:Saccopteryx mappable:1" ; Times: 1
+	Query: "bison bison   " ; Times: 12
+	Query: "Chiroptera type:specimen country:&#34;Ghana&#34;" ; Times: 1
+	Query: "61180" ; Times: 1
+	Query: "catalognumber:54126" ; Times: 1
+	Query: "53562" ; Times: 1
+	Query: "34808" ; Times: 1
+	Query: "Oryzomys couesi ROM 96122" ; Times: 1
+	Query: "30753" ; Times: 1
+	Query: "93683" ; Times: 1
+	Query: "sylvisorex" ; Times: 1
+	Query: "ROM 23980" ; Times: 1
+	Query: "specificepithet:Fumeus genus:Sorex stateprovince:&#34;New hampshire&#34;" ; Times: 1
+	Query: "bubalus" ; Times: 1
+	Query: "Ovis aries" ; Times: 2
+	Query: "genus:Ochrotomys stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 4
+	Query: "catalognumber:35344" ; Times: 2
+	Query: "symphalangus syndactylus" ; Times: 5
+	Query: "Dasypus hybridus" ; Times: 1
+	Query: "ROM 99609" ; Times: 2
+	Query: "13164" ; Times: 1
+	Query: "Erinaceus" ; Times: 3
+	Query: "73821" ; Times: 1
+	Query: "14352" ; Times: 2
+	Query: "canis mesomelas" ; Times: 3
+	Query: "Leptonycteris nivalis" ; Times: 4
+	Query: "Panthera onca" ; Times: 4
+	Query: "Canis latrans" ; Times: 1
+	Query: "11714" ; Times: 2
+	Query: "genus:Tamias stateprovince:&#34;Maine&#34;" ; Times: 1
+	Query: "98763" ; Times: 1
+	Query: "rom 2514" ; Times: 1
+	Query: "96908" ; Times: 1
+	Query: "schomburgki" ; Times: 1
+	Query: "Dama dama 1" ; Times: 2
+	Query: "alces alces   " ; Times: 9
+	Query: "8442 mammalia" ; Times: 1
+	Query: "genus:tamandua country:mexico" ; Times: 1
+	Query: "vampyrodes caraccioli" ; Times: 1
+	Query: "38682" ; Times: 1
+	Query: "98762" ; Times: 2
+	Query: "98765" ; Times: 1
+	Query: "98764" ; Times: 1
+	Query: "Chironectes" ; Times: 1
+	Query: "chiquibul" ; Times: 2
+	Query: "panthera onca" ; Times: 3
+	Query: "monodon monoceros" ; Times: 1
+	Query: "53440" ; Times: 1
+	Query: "vampyrodes" ; Times: 1
+	Query: "Molossus sinaloae" ; Times: 1
+	Query: "type:specimen country:&#34;Colombia&#34; catalognumber:54682" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 1
+	Query: "Bos taurus juvenile" ; Times: 2
+	Query: "type:specimen (Cebidae) institutioncode:ROM" ; Times: 1
+	Query: "ateles paniscus" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 6
+	Query: "genus:Blarina stateprovince:&#34;New hampshire&#34;" ; Times: 1
+	Query: "euderma utah" ; Times: 1
+	Query: "111499" ; Times: 3
+	Query: "49990" ; Times: 1
+	Query: "specificepithet:Pennsylvanicus genus:Microtus stateprovince:&#34;New hampshire&#34;" ; Times: 2
+	Query: "73277" ; Times: 1
+	Query: "Abdulali" ; Times: 1
+	Query: "ROM 2398" ; Times: 1
+	Query: "specificepithet:Cinereus genus:Sorex stateprovince:&#34;new hampshire&#34;" ; Times: 2
+	Query: "Rattus norvegicus" ; Times: 5
+	Query: "sturgeon" ; Times: 1
+	Query: "ROM 96122" ; Times: 2
+	Query: "elephas" ; Times: 1
+	Query: "Hippopotamus amphibius" ; Times: 1
+	Query: "ROM 99493" ; Times: 1
+	Query: "sorex dispar" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "11139" ; Times: 4
+	Query: "Rattus rattus" ; Times: 3
+	Query: "Tapirus" ; Times: 1
+	Query: "Rhipidomys mastacalis" ; Times: 1
+	Query: "Chaetophractus vellerosus" ; Times: 1
+	Query: "Sphiggurus" ; Times: 3
+	Query: "98774" ; Times: 1
+	Query: "mummy" ; Times: 5
+	Query: "Oligoryzomys flavescens" ; Times: 1
+	Query: "rom 96122" ; Times: 1
+	Query: "panthera leo" ; Times: 5
+	Query: "proteles" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "oryzomys couesi guatemala" ; Times: 2
+	Query: "ROM 15233" ; Times: 1
+	Query: "56134" ; Times: 1
+	Query: "Oligoryzomys fulvescens" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 3
+	Query: "Chironectes minimus" ; Times: 2
+	Query: "46494" ; Times: 1
+	Query: "ROM 99393" ; Times: 2
+	Query: "88727" ; Times: 1
+	Query: "54714" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "Monodon monoceros" ; Times: 1
+	Query: "Mus musculus" ; Times: 3
+	Query: "59041" ; Times: 2
+	Query: "34780" ; Times: 1
+	Query: "witch" ; Times: 6
+	Query: "11899" ; Times: 3
+	Query: "mindomys" ; Times: 1
+	Query: "Procyon lotor 1" ; Times: 4
+	Query: "Bubalus bubalis" ; Times: 8
+	Query: "Artiodactyla country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "genus:Blarina stateprovince:&#34;vermont&#34;" ; Times: 4
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Felis catus" ; Times: 2
+	Query: "Santa Rosa Island AND mammals AND 1939" ; Times: 1
+	Query: "99609" ; Times: 1
+	Query: "panthera tigris" ; Times: 3
+	Query: "Myocastor coypus 1" ; Times: 2
+	Query: "Cuon alpinus" ; Times: 1
+	Query: "genus:rhipidomys institutioncode:ROM" ; Times: 1
+	Query: "ROM 23299" ; Times: 2
+	Query: "specificepithet:parnellii genus:Pteronotus continent:South America" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "94314" ; Times: 1
+	Query: "Lophostoma brasiliense" ; Times: 1
+	Query: "Vampyrum" ; Times: 1
+	Query: "104912" ; Times: 1
+	Query: "Genetta genetta 1" ; Times: 2
+	Query: "Cervus elaphus" ; Times: 4
+	Query: "Oligoryzomys nigripes" ; Times: 1
+	Query: "genus:Sorex stateprovince:&#34;Vermont&#34;" ; Times: 2
+	Query: "genus:canis" ; Times: 5
+	Query: "specificepithet:personatus genus:Pteronotus continent:South America" ; Times: 5
+	Query: "Eptesicus AND Island" ; Times: 1
+	Query: "speothos venaticus" ; Times: 2
+	Query: "48673 institutioncode:ROM" ; Times: 1
+	Query: "Mus musculus 1" ; Times: 4
+	Query: "tamandua" ; Times: 1
+	Query: "98759" ; Times: 1
+	Query: "80106" ; Times: 1
+	Query: "Sus scrofa" ; Times: 4
+	Query: "myocastor" ; Times: 1
+	Query: "97086" ; Times: 1
+	Query: "genus:Tamias stateprovince:&#34;New hampshire&#34;" ; Times: 1
+	Query: "98754" ; Times: 2
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;vermont&#34; institutioncode:ROM" ; Times: 1
+	Query: "scolomys" ; Times: 1
+	Query: "ROM 18144" ; Times: 1
+	Query: "38590" ; Times: 1
+	Query: "ovibos" ; Times: 3
+	Query: "Penang Hill" ; Times: 2
+	Query: "Cynopterus sphinx" ; Times: 1
+	Query: "Chaetophractus villosus" ; Times: 1
+	Query: "61247" ; Times: 1
+	Query: "64135" ; Times: 1
+	Query: "cynopterus brachyotis" ; Times: 2
+	Query: "tapirus bairdii" ; Times: 13
+	Query: "39534" ; Times: 1
+	Query: "ateles chamek" ; Times: 1
+	Query: "Pteropus vampyrus" ; Times: 2
+	Query: "ateles belzebuth" ; Times: 20
+	Query: "45816" ; Times: 1
+	Query: "Marmota marmota 1" ; Times: 5
+	Query: "Balaenoptera physalus" ; Times: 2
+	Query: "35018" ; Times: 1
+	Query: "72923" ; Times: 1
+	Query: "saccopteryx leptura" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;new hampshire&#34;" ; Times: 3
+	Query: "Lonchorhina aurita" ; Times: 1
+	Query: "Panthera" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+	Query: "genus:dasypus mappable:1" ; Times: 2
+	Query: "Sphiggurus mexicanus mexicanus" ; Times: 1
+	Query: "canis adustus" ; Times: 5
+	Query: "cuon alpinus" ; Times: 7
+	Query: "stateprovince:&#34;Texas&#34; (Erethizon)" ; Times: 1
+	Query: "mitu mitu" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 8
+	Query: "San Miguel Island AND Mammals AND 1927" ; Times: 1
+	Query: "Sciurus griseus anthonyi" ; Times: 1
+	Query: "genus:Sorex stateprovince:&#34;New hampshire&#34;" ; Times: 1
+	Query: "genus:microtus stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "tachyoryctes" ; Times: 1
+	Query: "leopardus" ; Times: 1
+	Query: "Alouatta belzebul" ; Times: 1
+	Query: "29961" ; Times: 2
+	Query: "catalognumber:45180" ; Times: 1
+	Query: "Rattus rattus 1" ; Times: 9
+	Query: "erythromos" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 2
+	Query: "106011" ; Times: 3
+	Query: "catalognumber:72923" ; Times: 1
+	Query: "mitu mitu type:specimen" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "genus:Bison" ; Times: 1
+	Query: "canada goose" ; Times: 1
+	Query: "Sphiggurus mexicanus" ; Times: 1
+	Query: "Mystacinidae" ; Times: 2
+	Query: "pinula" ; Times: 1
+	Query: "panthera leo (neonate)" ; Times: 1
+	Query: "ROM 99439" ; Times: 2
+	Query: "ROM 15079" ; Times: 2
+	Query: "Catagonus" ; Times: 1
+	Query: "109843" ; Times: 1
+	Query: "Ovis aries 1" ; Times: 2
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "Dasypus septemcinctus" ; Times: 1
+	Query: "catalognumber:16754" ; Times: 1
+	Query: "14557" ; Times: 1
+	Query: "99393" ; Times: 1
+	Query: "59026" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 1
+	Query: "sylvilagus floridanus year &lt;= 1900" ; Times: 1
+	Query: "genus:bison" ; Times: 6
+	Query: "106853" ; Times: 3
+	Query: "41594" ; Times: 1
+	Query: "Cavia fulgida" ; Times: 3
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "Lasiurus AND CA AND Island" ; Times: 1
+	Query: "16754" ; Times: 1
+	Query: "59028" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "Zaedyus pichiy" ; Times: 1
+	Query: "leopard" ; Times: 1
+	Query: "67447" ; Times: 1
+	Query: "29872" ; Times: 1
+	Query: "34959" ; Times: 2
+	Query: "86655" ; Times: 1
+	Query: "Erinaceus type:specimen mappable:1" ; Times: 1
+	Query: "Cabassous unicinctus" ; Times: 1
+	Query: "Phenacomys ungava" ; Times: 4
+	Query: "35723" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;vermont&#34;" ; Times: 1
+	Query: "50388" ; Times: 1
+	Query: "catalognumber:54126 year &gt;= 1950 year &lt;= 2000" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "77593" ; Times: 1
+	Query: "61092" ; Times: 1
+	Query: "canis lupus   " ; Times: 14
+	Query: "25087" ; Times: 1
+	Query: "(Sorex minutus) mappable:1" ; Times: 1
+	Query: "75167" ; Times: 1
+	Query: "BC Canada" ; Times: 2
+	Query: "norte de santander" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 2
+	Query: "genus:Blarina stateprovince:&#34;Maine&#34;" ; Times: 6
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;new hampshire&#34; institutioncode:ROM" ; Times: 2
+	Query: "euderma" ; Times: 1
+	Query: "Lonchophylla" ; Times: 1
+	Query: "ROM 18244" ; Times: 2
+	Query: "Rattus norvegicus 1" ; Times: 4
+	Query: "Capra hircus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 170 (out of 1052 download events in this period)
+Total number of records downloaded: 65640
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 10
+	Country: Mexico ; Times: 64
+	Country: United States ; Times: 86
+	Country: Colombia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 2
+	Date: 2016-06-09 ; Times: 2
+	Date: 2016-06-08 ; Times: 12
+	Date: 2016-06-21 ; Times: 4
+	Date: 2016-06-20 ; Times: 6
+	Date: 2016-06-05 ; Times: 3
+	Date: 2016-06-04 ; Times: 3
+	Date: 2016-06-06 ; Times: 7
+	Date: 2016-06-01 ; Times: 2
+	Date: 2016-06-03 ; Times: 6
+	Date: 2016-06-02 ; Times: 6
+	Date: 2016-06-23 ; Times: 6
+	Date: 2016-06-22 ; Times: 5
+	Date: 2016-06-18 ; Times: 12
+	Date: 2016-06-19 ; Times: 4
+	Date: 2016-06-16 ; Times: 9
+	Date: 2016-06-17 ; Times: 15
+	Date: 2016-06-14 ; Times: 15
+	Date: 2016-06-15 ; Times: 16
+	Date: 2016-06-12 ; Times: 2
+	Date: 2016-06-13 ; Times: 26
+	Date: 2016-06-10 ; Times: 4
+	Date: 2016-06-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "balaenoptera physalus" ; Times: 1
+	Query: "Sorex cinereus" ; Times: 2
+	Query: "dipodomys microps" ; Times: 2
+	Query: "Chiroptera type:specimen country:&#34;Ghana&#34;" ; Times: 1
+	Query: "Apodemus agrarius" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "type:specimen country:&#34;Canada&#34; institutioncode:ROM" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 49
+	Query: "puma concolor" ; Times: 6
+	Query: "Loxodonta africana" ; Times: 2
+	Query: "Leptonycteris nivalis" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "microtus oregoni" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 1
+	Query: "panthera onca" ; Times: 3
+	Query: "monodon monoceros" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "Sorex hoyi" ; Times: 1
+	Query: "MUSTELA frenata" ; Times: 1
+	Query: "varecia" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Apodemus flavicollis" ; Times: 1
+	Query: "erethizon" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 2
+	Query: "peromyscus mexicanus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Equus grevyi" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 3
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "Monodon monoceros" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "Bubalus bubalis" ; Times: 4
+	Query: "Peromyscus mexicanus" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Lophostoma brasiliense" ; Times: 1
+	Query: "Phascolarctos" ; Times: 1
+	Query: "bufo bufo" ; Times: 1
+	Query: "Leontopithecus rosalia" ; Times: 1
+	Query: "Microtus mexicanus" ; Times: 1
+	Query: "panthera leo" ; Times: 5
+	Query: "saccopteryx leptura specificepithet:leptura genus:Saccopteryx mappable:1" ; Times: 1
+	Query: "microtus miurus" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "microtus mexicanus" ; Times: 1
+	Query: "Atelerix" ; Times: 2
+	Query: "Lepus americanus" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Dipodomys merriami" ; Times: 1
+	Query: "Rhipidomys mastacalis" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Hippopotamus amphibius" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:Microtus" ; Times: 1
+	Query: "macropus rufus" ; Times: 2
+	Query: "Canis lupus" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Clethrionomys glareolus" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; (Erethizon)" ; Times: 1
+	Query: "E. pectoralis" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "leopardus" ; Times: 2
+	Query: "nasua nasua" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "ORCINUS ORCA" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "microtus townsendii" ; Times: 1
+	Query: "Tamias minimus" ; Times: 1
+	Query: "Catagonus" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "myotis melanorhinus" ; Times: 1
+	Query: "microtus oeconomus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "peromyscus gossypinus" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 2
+	Query: "Martes americana" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "Phenacomys ungava" ; Times: 1
+	Query: "Syria" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "Phascolarctos cinereus" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "norte de santander" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "microtus richardsoni" ; Times: 1
+	Query: "Vampyrum" ; Times: 1
+
+
+End of report.
