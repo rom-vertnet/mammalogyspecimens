@@ -1,0 +1,359 @@
+Report for Institution Code ROM, Resource mamm
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 290
+Number of records retrieved in searches: 3240
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 21
+	Country: Brazil ; Times: 14
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Colombia ; Times: 6
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 45
+	Country: France ; Times: 3
+	Country: United States ; Times: 150
+	Country: China ; Times: 2
+	Country: United Kingdom ; Times: 10
+	Country: Peru ; Times: 3
+	Country: Denmark ; Times: 20
+	Country: Belgium ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-30 ; Times: 3
+	Date: 2017-12-31 ; Times: 16
+	Date: 2017-12-17 ; Times: 5
+	Date: 2017-12-14 ; Times: 9
+	Date: 2017-12-15 ; Times: 3
+	Date: 2017-12-12 ; Times: 7
+	Date: 2017-12-13 ; Times: 5
+	Date: 2017-12-10 ; Times: 5
+	Date: 2017-12-11 ; Times: 6
+	Date: 2017-12-18 ; Times: 5
+	Date: 2017-12-19 ; Times: 6
+	Date: 2017-12-29 ; Times: 6
+	Date: 2017-12-28 ; Times: 3
+	Date: 2017-12-27 ; Times: 4
+	Date: 2017-12-26 ; Times: 19
+	Date: 2017-12-25 ; Times: 1
+	Date: 2017-12-24 ; Times: 4
+	Date: 2017-12-23 ; Times: 2
+	Date: 2017-12-22 ; Times: 11
+	Date: 2017-12-21 ; Times: 10
+	Date: 2017-12-20 ; Times: 15
+	Date: 2017-12-05 ; Times: 39
+	Date: 2017-12-04 ; Times: 20
+	Date: 2017-12-07 ; Times: 7
+	Date: 2017-12-06 ; Times: 19
+	Date: 2017-12-01 ; Times: 19
+	Date: 2017-12-03 ; Times: 21
+	Date: 2017-12-02 ; Times: 14
+	Date: 2017-12-08 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "balaenoptera physalus" ; Times: 2
+	Query: "specificepithet:albigula genus:Neotoma county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:ictonyx country:&#34;kenya&#34;" ; Times: 1
+	Query: "catalognumber:54571 institutioncode:ROM" ; Times: 1
+	Query: "notiosorex" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 3
+	Query: "Alces alces" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus county:&#34;Riverside&#34; year &gt;= 1951 year &lt;= 2017" ; Times: 1
+	Query: "distance(location,geopoint(44.9631889075001,-67.255953717))&lt;23438" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "catalognumber:69827 institutioncode:ROM" ; Times: 2
+	Query: "specificepithet:keaysi genus:Myotis" ; Times: 2
+	Query: "bos grunniens" ; Times: 2
+	Query: "ROM 97763" ; Times: 1
+	Query: "13083" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 8
+	Query: "monodelphis" ; Times: 4
+	Query: "specificepithet:rufus genus:Lynx stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; institutioncode:ROM" ; Times: 1
+	Query: "Pteronotus gymnonotus" ; Times: 1
+	Query: "catalognumber:91074" ; Times: 2
+	Query: "Noctilio albiventris" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 7
+	Query: "specificepithet:crocuta genus:crocuta country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:Didelphis catalognumber:21604 institutioncode:ROM" ; Times: 1
+	Query: "Zapus 2472" ; Times: 1
+	Query: "Scolomys melanops" ; Times: 1
+	Query: "Zapus 2471" ; Times: 1
+	Query: "microtus chrotorrhinus mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:bursarius genus:Geomys family:Geomyidae country:&#34;USA&#34; year &gt;= 1970 year &lt;= 2000 mappable:1" ; Times: 2
+	Query: "John vntype:specimen specificepithet:floridanus genus:Podomys OR Peromyscus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:aonyx country:&#34;kenya&#34; institutioncode:ROM" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "Alouatta pigra" ; Times: 1
+	Query: "genus:otocyon country:&#34;kenya&#34;" ; Times: 1
+	Query: "Tapirus indicus" ; Times: 3
+	Query: "panthera onca" ; Times: 2
+	Query: "specificepithet:brasiliensis genus:tadarida country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "catalognumber:54472 institutioncode:ROM" ; Times: 1
+	Query: "genus:Marmosops country:&#34;Ecuador&#34; institutioncode:ROM" ; Times: 1
+	Query: "Myotis levis" ; Times: 13
+	Query: "genus:Didelphis catalognumber:116019 institutioncode:ROM" ; Times: 1
+	Query: "110080" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "ROM 66207" ; Times: 1
+	Query: "distance(location,geopoint(45.004155559357,-72.6720390447798))&lt;38772" ; Times: 2
+	Query: "Zapus 2690" ; Times: 1
+	Query: "120038" ; Times: 1
+	Query: "catalognumber:30409" ; Times: 1
+	Query: "catalognumber:30411" ; Times: 1
+	Query: "catalognumber:30410" ; Times: 1
+	Query: "vntype:specimen specificepithet:albigularis genus:oryzomys basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina country:&#34;canada&#34;" ; Times: 1
+	Query: "specificepithet:crocuta genus:crocuta country:&#34;kenya&#34; institutioncode:ROM" ; Times: 2
+	Query: "sorex dispar" ; Times: 2
+	Query: "Zapus 2748" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "Zapus 2299" ; Times: 1
+	Query: "ROM 42037" ; Times: 1
+	Query: "specificepithet:keaysi genus:Myotis hastissue:1" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "Tapirus terrestris terrestris" ; Times: 1
+	Query: "genus:sigmodon stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "country:&#34;Japan&#34; institutioncode:ROM" ; Times: 4
+	Query: "ROM 96302" ; Times: 1
+	Query: "vntype:specimen specificepithet:physalus genus:Balaenoptera" ; Times: 2
+	Query: "Tapirus indicus indicus" ; Times: 1
+	Query: "Zapus 2180" ; Times: 1
+	Query: "Zapus 2181" ; Times: 1
+	Query: "Zapus 2680" ; Times: 1
+	Query: "Zapus 2682" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx institutioncode:ROM" ; Times: 1
+	Query: "genus:aonyx country:&#34;kenya&#34;" ; Times: 1
+	Query: "distance(location,geopoint(44.4200546825001,-71.526293728))&lt;11964" ; Times: 1
+	Query: "specificepithet:ichneumon genus:herpestes country:&#34;kenya&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:gymnonotus genus:Pteronotus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Canada Lynx" ; Times: 1
+	Query: "catalognumber:86867" ; Times: 1
+	Query: "17521 class:mammalia" ; Times: 1
+	Query: "Red wolf" ; Times: 1
+	Query: "genus:rhinolophus sex:male institutioncode:ROM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:surdisorex country:&#34;kenya&#34;" ; Times: 1
+	Query: "family:mustelidae stateprovince:&#34;newfoundland&#34;" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus county:&#34;Riverside&#34; year &gt;= 1951 year &lt;= 1970" ; Times: 1
+	Query: "lake sturgeon" ; Times: 1
+	Query: "panthera tigris" ; Times: 9
+	Query: "vancouver island marmot" ; Times: 1
+	Query: "distance(location,geopoint(44.9725155310001,-72.6967921945))&lt;41043" ; Times: 3
+	Query: "22094" ; Times: 1
+	Query: "ROM Tadarida plicata" ; Times: 1
+	Query: "specificepithet:physalus genus:Balaenoptera" ; Times: 1
+	Query: "Eira barbara" ; Times: 6
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:ciliolabrum order:Chiroptera county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "ROM 96971" ; Times: 1
+	Query: "river otter" ; Times: 4
+	Query: "myotis dinellii" ; Times: 2
+	Query: "Skin-97926" ; Times: 1
+	Query: "44483" ; Times: 1
+	Query: "ROM 21604" ; Times: 1
+	Query: "vntype:specimen genus:Geomys family:Geomyidae country:&#34;USA&#34; year &gt;= 1970 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "J. Peterson" ; Times: 1
+	Query: "country:&#34;Sierra Leone&#34; continent:Africa" ; Times: 1
+	Query: "genus:chrysochloris country:&#34;kenya&#34;" ; Times: 1
+	Query: "catalognumber:66653" ; Times: 1
+	Query: "specificepithet:ciliolabrum genus:Myotis county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "77705" ; Times: 1
+	Query: "34420" ; Times: 1
+	Query: "41234" ; Times: 1
+	Query: "ROM 96484" ; Times: 1
+	Query: "Alces" ; Times: 1
+	Query: "specificepithet:adustus genus:canis country:&#34;kenya&#34; institutioncode:ROM" ; Times: 1
+	Query: "ovibos" ; Times: 1
+	Query: "microtus pennsylvanicus terraenovae" ; Times: 1
+	Query: "Myotis simus" ; Times: 1
+	Query: "lepus arcticus" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "Artibeus planirostris" ; Times: 3
+	Query: "Mammalia (wyoming) institutioncode:ROM" ; Times: 2
+	Query: "ROM Mammals tenrecidae" ; Times: 1
+	Query: "alces" ; Times: 2
+	Query: "Myotis nigricans caucensis" ; Times: 3
+	Query: "order:Chiroptera county:&#34;Adair&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:albicauda genus:ichneumia country:&#34;kenya&#34; institutioncode:ROM" ; Times: 3
+	Query: "119073" ; Times: 1
+	Query: "44494" ; Times: 1
+	Query: "specificepithet:albicauda genus:ichneumia country:&#34;kenya&#34;" ; Times: 2
+	Query: "catalognumber:17194" ; Times: 1
+	Query: "97811" ; Times: 1
+	Query: "ROM 85808" ; Times: 1
+	Query: "Dasyurus geoffroii" ; Times: 1
+	Query: "specificepithet:adustus genus:canis country:&#34;kenya&#34;" ; Times: 1
+	Query: "32745" ; Times: 1
+	Query: "ROM 118373" ; Times: 1
+	Query: "sorex gaspensis" ; Times: 1
+	Query: "genus:ictonyx country:&#34;kenya&#34; institutioncode:ROM" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "ROM 116019" ; Times: 1
+	Query: "Oecomys roberti" ; Times: 1
+	Query: "specificepithet:penicillatus class:Mammalia county:&#34;San Bernardino&#34;" ; Times: 3
+	Query: "LASIURUS SEMINOLUS" ; Times: 2
+	Query: "scugog" ; Times: 1
+	Query: "paleontology (wyoming) institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:39249" ; Times: 2
+	Query: "catalognumber:66763" ; Times: 1
+	Query: "ROM 95657" ; Times: 1
+	Query: "Nimule" ; Times: 1
+	Query: "16622" ; Times: 1
+	Query: "specificepithet:rufus genus:Lynx stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; preparations:skeleton institutioncode:ROM" ; Times: 4
+	Query: "locality:Cozumel stateprovince:&#34;Quintana Roo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Spalax microphthalmus" ; Times: 1
+	Query: "22704" ; Times: 1
+	Query: "vulpes hebes" ; Times: 1
+	Query: "37061" ; Times: 1
+	Query: "Spermophilus franklinii mappable:1" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 3
+	Query: "specificepithet:mesomelas genus:canis country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:Didelphis catalognumber:85808 institutioncode:ROM" ; Times: 1
+	Query: "32738" ; Times: 1
+	Query: "catalognumber:47641" ; Times: 2
+	Query: "Mustela nigripes mappable:1" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 8
+	Query: "distance(location,geopoint(44.9926500945,-72.6738853945))&lt;38731" ; Times: 2
+	Query: "halichoerus grypus" ; Times: 1
+	Query: "distance(location,geopoint(44.9984028269285,-72.6710200295))&lt;38736" ; Times: 2
+	Query: "Tadarida plicata India" ; Times: 1
+	Query: "77075" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 4
+	Query: "scolomys melanops" ; Times: 1
+	Query: "29809" ; Times: 1
+	Query: "grand manan specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "Zaedyus pichiy" ; Times: 14
+	Query: "Bassaricyon" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 87 (out of 674 download events in this period)
+Total number of records downloaded: 14493
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 68
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 5
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-08 ; Times: 2
+	Date: 2017-12-05 ; Times: 5
+	Date: 2017-12-06 ; Times: 2
+	Date: 2017-12-26 ; Times: 21
+	Date: 2017-12-27 ; Times: 12
+	Date: 2017-12-31 ; Times: 4
+	Date: 2017-12-28 ; Times: 1
+	Date: 2017-12-20 ; Times: 3
+	Date: 2017-12-16 ; Times: 1
+	Date: 2017-12-17 ; Times: 1
+	Date: 2017-12-14 ; Times: 10
+	Date: 2017-12-04 ; Times: 3
+	Date: 2017-12-13 ; Times: 1
+	Date: 2017-12-02 ; Times: 1
+	Date: 2017-12-15 ; Times: 3
+	Date: 2017-12-11 ; Times: 3
+	Date: 2017-12-30 ; Times: 2
+	Date: 2017-12-18 ; Times: 2
+	Date: 2017-12-19 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Microtus miurus" ; Times: 1
+	Query: "Oecomys roberti" ; Times: 1
+	Query: "Sylvilagus audubonii mappable:1" ; Times: 2
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "Martes pennanti mappable:1" ; Times: 1
+	Query: "Spermophilus columbianus mappable:1" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "Mustela frenata mappable:1" ; Times: 1
+	Query: "canis latrans stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scolomys melanops" ; Times: 1
+	Query: "Napaeozapus insignis mappable:1" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "sorex vagrans" ; Times: 1
+	Query: "sorex dispar" ; Times: 1
+	Query: "Microtus pinetorum mappable:1" ; Times: 1
+	Query: "vulpes macrotis mutica" ; Times: 1
+	Query: "Spermophilus richardsonii mappable:1" ; Times: 1
+	Query: "microtus miurus" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "Enhydra lutris vntype:specimen stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "sorex tundrensis" ; Times: 1
+	Query: "Sciurus carolinensis mappable:1" ; Times: 1
+	Query: "Microtus xanthognathus" ; Times: 1
+	Query: "Mustela erminea mappable:1" ; Times: 1
+	Query: "sorex fumeus" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "specificepithet:grisescens genus:Myotis" ; Times: 1
+	Query: "sorex longirostris" ; Times: 1
+	Query: "vntype:specimen genus:Geomys family:Geomyidae country:&#34;USA&#34; year &gt;= 1970 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "Sylvilagus nuttallii mappable:1" ; Times: 1
+	Query: "Tamiasciurus hudsonicus mappable:1" ; Times: 1
+	Query: "sorex monticolus" ; Times: 1
+	Query: "Zapus princeps mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;Campeche&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:palustris genus:Oryzomys stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Tamiasciurus douglasii mappable:1" ; Times: 1
+	Query: "Spermophilus lateralis mappable:1" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "Peromyscus keeni mappable:1" ; Times: 1
+	Query: "Spermophilus franklinii mappable:1" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 1
+	Query: "Macroscelides" ; Times: 1
+	Query: "specificepithet:austroriparius genus:Myotis" ; Times: 1
+	Query: "Myotis simus" ; Times: 1
+	Query: "Synaptomys borealis mappable:1" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Scolomys melanops" ; Times: 1
+	Query: "Sciurus niger mappable:1" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "microtus chrotorrhinus mappable:1" ; Times: 1
+	Query: "Mustela nigripes mappable:1" ; Times: 1
+	Query: "Lepus americanus mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:bursarius genus:Geomys family:Geomyidae country:&#34;USA&#34; year &gt;= 1970 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "peromyscus leucopus mappable:1" ; Times: 1
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "genus:didelphis hastissue:1" ; Times: 1
+	Query: "Lemmus trimucronatus mappable:1" ; Times: 1
+	Query: "Tatera indica" ; Times: 1
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Pteronotus gymnonotus" ; Times: 1
+	Query: "peromyscus maniculatus mappable:1" ; Times: 1
+	Query: "Zapus hudsonius mappable:1" ; Times: 1
+	Query: "sciurus arizonensis" ; Times: 1
+	Query: "sylvilagus audubonii" ; Times: 1
+	Query: "Odocoileus hemionus mappable:1" ; Times: 1
+	Query: "Lepus townsendii mappable:1" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "Martes americana mappable:1" ; Times: 1
+	Query: "Spermophilus tridecemlineatus mappable:1" ; Times: 1
+	Query: "specificepithet:keaysi genus:Myotis hastissue:1" ; Times: 1
+	Query: "Odobenus rosmarus vntype:specimen" ; Times: 1
+	Query: "Odocoileus virginianus mappable:1" ; Times: 1
+	Query: "Perognathus fasciatus mappable:1" ; Times: 1
+	Query: "sorex haydeni" ; Times: 1
+	Query: "Mustela nivalis mappable:1" ; Times: 2
+	Query: "Noctilio albiventris" ; Times: 1
+	Query: "Sylvilagus floridanus mappable:1" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Microtus townsendii" ; Times: 1
+
+
+End of report.
