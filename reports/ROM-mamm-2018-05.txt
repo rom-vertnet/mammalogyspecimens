@@ -1,0 +1,470 @@
+Report for Institution Code ROM, Resource mamm
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 493
+Number of records retrieved in searches: 4871
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 15
+	Country: Madagascar ; Times: 1
+	Country: Italy ; Times: 34
+	Country: Unknown ; Times: 14
+	Country: France ; Times: 19
+	Country: Peru ; Times: 3
+	Country: Argentina ; Times: 5
+	Country: Norway ; Times: 4
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 7
+	Country: Chile ; Times: 1
+	Country: China ; Times: 5
+	Country: United States ; Times: 285
+	Country: Japan ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 48
+	Country: India ; Times: 1
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 35
+	Country: Kenya ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 5
+	Date: 2018-05-29 ; Times: 43
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-21 ; Times: 13
+	Date: 2018-05-22 ; Times: 18
+	Date: 2018-05-23 ; Times: 20
+	Date: 2018-05-24 ; Times: 9
+	Date: 2018-05-25 ; Times: 8
+	Date: 2018-05-26 ; Times: 6
+	Date: 2018-05-27 ; Times: 2
+	Date: 2018-05-06 ; Times: 10
+	Date: 2018-05-07 ; Times: 28
+	Date: 2018-05-04 ; Times: 25
+	Date: 2018-05-05 ; Times: 7
+	Date: 2018-05-02 ; Times: 13
+	Date: 2018-05-03 ; Times: 17
+	Date: 2018-05-01 ; Times: 24
+	Date: 2018-05-08 ; Times: 32
+	Date: 2018-05-09 ; Times: 17
+	Date: 2018-05-31 ; Times: 5
+	Date: 2018-05-30 ; Times: 26
+	Date: 2018-05-15 ; Times: 41
+	Date: 2018-05-14 ; Times: 20
+	Date: 2018-05-17 ; Times: 29
+	Date: 2018-05-16 ; Times: 9
+	Date: 2018-05-11 ; Times: 12
+	Date: 2018-05-10 ; Times: 8
+	Date: 2018-05-13 ; Times: 10
+	Date: 2018-05-12 ; Times: 3
+	Date: 2018-05-19 ; Times: 14
+	Date: 2018-05-18 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "country:Ecuador scientificname:Marmosa rubra " ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira magna " ; Times: 2
+	Query: "Tonatia saurophila" ; Times: 1
+	Query: "class:Mammalia institutioncode:ROM hastypestatus:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Cormura brevirostris " ; Times: 1
+	Query: "rom 30260" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "Noctilio albiventris" ; Times: 1
+	Query: "rom 30263" ; Times: 1
+	Query: "country:Ecuador scientificname:Cyclopes didactylus " ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1980 year &lt;= 1989 institutioncode:ROM" ; Times: 1
+	Query: "country:Ecuador scientificname:Proechimys quadruplicatus " ; Times: 2
+	Query: "71073" ; Times: 1
+	Query: "11051" ; Times: 1
+	Query: "Myotis chiloensis" ; Times: 4
+	Query: "specificepithet:eloquens genus:Rhinolophus" ; Times: 1
+	Query: "country:Ecuador scientificname:Anoura cultrata " ; Times: 2
+	Query: "country:Ecuador scientificname:Marmosops noctivagus " ; Times: 1
+	Query: "country:Ecuador scientificname:Tapirus terrestris " ; Times: 1
+	Query: "Micronycteris schmidtorum" ; Times: 1
+	Query: "country:Ecuador scientificname:Micronycteris minuta " ; Times: 1
+	Query: "distance(location,geopoint(42.2832807888075,-83.1083580444698))&lt;9603" ; Times: 2
+	Query: "specificepithet:velox genus:vulpes year &gt;= 1920 year &lt;= 1929" ; Times: 1
+	Query: "rom 32995" ; Times: 1
+	Query: "country:Ecuador scientificname:Anoura caudifer " ; Times: 4
+	Query: "specificepithet:oresterus genus:heteromys" ; Times: 1
+	Query: "specificepithet:semistriatus genus:Conepatus" ; Times: 1
+	Query: "country:Ecuador scientificname:Molossus molossus " ; Times: 1
+	Query: "distance(location,geopoint(46.8583064480499,-96.3498639161359))&lt;42406" ; Times: 1
+	Query: "specificepithet:lagopus genus:vulpes year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "specificepithet:nubicolens genus:heteromys" ; Times: 1
+	Query: "Hemitragus" ; Times: 3
+	Query: "distance(location,geopoint(48.485831828,-95.0056130685))&lt;51608" ; Times: 1
+	Query: "specificepithet:norvegicus genus:Rattus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 4
+	Query: "rom 27279" ; Times: 1
+	Query: "specificepithet:transitionalis genus:Sylvilagus mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhynchonycteris naso " ; Times: 1
+	Query: "specificepithet:onca genus:panthera basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lophiomys imhausi" ; Times: 6
+	Query: "specificepithet:carolinensis genus:Sciurus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:sibiricus genus:Tamias mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(46.9340888008072,-95.7192915126383))&lt;56921" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 1
+	Query: "rom 17989" ; Times: 1
+	Query: "Eumops bonariensis" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "Sylvilagus aquaticus" ; Times: 1
+	Query: "Lasiurus borealis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 9
+	Query: "specificepithet:velox genus:vulpes year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "country:Ecuador scientificname:Mesophylla macconnelli " ; Times: 1
+	Query: "Chiroderma improvisum" ; Times: 7
+	Query: "specificepithet:lagopus genus:vulpes year &gt;= 1960 year &lt;= 1969 institutioncode:ROM" ; Times: 1
+	Query: "country:Ecuador scientificname:Vampyrodes caraccioli " ; Times: 1
+	Query: "genus:Priodontes basisofrecord:PreservedSpecimen" ; Times: 6
+	Query: "country:Ecuador scientificname:Macrophyllum macrophyllum " ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus planirostris " ; Times: 1
+	Query: "order:Chiroptera AND hastypestatus:1 AND NOT (MSB)" ; Times: 2
+	Query: "rom 36948" ; Times: 2
+	Query: "Lasiurus intermedius stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "rom 38526" ; Times: 1
+	Query: "(camelus bactrianus)" ; Times: 1
+	Query: "(Muntiacus) institutioncode:ROM" ; Times: 1
+	Query: "distance(location,geopoint(43.447923027286,-91.1660457369999))&lt;23821" ; Times: 2
+	Query: "rom 43084" ; Times: 1
+	Query: "rhinolophus fumigatus" ; Times: 1
+	Query: "Kedong Valley" ; Times: 2
+	Query: "specificepithet:finlaysonii genus:Callosciurus mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Puma concolor " ; Times: 9
+	Query: "panthera onca" ; Times: 3
+	Query: "37184" ; Times: 1
+	Query: "country:Ecuador scientificname:Phylloderma stenops " ; Times: 1
+	Query: "specificepithet:dammah" ; Times: 1
+	Query: "125990" ; Times: 1
+	Query: "Cynomops mexicanus" ; Times: 1
+	Query: "ROM 99614" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1990 year &lt;= 1999 institutioncode:ROM" ; Times: 1
+	Query: "rom 33160" ; Times: 1
+	Query: "distance(location,geopoint(42.0904418740985,-83.1130695620183))&lt;9302" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "Cameroon Rhinolophus landeri" ; Times: 1
+	Query: "marmosops caucae" ; Times: 1
+	Query: "Tamias minimus caniceps" ; Times: 1
+	Query: "country:Ecuador scientificname:Choeroniscus minor " ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "distance(location,geopoint(46.9340952330001,-95.719205936))&lt;42896" ; Times: 2
+	Query: "Cabassous" ; Times: 2
+	Query: "specificepithet:javanicus genus:Herpestes mappable:1" ; Times: 1
+	Query: "24432" ; Times: 1
+	Query: "phylloderma stenops" ; Times: 1
+	Query: "&#34;Lake Baringo&#34;" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "peromyscus stirtoni" ; Times: 1
+	Query: "country:Ecuador scientificname:Melanomys caliginosus " ; Times: 2
+	Query: "dipodomys phillipsii" ; Times: 1
+	Query: "distance(location,geopoint(46.988734162,-95.625347563))&lt;12690" ; Times: 2
+	Query: "country:Ecuador scientificname:Thyroptera lavali " ; Times: 1
+	Query: "Caiman vntype:specimen (Caiman) institutioncode:ROM hastissue:1" ; Times: 1
+	Query: "prince edward island specificepithet:pennsylvanicus genus:microtus" ; Times: 1
+	Query: "distance(location,geopoint(47.7460065965,-96.0598279575))&lt;46258" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "specificepithet:lutra genus:Lutra" ; Times: 6
+	Query: "Dogs" ; Times: 1
+	Query: "Platyrrhinus umbratus" ; Times: 1
+	Query: "rom 39802" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus elongatus " ; Times: 2
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon mappable:1 year&gt;=2000" ; Times: 1
+	Query: "genus:canis stateprovince:&#34;ontario&#34;" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1950 year &lt;= 1959 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:nasua genus:Nasua mappable:1" ; Times: 1
+	Query: "95215" ; Times: 1
+	Query: "105031" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "specificepithet:zibethicus genus:Ondatra mappable:1 year&gt;=2000" ; Times: 1
+	Query: "country:Ecuador scientificname:Cuniculus paca " ; Times: 1
+	Query: "109699 ROM" ; Times: 1
+	Query: "rom 43059" ; Times: 1
+	Query: "locality:McKay" ; Times: 1
+	Query: "county:&#34;Montgomery&#34; stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "ROM 108487" ; Times: 2
+	Query: "specificepithet:capensis genus:Lepus mappable:1" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "lagothrix lagothricha" ; Times: 1
+	Query: "country:Ecuador scientificname:Chrotopterus auritus " ; Times: 1
+	Query: "Lake Baringo" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "country:Ecuador scientificname:Eumops auripendulus " ; Times: 1
+	Query: "rom 41015" ; Times: 1
+	Query: "Rattus rattus Madagascar" ; Times: 1
+	Query: "Lophostoma evotis" ; Times: 1
+	Query: "country:Ecuador scientificname:Enchisthenes hartii " ; Times: 1
+	Query: "Tayassu Tajacu" ; Times: 4
+	Query: "rom 39909" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus infuscus " ; Times: 1
+	Query: "rom 28542" ; Times: 1
+	Query: "31227" ; Times: 2
+	Query: "40447" ; Times: 2
+	Query: "rom 27276" ; Times: 1
+	Query: "tabasco" ; Times: 3
+	Query: "specificepithet:erythraeus genus:Callosciurus mappable:1" ; Times: 1
+	Query: "Thylacinus cynocephalus" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 12
+	Query: "Phylloderma stenops" ; Times: 1
+	Query: "country:Ecuador scientificname:Trachops cirrhosus " ; Times: 1
+	Query: "37232" ; Times: 1
+	Query: "country:Ecuador scientificname:Tonatia saurophila " ; Times: 2
+	Query: "specificepithet:auratus genus:Mesocricetus mappable:1" ; Times: 1
+	Query: "ROM 114070" ; Times: 1
+	Query: "country:Ecuador scientificname:Thyroptera tricolor " ; Times: 2
+	Query: "chiroderma improvisum" ; Times: 1
+	Query: "Mimon crenulatum" ; Times: 1
+	Query: "distance(location,geopoint(42.2699864184285,-90.3736484933877))&lt;29940" ; Times: 2
+	Query: "country:Ecuador scientificname:Nesoryzomys swarthi " ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2000 year &lt;= 2009 institutioncode:ROM" ; Times: 1
+	Query: "rom 43044" ; Times: 2
+	Query: "specificepithet:Maniculatus genus:Peromyscus stateprovince:&#34;Arizona&#34; country:&#34;USA&#34;" ; Times: 3
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 2
+	Query: "genus:Rhogeessa country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Gymnobelideus" ; Times: 1
+	Query: "ROM 113962" ; Times: 2
+	Query: "AL 3054" ; Times: 1
+	Query: "country:Ecuador scientificname:Molossus coibensis " ; Times: 1
+	Query: "Eira barbara" ; Times: 1
+	Query: "Lophostoma brasiliense" ; Times: 1
+	Query: "specificepithet:auropunctatus genus:Herpestes mappable:1" ; Times: 6
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1970 year &lt;= 1979 institutioncode:ROM" ; Times: 1
+	Query: "country:Ecuador scientificname:Mindomys hammondi " ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "locality:salamanca" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 1
+	Query: "ROM 108325" ; Times: 1
+	Query: "distance(location,geopoint(38.9483272395968,-85.420946113691))&lt;27195" ; Times: 1
+	Query: "rom 28955" ; Times: 1
+	Query: "specificepithet:auritus genus:Hemiechinus mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Eumops maurus " ; Times: 2
+	Query: "Hypsignathus monstrosus" ; Times: 2
+	Query: "ROM 113465" ; Times: 1
+	Query: "country:Ecuador scientificname:Eptesicus brasiliensis " ; Times: 1
+	Query: "Trachops cirrhosus" ; Times: 1
+	Query: "rom 18021" ; Times: 1
+	Query: "ROM 114195" ; Times: 1
+	Query: "class:Mammalia institutioncode:ROM hastypestatus:1 holotype" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1940 year &lt;= 1949 institutioncode:ROM" ; Times: 1
+	Query: "107218" ; Times: 1
+	Query: "rom 34429" ; Times: 1
+	Query: "ROM 105572" ; Times: 3
+	Query: "distance(location,geopoint(41.008117971147,-87.5390087322894))&lt;14523" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus helleri " ; Times: 2
+	Query: "catalognumber:66465" ; Times: 1
+	Query: "distance(location,geopoint(45.4726993784101,-93.738240342895))&lt;25496" ; Times: 2
+	Query: "Macrophyllum macrophyllum" ; Times: 1
+	Query: "country:Ecuador scientificname:Metachirus nudicaudatus " ; Times: 1
+	Query: "carollia sowelli" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Gracilinanus" ; Times: 1
+	Query: "ROM 105278" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Cundinamarca&#34; country:&#34;Colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "catalognumber:121173" ; Times: 1
+	Query: "rom 26876" ; Times: 1
+	Query: "specificepithet:moschatus genus:Ovibos mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 2
+	Query: "vntype:specimen genus:muntiacus sex:male preparations:skull hassex:1" ; Times: 2
+	Query: "rom 43071" ; Times: 1
+	Query: "nigeria Rhinolophus landeri" ; Times: 1
+	Query: "rom 38286" ; Times: 1
+	Query: "ROM 116835" ; Times: 2
+	Query: "Vampyrum spectrum" ; Times: 2
+	Query: "country:Ecuador scientificname:Echimys saturnus " ; Times: 1
+	Query: "rom 41476" ; Times: 1
+	Query: "27634" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1990 year &lt;= 1999 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:gossypinus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 3
+	Query: "vicugna" ; Times: 1
+	Query: "alces" ; Times: 1
+	Query: "specificepithet:javanicus genus:Herpestes mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Mimon cozumelae" ; Times: 1
+	Query: "Pteronotus gymnonotus" ; Times: 1
+	Query: "Myotis tricolor" ; Times: 3
+	Query: "Lonchorhina aurita" ; Times: 1
+	Query: "44963" ; Times: 1
+	Query: "rom 18053" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Pronolagus" ; Times: 2
+	Query: "genus:Priodontes" ; Times: 2
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "country:Ecuador scientificname:Chiroderma trinitatum " ; Times: 1
+	Query: "country:Ecuador scientificname:Myoprocta pratti " ; Times: 3
+	Query: "109699" ; Times: 1
+	Query: "specificepithet:onca genus:panthera" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(46.3028756941665,-86.0973304315))&lt;13926" ; Times: 2
+	Query: "P45" ; Times: 1
+	Query: "ROM landeri" ; Times: 1
+	Query: "ROM 118777" ; Times: 1
+	Query: "Priodontes" ; Times: 2
+	Query: "genus:ursus institutioncode:ROM" ; Times: 9
+	Query: "distance(location,geopoint(38.3577784560001,-87.4390652764999))&lt;30214" ; Times: 2
+	Query: "stateprovince:&#34;tabasco&#34; country:&#34;Mexico&#34; continent:america" ; Times: 1
+	Query: "country:Ecuador scientificname:Molossus rufus " ; Times: 2
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 1
+	Query: "specificepithet:lagopus genus:vulpes year &gt;= 1950 year &lt;= 1959 institutioncode:ROM" ; Times: 1
+	Query: "rom 44376" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "country:Ecuador scientificname:Molossops temminckii " ; Times: 1
+	Query: "Cuniculus paca" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 2
+	Query: "specificepithet:coypus genus:Myocastor mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus gnomus " ; Times: 1
+	Query: "rom 41463" ; Times: 2
+	Query: "Peropteryx kappleri" ; Times: 1
+	Query: "genus:Tamandua haslifestage:1 hastissue:1" ; Times: 1
+	Query: "vampyrum" ; Times: 1
+	Query: "rom 38981" ; Times: 1
+	Query: "Saccopteryx leptura" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira aratathomasi " ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "Callitrichidae" ; Times: 1
+	Query: "catalognumber:47562" ; Times: 1
+	Query: "56785" ; Times: 1
+	Query: "62245" ; Times: 1
+	Query: "microsciurus" ; Times: 2
+	Query: "Diaemus youngi" ; Times: 1
+	Query: "distance(location,geopoint(46.412667731,-95.7279602395))&lt;54505" ; Times: 2
+	Query: "Thyroptera tricolor" ; Times: 1
+	Query: "specificepithet:pennanti genus:Funambulus mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhinophylla alethina " ; Times: 1
+	Query: "distance(location,geopoint(39.070019590351,-93.3608964360506))&lt;77242" ; Times: 3
+	Query: "rom 38005" ; Times: 1
+	Query: "35076" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira ludovici " ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 4
+	Query: "Marmosops caucae" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1930 year &lt;= 1939 institutioncode:ROM" ; Times: 1
+	Query: "bos gaurus" ; Times: 1
+	Query: "ROM 111106" ; Times: 1
+	Query: "ROM 114291" ; Times: 2
+	Query: "110139 ROM" ; Times: 1
+	Query: "specificepithet:aegyptiacus genus:Rousettus mappable:1" ; Times: 2
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 1
+	Query: "catalognumber:95077" ; Times: 1
+	Query: "ROM 104474" ; Times: 1
+	Query: "country:Ecuador scientificname:Caluromys lanatus " ; Times: 3
+	Query: "country:Ecuador scientificname:Vampyressa thyone " ; Times: 1
+	Query: "distance(location,geopoint(42.7928688510001,-88.9497216725))&lt;13745" ; Times: 2
+	Query: "ROM 113991" ; Times: 1
+	Query: "scientificname:Saccopteryx bilineata " ; Times: 1
+	Query: "country:Ecuador scientificname:Heteromys australis " ; Times: 1
+	Query: "Rhynchonycteris naso" ; Times: 1
+	Query: "specificepithet:io genus:Rhogeessa" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "Myotis welwitschii" ; Times: 3
+	Query: "country:Ecuador scientificname:Micronycteris megalotis " ; Times: 1
+	Query: "rom 38999" ; Times: 1
+	Query: "country:Ecuador scientificname:Scolomys melanops " ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 4
+	Query: "ROM 11679" ; Times: 2
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;prince edward island&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Philander andersoni " ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1960 year &lt;= 1969 institutioncode:ROM" ; Times: 1
+	Query: "Cryptotis thomasi" ; Times: 1
+	Query: "tayassu tajacu" ; Times: 1
+	Query: "rom 32597" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "ROM 116311" ; Times: 2
+	Query: "39454" ; Times: 1
+	Query: "36458" ; Times: 1
+	Query: "Ateles hybridus" ; Times: 4
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "chaetophractus" ; Times: 1
+	Query: "50785" ; Times: 2
+	Query: "country:Ecuador scientificname:Mesomys hispidus " ; Times: 1
+	Query: "country:Ecuador scientificname:Didelphis marsupialis " ; Times: 1
+	Query: "Zaedyus pichiy" ; Times: 6
+	Query: "rom 43625" ; Times: 1
+	Query: "rom 37983" ; Times: 1
+	Query: "locality:Medicine Hat institutioncode:ROM" ; Times: 1
+	Query: "rom 37985" ; Times: 1
+	Query: "rom 28757" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 1178 download events in this period)
+Total number of records downloaded: 10992
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Brazil ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: India ; Times: 1
+	Country: United States ; Times: 15
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 3
+	Date: 2018-05-07 ; Times: 4
+	Date: 2018-05-04 ; Times: 2
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-02 ; Times: 2
+	Date: 2018-05-10 ; Times: 3
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-08 ; Times: 2
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-18 ; Times: 4
+	Date: 2018-05-28 ; Times: 2
+	Date: 2018-05-16 ; Times: 2
+	Date: 2018-05-11 ; Times: 2
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-31 ; Times: 5
+	Date: 2018-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:ursus institutioncode:ROM" ; Times: 1
+	Query: "class:Mammalia country:&#34;Colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Macropus rufogriseus" ; Times: 1
+	Query: "chiroptera mexico" ; Times: 2
+	Query: "dipodomys phillipsii" ; Times: 1
+	Query: "Macropus fuliginosus" ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "class:Mammalia institutioncode:ROM hastypestatus:1 holotype" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "Macropus robustus" ; Times: 1
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "genus:Didelphis stateprovince:&#34;California&#34; preparations:skin" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "funambulus" ; Times: 1
+	Query: "neotoma macrotis" ; Times: 1
+	Query: "specificepithet:onca genus:panthera basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "macropus giganteus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Cundinamarca&#34; country:&#34;Colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "vntype:specimen genus:muntiacus sex:male preparations:skull hassex:1" ; Times: 2
+	Query: "Arctocephalus pusillus" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "vicugna" ; Times: 1
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "specificepithet:io genus:Rhogeessa" ; Times: 1
+	Query: "Pazos" ; Times: 1
+	Query: "macropus rufus" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+	Query: "marmosops caucae" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+
+
+End of report.
