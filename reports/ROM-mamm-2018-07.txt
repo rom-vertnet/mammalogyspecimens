@@ -1,0 +1,563 @@
+Report for Institution Code ROM, Resource mamm
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 815
+Number of records retrieved in searches: 6069
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 39
+	Country: Canada ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Mexico ; Times: 169
+	Country: El Salvador ; Times: 4
+	Country: Unknown ; Times: 10
+	Country: Czechia ; Times: 1
+	Country: Russia ; Times: 7
+	Country: United Kingdom ; Times: 9
+	Country: Switzerland ; Times: 1
+	Country: Guatemala ; Times: 2
+	Country: China ; Times: 6
+	Country: Chile ; Times: 21
+	Country: Belgium ; Times: 1
+	Country: Germany ; Times: 7
+	Country: New Zealand ; Times: 1
+	Country: United States ; Times: 520
+	Country: Argentina ; Times: 7
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-07 ; Times: 4
+	Date: 2018-07-01 ; Times: 17
+	Date: 2018-07-02 ; Times: 31
+	Date: 2018-07-03 ; Times: 65
+	Date: 2018-07-28 ; Times: 6
+	Date: 2018-07-29 ; Times: 13
+	Date: 2018-07-08 ; Times: 13
+	Date: 2018-07-09 ; Times: 10
+	Date: 2018-07-04 ; Times: 32
+	Date: 2018-07-05 ; Times: 26
+	Date: 2018-07-06 ; Times: 30
+	Date: 2018-07-21 ; Times: 39
+	Date: 2018-07-26 ; Times: 24
+	Date: 2018-07-27 ; Times: 20
+	Date: 2018-07-24 ; Times: 26
+	Date: 2018-07-25 ; Times: 20
+	Date: 2018-07-13 ; Times: 6
+	Date: 2018-07-12 ; Times: 105
+	Date: 2018-07-11 ; Times: 19
+	Date: 2018-07-10 ; Times: 101
+	Date: 2018-07-17 ; Times: 20
+	Date: 2018-07-16 ; Times: 29
+	Date: 2018-07-15 ; Times: 6
+	Date: 2018-07-14 ; Times: 10
+	Date: 2018-07-31 ; Times: 18
+	Date: 2018-07-30 ; Times: 6
+	Date: 2018-07-19 ; Times: 15
+	Date: 2018-07-18 ; Times: 16
+	Date: 2018-07-22 ; Times: 8
+	Date: 2018-07-23 ; Times: 50
+	Date: 2018-07-20 ; Times: 30
+
+List of queries that retrieved data from the resource: 
+	Query: "country:Ecuador scientificname:Cormura brevirostris " ; Times: 4
+	Query: "44690" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes stateprovince:&#34;Newfoundland&#34; country:&#34;Canada&#34; (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1950 year &lt;= 1959 institutioncode:ROM" ; Times: 1
+	Query: "genus:Eptesicus county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Marmosops noctivagus " ; Times: 1
+	Query: "country:Ecuador scientificname:Tapirus terrestris " ; Times: 3
+	Query: "genus:Neacomys catalognumber:105776 institutioncode:ROM" ; Times: 1
+	Query: "country:Ecuador scientificname:Micronycteris minuta " ; Times: 1
+	Query: "catalognumber:44449" ; Times: 1
+	Query: "catalognumber:44448" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1940 year &lt;= 1949" ; Times: 2
+	Query: "specificepithet:polionotus genus:peromyscus county:&#34;saint&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhynchonycteris naso " ; Times: 1
+	Query: "specificepithet:tragata genus:Nycteris order:Chiroptera hastissue:1" ; Times: 1
+	Query: "&#34;Lepus americanus&#34; stateprovince:&#34;Wisconsin&#34; OR &#34;Minnesota&#34; preparations:skin" ; Times: 5
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1960 year &lt;= 1969 institutioncode:ROM" ; Times: 1
+	Query: "82901" ; Times: 1
+	Query: "country:Ecuador scientificname:Vampyrodes caraccioli " ; Times: 4
+	Query: "country:Ecuador scientificname:Lichonycteris obscura " ; Times: 2
+	Query: "specificepithet:rattus genus:rattus country:&#34;kenya&#34; institutioncode:ROM" ; Times: 2
+	Query: "Chironectes" ; Times: 1
+	Query: "specificepithet:sp genus:mus country:&#34;kenya&#34;" ; Times: 2
+	Query: "panthera onca" ; Times: 3
+	Query: "Pompeya Sur genus:Neacomys institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:kappleri genus:dasypus" ; Times: 4
+	Query: "Nycteris gambiensis" ; Times: 1
+	Query: "92002" ; Times: 1
+	Query: "genus:Metachirus country:&#34;Suriname&#34; institutioncode:ROM" ; Times: 1
+	Query: "30999" ; Times: 1
+	Query: "country:Ecuador scientificname:Eptesicus brasiliensis " ; Times: 2
+	Query: "specificepithet:virginiana genus:Didelphis stateprovince:&#34;Ontario&#34;" ; Times: 1
+	Query: "&#34;Lepus americanus&#34; stateprovince: Wisconsin preparations:skin" ; Times: 2
+	Query: "vntype:specimen specificepithet:lupus genus:Canis year &gt;= 1960 year &lt;= 1969 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1920 year &lt;= 1929 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:polionotus genus:peromyscus county:&#34;saint Johns&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:20035 institutioncode:ROM" ; Times: 2
+	Query: "genus:Myrmecophaga preparations:skeleton" ; Times: 1
+	Query: "genus:Scalopus stateprovince:Kentucky" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus elongatus " ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "Proechimys cuvieri" ; Times: 1
+	Query: "country:Ecuador scientificname:Cuniculus paca " ; Times: 2
+	Query: "genus:pelomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:Neacomys catalognumber:104488 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:polionotus genus:peromyscus county:&#34;johns&#34; stateprovince:&#34;florida&#34;" ; Times: 2
+	Query: "genus:hystrix country:&#34;kenya&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Furipterus horrens " ; Times: 1
+	Query: "specificepithet:delectorum genus:praomys country:&#34;kenya&#34; institutioncode:ROM" ; Times: 1
+	Query: "CM 106499" ; Times: 1
+	Query: "CM 106498" ; Times: 1
+	Query: "genus:Neacomys catalognumber:106105 institutioncode:ROM" ; Times: 1
+	Query: "Panthera uncia" ; Times: 4
+	Query: "country:Ecuador scientificname:Tonatia saurophila " ; Times: 2
+	Query: "genus:Parascalops stateprovince:&#34;Ohio&#34;" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1960 year &lt;= 1969 institutioncode:ROM" ; Times: 1
+	Query: "29140" ; Times: 1
+	Query: "genus:Corynorhinus county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "country:&#34;kenya&#34; (Mara river)" ; Times: 2
+	Query: "53355" ; Times: 1
+	Query: "specificepithet:swinderianus genus:thryonomys country:&#34;kenya&#34;" ; Times: 2
+	Query: "genus:mus country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:jacksoni genus:praomys country:&#34;kenya&#34; institutioncode:ROM" ; Times: 2
+	Query: "country:Ecuador scientificname:Artibeus anderseni " ; Times: 2
+	Query: "specificepithet:mesomelas genus:Canis (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1970 year &lt;= 1979 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34; (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1950 year &lt;= 1959 institutioncode:ROM" ; Times: 1
+	Query: "73161" ; Times: 1
+	Query: "captive vntype:specimen specificepithet:venaticus genus:Speothos (skull OR skeleton)" ; Times: 1
+	Query: "country:Ecuador scientificname:Oecomys bicolor " ; Times: 2
+	Query: "country:Ecuador scientificname:Peropteryx pallidoptera " ; Times: 2
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 1
+	Query: "32613" ; Times: 1
+	Query: "ROM inflatus Cameroon" ; Times: 1
+	Query: "catalognumber:113761 institutioncode:ROM" ; Times: 1
+	Query: "country:Ecuador scientificname:Uroderma bilobatum " ; Times: 1
+	Query: "mountain goat" ; Times: 2
+	Query: "genus:Scotophilus country:&#34;Kenya&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis keaysi " ; Times: 1
+	Query: "19982" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon AND (NOT captive NOT zoo) year &gt;= 1960 year &lt;= 1969 institutioncode:ROM" ; Times: 1
+	Query: "29884" ; Times: 1
+	Query: "vntype:specimen specificepithet:latrans genus:Canis year &gt;= 1950 year &lt;= 1959 institutioncode:ROM" ; Times: 1
+	Query: "22763" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34; (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1950 year &lt;= 1959 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:52844" ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis year &gt;= 1990 year &lt;= 1999 institutioncode:ROM" ; Times: 1
+	Query: "americanus clarke county" ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis year &gt;= 1980 year &lt;= 1989 institutioncode:ROM" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira aratathomasi " ; Times: 4
+	Query: "genus:Neacomys catalognumber:105517 institutioncode:ROM" ; Times: 1
+	Query: "country:Ecuador scientificname:Mesophylla macconnelli " ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon AND (NOT captive NOT zoo) year &gt;= 1950 year &lt;= 1959 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:typus genus:otomys country:&#34;kenya&#34;" ; Times: 2
+	Query: "JFS 26" ; Times: 1
+	Query: "genus:Parascalops" ; Times: 1
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis riparius " ; Times: 1
+	Query: "tapirus terrestris" ; Times: 2
+	Query: "14764" ; Times: 1
+	Query: "Panthera onca " ; Times: 1
+	Query: "captive vntype:specimen specificepithet:procyonoides genus:Nyctereutes family:Canidae (skull OR skeleton)" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis year &gt;= 1970 year &lt;= 1979 institutioncode:ROM" ; Times: 1
+	Query: "midas" ; Times: 1
+	Query: "Rio Capiron institutioncode:ROM" ; Times: 1
+	Query: "Sturnira thomasi" ; Times: 1
+	Query: "genus:Scalopus stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Didelphis marsupialis " ; Times: 6
+	Query: "specificepithet:vulpes genus:Vulpes stateprovince:&#34;Saskatchewan&#34; country:&#34;Canada&#34; (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1950 year &lt;= 1959 institutioncode:ROM" ; Times: 1
+	Query: "89544" ; Times: 1
+	Query: "Brachyphylla cavernarum" ; Times: 1
+	Query: "country:Ecuador scientificname:Proechimys quadruplicatus " ; Times: 1
+	Query: "specificepithet:delectorum genus:praomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "34490" ; Times: 1
+	Query: "&#34;Lepus americanus&#34; stateprovince:&#34;Wisconsin&#34; preparations:skin" ; Times: 4
+	Query: "diani" ; Times: 3
+	Query: "Lophostoma evotis" ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis year &gt;= 1930 year &lt;= 1939 institutioncode:ROM" ; Times: 1
+	Query: "genus:Dasypus" ; Times: 1
+	Query: "Panthera pardus japonensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:lagopus genus:Vulpes family:Canidae (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1950 year &lt;= 1959 institutioncode:ROM" ; Times: 1
+	Query: "57433" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "vntype:specimen specificepithet:lagopus genus:Vulpes family:Canidae (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1940 year &lt;= 1949 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:glaber genus:heterocephalus country:&#34;kenya&#34; institutioncode:ROM" ; Times: 2
+	Query: "catalognumber:38481 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes stateprovince:&#34;Nunavut&#34; country:&#34;Canada&#34; (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1950 year &lt;= 1959 institutioncode:ROM" ; Times: 1
+	Query: "Chiroderma improvisum" ; Times: 1
+	Query: "Mazama americana" ; Times: 4
+	Query: "vntype:specimen specificepithet:lagopus genus:Vulpes family:Canidae (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1990 year &lt;= 1999 institutioncode:ROM" ; Times: 1
+	Query: "121036" ; Times: 1
+	Query: "country:Ecuador scientificname:Ateles belzebuth " ; Times: 1
+	Query: "specificepithet:fallax genus:pelomys country:&#34;kenya&#34; institutioncode:ROM" ; Times: 2
+	Query: "country:Ecuador scientificname:Puma concolor " ; Times: 3
+	Query: "gbifdatasetid:c5c4a23e-2035-4416-ab64-032d6df52ddb" ; Times: 2
+	Query: "genus:rhabdomys country:&#34;kenya&#34;" ; Times: 3
+	Query: "90043" ; Times: 4
+	Query: "country:Ecuador scientificname:Platyrrhinus infuscus " ; Times: 1
+	Query: "genus:Scalopus stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1940 year &lt;= 1949 institutioncode:ROM" ; Times: 1
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 1
+	Query: "Pompeya Sur institutioncode:ROM" ; Times: 2
+	Query: "Rio Capiron genus:Neacomys institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes stateprovince:&#34;Northwest Territories&#34; country:&#34;Canada&#34; (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1950 year &lt;= 1959 institutioncode:ROM" ; Times: 1
+	Query: "genus:Dugong preparations:Skull" ; Times: 2
+	Query: "14616" ; Times: 1
+	Query: "genus:Typhlomys" ; Times: 1
+	Query: "genus:praomys country:&#34;kenya&#34;" ; Times: 2
+	Query: "order:Carnivora country:&#34;Colombia&#34;" ; Times: 1
+	Query: "20055" ; Times: 1
+	Query: "specificepithet:megalotis genus:Otocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "specificepithet:gambiensis genus:Nycteris order:Chiroptera" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1970 year &lt;= 1979 institutioncode:ROM" ; Times: 1
+	Query: "83545" ; Times: 1
+	Query: "country:Ecuador scientificname:Micronycteris hirsuta " ; Times: 2
+	Query: "leopardus pardalis" ; Times: 3
+	Query: "19663" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1950 year &lt;= 1959 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:tragata genus:Nycteris hastissue:1" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes country:&#34;Canada&#34; (skull OR skeleton) AND (NOT fossil) year &gt;= 1840 year &lt;= 1899" ; Times: 1
+	Query: "priodontes" ; Times: 2
+	Query: "genus:Metachirus country:&#34;Guyana&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1990 year &lt;= 1999 institutioncode:ROM" ; Times: 1
+	Query: "Echimys saturnus" ; Times: 2
+	Query: "nelsoni Kern" ; Times: 1
+	Query: "addax" ; Times: 1
+	Query: "country:Ecuador scientificname:Thyroptera tricolor " ; Times: 1
+	Query: "Ailuropoda" ; Times: 10
+	Query: "W73-1" ; Times: 4
+	Query: "country:Ecuador scientificname:Molossus coibensis " ; Times: 1
+	Query: "rom 41279" ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis year &gt;= 1950 year &lt;= 1959 institutioncode:ROM" ; Times: 1
+	Query: "23651" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (captive OR zoo)" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis (zoo OR captive) institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1950 year &lt;= 1959 institutioncode:ROM" ; Times: 2
+	Query: "myrmecophaga tridactyla" ; Times: 2
+	Query: "specificepithet:pumilio genus:rhabdomys country:&#34;kenya&#34; institutioncode:ROM" ; Times: 2
+	Query: "&#34;Notiosorex&#34; &#34;Arizona&#34; &#34;Pima&#34;" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1940 year &lt;= 1949 institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen specificepithet:latrans genus:Canis country:&#34;Canada&#34; year &gt;= 1980 year &lt;= 1989 institutioncode:ROM" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 3
+	Query: "specificepithet:inflatus genus:Miniopterus country:&#34;Cameroon&#34; institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (captive OR zoo)" ; Times: 2
+	Query: "ROM 110544" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1980 year &lt;= 1989 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:megalotis genus:Otocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1960 year &lt;= 1969 institutioncode:ROM" ; Times: 1
+	Query: "53348" ; Times: 1
+	Query: "Vampyriscus brocki" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 2
+	Query: "country:Ecuador scientificname:Mesomys hispidus " ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1880 year &lt;= 1889 institutioncode:ROM" ; Times: 1
+	Query: "miniopterus inflatus" ; Times: 3
+	Query: "specificepithet:kappleri genus:dasypus preparations:skeleton" ; Times: 2
+	Query: "32863" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1990 year &lt;= 1999 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:capensis genus:pedetes country:&#34;kenya&#34;" ; Times: 2
+	Query: "genus:Myrmecophaga" ; Times: 1
+	Query: "country:Ecuador scientificname:Chiroderma trinitatum " ; Times: 2
+	Query: "cm 4597" ; Times: 1
+	Query: "genus:Neacomys catalognumber:106708 institutioncode:ROM" ; Times: 1
+	Query: "14651" ; Times: 1
+	Query: "Ototylomys" ; Times: 1
+	Query: "genus:Neacomys institutioncode:ROM" ; Times: 4
+	Query: "dusicyon" ; Times: 1
+	Query: "country:Ecuador scientificname:Vampyressa thyone " ; Times: 1
+	Query: "country:Ecuador scientificname:Molossops temminckii " ; Times: 1
+	Query: "vntype:specimen family:Canidae continent:Australia" ; Times: 1
+	Query: "specificepithet:Boylii county:&#34;San Luis Obispo&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Scolomys melanops " ; Times: 1
+	Query: "Phyllostomus latifolius" ; Times: 1
+	Query: "Pteronotus macleayii" ; Times: 2
+	Query: "37260" ; Times: 1
+	Query: "Myrmecophaga" ; Times: 2
+	Query: "specificepithet:mesomelas genus:Canis (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "39041" ; Times: 1
+	Query: "39043" ; Times: 1
+	Query: "65253" ; Times: 1
+	Query: "specificepithet:sp genus:grammomys country:&#34;kenya&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Heteromys australis " ; Times: 1
+	Query: "22740" ; Times: 1
+	Query: "13625" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "specificepithet:fallax genus:pelomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:anomalurus" ; Times: 4
+	Query: "catalognumber:121016" ; Times: 1
+	Query: "specificepithet:megalotis genus:Otocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "specificepithet:zerda genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "specificepithet:alpinus genus:Cuon (captive OR zoo)" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 2
+	Query: "Miniopterus africanus" ; Times: 1
+	Query: "specificepithet:emini genus:cricetomys" ; Times: 3
+	Query: "47680" ; Times: 1
+	Query: "class:Mammalia country:&#34;Nepal&#34; institutioncode:ROM" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "genus:Ailuropoda preparations:skull" ; Times: 5
+	Query: "genus:Didelphis stateprovince:&#34;Ontario&#34; institutioncode:ROM" ; Times: 1
+	Query: "104695" ; Times: 1
+	Query: "country:Ecuador scientificname:Trinycteris nicefori " ; Times: 2
+	Query: "vntype:specimen specificepithet:megalotis genus:Otocyon (skull OR skeleton)" ; Times: 1
+	Query: "20167" ; Times: 1
+	Query: "country:Ecuador scientificname:Macrophyllum macrophyllum " ; Times: 2
+	Query: "neotoma magister" ; Times: 9
+	Query: "genus:euphractus preparations:skeleton" ; Times: 16
+	Query: "Microtus californicus stephensi" ; Times: 1
+	Query: "country:Ecuador scientificname:Phylloderma stenops " ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1920 year &lt;= 1929" ; Times: 1
+	Query: "specificepithet:rosalia genus:lemniscomys country:&#34;kenya&#34; institutioncode:ROM" ; Times: 1
+	Query: "country:Ecuador scientificname:Philander andersoni " ; Times: 1
+	Query: "specificepithet:affinis genus:Rhinolophus coordinateuncertaintyinmeters&lt;25" ; Times: 12
+	Query: "country:Ecuador scientificname:Choeroniscus minor " ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "myotis nesopolus" ; Times: 3
+	Query: "vntype:specimen specificepithet:lagopus genus:Vulpes family:Canidae (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) institutioncode:ROM" ; Times: 1
+	Query: "7111 genus:MYOTIS class:MAMMALIA" ; Times: 1
+	Query: "33717" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 2
+	Query: "vespertilio sinensis" ; Times: 4
+	Query: "99162" ; Times: 2
+	Query: "chaetophractus" ; Times: 3
+	Query: "24679" ; Times: 2
+	Query: "feline" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 7
+	Query: "Chironectes minimus" ; Times: 2
+	Query: "country:Ecuador scientificname:Thyroptera lavali " ; Times: 1
+	Query: "16129" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhinophylla pumilio " ; Times: 2
+	Query: "specificepithet:zerda genus:Vulpes (captive OR zoo)" ; Times: 1
+	Query: "specificepithet:jacksoni genus:praomys country:&#34;kenya&#34;" ; Times: 2
+	Query: "ROM inflatus" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1950 year &lt;= 1959 institutioncode:ROM" ; Times: 1
+	Query: "68499" ; Times: 1
+	Query: "catalognumber:100207 institutioncode:ROM" ; Times: 2
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1950 year &lt;= 1959" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1970 year &lt;= 1979 institutioncode:ROM" ; Times: 1
+	Query: "country:Ecuador scientificname:Eumops maurus " ; Times: 3
+	Query: "country:Ecuador scientificname:Rhinophylla fischerae " ; Times: 1
+	Query: "genus:priodontes preparations:skeleton" ; Times: 4
+	Query: "nelsoni kern" ; Times: 2
+	Query: "genus:Neacomys catalognumber:105619 institutioncode:ROM" ; Times: 1
+	Query: "24926" ; Times: 1
+	Query: "specificepithet:tropicalis genus:otomys country:&#34;kenya&#34;" ; Times: 2
+	Query: "49649-1" ; Times: 1
+	Query: "74358" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 166
+	Query: "country:&#34;Aruba&#34;" ; Times: 1
+	Query: "specificepithet:paedulcus genus:thallomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:venaticus genus:Speothos (captive OR zoo)" ; Times: 1
+	Query: "Nyctinomops laticaudatus" ; Times: 1
+	Query: "country:Ecuador scientificname:Proechimys simonsi " ; Times: 1
+	Query: "aonyx capensis" ; Times: 1
+	Query: "Dephomys" ; Times: 2
+	Query: "specificepithet:velox genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1900 year &lt;= 1909 institutioncode:ROM" ; Times: 1
+	Query: "Cuniculus paca" ; Times: 1
+	Query: "specificepithet:aurita genus:Nycteris order:Chiroptera" ; Times: 1
+	Query: "ROM 101970" ; Times: 5
+	Query: "country:Ecuador scientificname:Caluromys lanatus " ; Times: 2
+	Query: "catalognumber:24164" ; Times: 1
+	Query: "specificepithet:thous genus:Cerdocyon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "Lagidium viscacia" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon country:&#34;Mexico&#34; (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira ludovici " ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis year &gt;= 1940 year &lt;= 1949 institutioncode:ROM" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "specificepithet:tropicalis genus:otomys country:&#34;kenya&#34; institutioncode:ROM" ; Times: 2
+	Query: "Myotis nesopolus vntype:specimen institutioncode:ROM" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta fuliginosa " ; Times: 2
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Nycteris tragata" ; Times: 3
+	Query: "country:Ecuador scientificname:Mindomys hammondi " ; Times: 2
+	Query: "specificepithet:alpinus genus:Cuon (skull OR skeleton) AND (NOT captive OR zoo) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1990 year &lt;= 1999 institutioncode:ROM" ; Times: 1
+	Query: "vntype:specimen specificepithet:mesomelas genus:Canis family:Canidae (skull OR skeleton) institutioncode:ROM" ; Times: 1
+	Query: "genus:Neacomys catalognumber:108899 institutioncode:ROM" ; Times: 1
+	Query: "country:Ecuador scientificname:Micronycteris megalotis " ; Times: 3
+	Query: "locality:Cave stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Glyphonycteris daviesi " ; Times: 1
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 2
+	Query: "vntype:specimen specificepithet:lagopus genus:Vulpes family:Canidae (captive OR zoo)" ; Times: 1
+	Query: "22213" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 2000 year &lt;= 2009 institutioncode:ROM" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus brachycephalus " ; Times: 2
+	Query: "specificepithet:rattus genus:rattus country:&#34;kenya&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Sturnira magna " ; Times: 1
+	Query: "18318" ; Times: 1
+	Query: "Echimys chrysurus" ; Times: 2
+	Query: "Cuniculus paca colombia" ; Times: 2
+	Query: "Molossops temminckii" ; Times: 1
+	Query: "specificepithet:woodi genus:Nycteris order:Chiroptera" ; Times: 2
+	Query: "Otomops martiensseni" ; Times: 1
+	Query: "specificepithet:typus genus:otomys country:&#34;kenya&#34; institutioncode:ROM" ; Times: 2
+	Query: "country:Ecuador scientificname:Vampyrum spectrum " ; Times: 2
+	Query: "country:Ecuador scientificname:Lonchophylla chocoana " ; Times: 2
+	Query: "Bluejay" ; Times: 1
+	Query: "tadarida brasiliensis cynocephala" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes continent:Europe (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1950 year &lt;= 1959 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:106088 institutioncode:ROM" ; Times: 2
+	Query: "TTU Miniopterus" ; Times: 1
+	Query: "ROM 70851" ; Times: 2
+	Query: "country:Ecuador scientificname:Saccopteryx leptura " ; Times: 1
+	Query: "locality:hamilton river institutioncode:ROM" ; Times: 1
+	Query: "29686" ; Times: 1
+	Query: "catalognumber:100786 institutioncode:ROM" ; Times: 2
+	Query: "Mimon cozumelae" ; Times: 1
+	Query: "12781" ; Times: 2
+	Query: "19692" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "country:Ecuador scientificname:Myotis nigricans " ; Times: 1
+	Query: "catalognumber:20886" ; Times: 1
+	Query: "country:Ecuador scientificname:Melanomys caliginosus " ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1980 year &lt;= 1989 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes stateprovince:&#34;Nova Scotia&#34; country:&#34;Canada&#34; (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1950 year &lt;= 1959 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis year &gt;= 1920 year &lt;= 1929 institutioncode:ROM" ; Times: 1
+	Query: "mummy" ; Times: 5
+	Query: "Nycteris javanica" ; Times: 5
+	Query: "specificepithet:swinderianus genus:thryonomys" ; Times: 1
+	Query: "vntype:specimen specificepithet:latrans genus:Canis year &gt;= 1980 year &lt;= 1989 institutioncode:ROM" ; Times: 1
+	Query: "zoo vntype:specimen specificepithet:alpinus genus:Cuon family:Canidae (skull OR skeleton)" ; Times: 1
+	Query: "country:Ecuador scientificname:Chrotopterus auritus " ; Times: 1
+	Query: "country:Ecuador scientificname:Eumops auripendulus " ; Times: 1
+	Query: "Proechimys guyannensis" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira tildae " ; Times: 1
+	Query: "SP 3239" ; Times: 1
+	Query: "ROM 14964" ; Times: 1
+	Query: "country:Ecuador scientificname:Trachops cirrhosus " ; Times: 2
+	Query: "100529" ; Times: 1
+	Query: "Moschus moschiferus" ; Times: 1
+	Query: "vntype:specimen specificepithet:lagopus genus:Vulpes family:Canidae (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1960 year &lt;= 1969 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:capensis genus:pedetes country:&#34;kenya&#34; institutioncode:ROM" ; Times: 2
+	Query: "country:Ecuador scientificname:Platyrrhinus helleri " ; Times: 1
+	Query: "genus:Neacomys catalognumber:105314 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes stateprovince:&#34;Quebec&#34; country:&#34;Canada&#34; (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1950 year &lt;= 1959 institutioncode:ROM" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "Nycteris tragata tissue" ; Times: 1
+	Query: "catalognumber:27771" ; Times: 1
+	Query: "vntype:specimen specificepithet:lagopus genus:Vulpes family:Canidae (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1980 year &lt;= 1989 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 2000 year &lt;= 2009 institutioncode:ROM" ; Times: 1
+	Query: "76389" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis year &gt;= 1910 year &lt;= 1919 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1930 year &lt;= 1939 institutioncode:ROM" ; Times: 1
+	Query: "sylvilagus andinus" ; Times: 1
+	Query: "&#34;Notiosorex&#34; (Arizona)" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes (captive OR zoo)" ; Times: 1
+	Query: "42239" ; Times: 1
+	Query: "genus:priodontes preparations:skeleton institutioncode:ROM" ; Times: 1
+	Query: "country:Ecuador scientificname:Molossus rufus " ; Times: 3
+	Query: "specificepithet:javanica genus:Nycteris order:Chiroptera" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon country:&#34;Canada&#34; (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes stateprovince:&#34;Manitoba&#34; country:&#34;Canada&#34; (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1950 year &lt;= 1959 institutioncode:ROM" ; Times: 1
+	Query: "catalognumber:13864 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:pumilio genus:rhabdomys country:&#34;kenya&#34;" ; Times: 2
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 2
+	Query: "vntype:specimen specificepithet:lagopus genus:Vulpes family:Canidae (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1970 year &lt;= 1979 institutioncode:ROM" ; Times: 1
+	Query: "pudu pudu" ; Times: 2
+	Query: "56062" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1940 year &lt;= 1949 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes (captive OR zoo) year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "catalognumber:100786 institutioncode:rom" ; Times: 2
+	Query: "specificepithet:septemcinctus genus:dasypus preparations:skeleton" ; Times: 1
+	Query: "Miniopterus inflatus rufus" ; Times: 1
+	Query: "Macrophyllum macrophyllum" ; Times: 1
+	Query: "genus:Neacomys catalognumber:118892 institutioncode:ROM" ; Times: 1
+	Query: "genus:euphractus preparations:skeleton institutioncode:ROM" ; Times: 1
+	Query: "Glyphonycteris sylvestris" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (captive OR zoo) institutioncode:ROM" ; Times: 1
+	Query: "100446" ; Times: 2
+	Query: "genus:thallomys country:&#34;kenya&#34;" ; Times: 1
+	Query: "GLYPHONYCTERIS" ; Times: 1
+	Query: "vntype:specimen specificepithet:lagopus genus:Vulpes family:Canidae (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1940 year &lt;= 1959 institutioncode:ROM" ; Times: 1
+	Query: "specificepithet:glaber genus:heterocephalus country:&#34;kenya&#34;" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 977 download events in this period)
+Total number of records downloaded: 6832
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 24
+	Country: Colombia ; Times: 4
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Chile ; Times: 11
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 1
+	Date: 2018-07-11 ; Times: 1
+	Date: 2018-07-07 ; Times: 2
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-09 ; Times: 1
+	Date: 2018-07-15 ; Times: 2
+	Date: 2018-07-14 ; Times: 1
+	Date: 2018-07-22 ; Times: 1
+	Date: 2018-07-05 ; Times: 1
+	Date: 2018-07-06 ; Times: 7
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-26 ; Times: 4
+	Date: 2018-07-24 ; Times: 5
+	Date: 2018-07-03 ; Times: 1
+	Date: 2018-07-19 ; Times: 9
+	Date: 2018-07-30 ; Times: 3
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-25 ; Times: 1
+	Date: 2018-07-20 ; Times: 5
+	Date: 2018-07-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Chihuahua" ; Times: 1
+	Query: "Dendrolagus matschiei" ; Times: 1
+	Query: "Brachyphylla cavernarum" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "Molossops temminckii" ; Times: 1
+	Query: "Miniopterus africanus" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "Phyllostomus latifolius" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 1
+	Query: "Lophostoma evotis" ; Times: 1
+	Query: "class:Mammalia country:&#34;Nepal&#34; institutioncode:ROM" ; Times: 1
+	Query: "Stenoderma rufum" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "Carollia perspicillata" ; Times: 1
+	Query: "specificepithet:polionotus genus:peromyscus county:&#34;johns&#34; stateprovince:&#34;florida&#34;" ; Times: 2
+	Query: "&#34;Lepus americanus&#34; stateprovince:&#34;Wisconsin&#34; OR &#34;Minnesota&#34; preparations:skin" ; Times: 2
+	Query: "specificepithet:keeni genus:peromyscus stateprovince:&#34;British columbia&#34;" ; Times: 1
+	Query: "country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "Chiroderma improvisum" ; Times: 1
+	Query: "Vampyriscus brocki" ; Times: 1
+	Query: "Santa Catarina" ; Times: 1
+	Query: "ROM inflatus Cameroon" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 6
+	Query: "Sturnira thomasi" ; Times: 1
+	Query: "Anoura" ; Times: 1
+	Query: "Miniopterus inflatus rufus" ; Times: 1
+	Query: "Macrophyllum macrophyllum" ; Times: 1
+	Query: "Glyphonycteris sylvestris" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 1
+	Query: "Chironectes" ; Times: 1
+	Query: "Mimon cozumelae" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Pygoderma bilabiatum" ; Times: 1
+	Query: "Ailuropoda" ; Times: 2
+	Query: "country:&#34;Aruba&#34;" ; Times: 1
+	Query: "Dendrolagus lumholtzi" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "Vampyressa pusilla" ; Times: 1
+	Query: "specificepithet:AURICULUS genus:MYOTIS" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+	Query: "Nyctinomops laticaudatus" ; Times: 1
+
+
+End of report.
